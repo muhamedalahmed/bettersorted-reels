@@ -2,12 +2,24 @@
   "eyebrow": "LOKALE KI",
   "title": "Wo lokale KI [hilft]",
   "items": [
-    {"t": 0.9, "title": "Dokumente", "sub": "Verträge & Angebote auswerten"},
-    {"t": 1.5, "title": "E-Mails", "sub": "Antworten vorschreiben lassen"},
-    {"t": 2.1, "title": "Telefon", "sub": "Anrufe annehmen & notieren"}
+    {
+      "t": 1.38,
+      "title": "Dokumente",
+      "sub": "Verträge & Angebote auswerten"
+    },
+    {
+      "t": 2.2,
+      "title": "E-Mails",
+      "sub": "Antworten vorschreiben lassen"
+    },
+    {
+      "t": 2.95,
+      "title": "Telefon",
+      "sub": "Anrufe annehmen & notieren"
+    }
   ],
-  "punch_t": 2.8,
+  "punch_t": 3.85,
   "punch": "Ihre Daten bleiben [im Haus.]",
   "punch_sub": "Läuft auf Ihrem eigenen Server – DSGVO-konform.",
-  "duration": 5.6
+  "duration": 6.2
 }

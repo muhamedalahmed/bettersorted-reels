@@ -71,11 +71,11 @@ def main(spec_path, out, voice=None):
     music = os.path.join(HERE, "assets", "sound.wav")
     if voice:
         cmd += ["-i", voice, "-i", music, "-filter_complex",
-                "[1:a]apad,volume=1.0[v];[2:a]volume=0.12,afade=t=out:st=%.2f:d=0.5[m];[v][m]amix=inputs=2:duration=first:normalize=0[a]" % (dur - 0.5),
+                "[1:a]apad,volume=1.0[v];[2:a]volume=0.12,afade=t=out:st=%.2f:d=0.5[m];[v][m]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]" % (dur - 0.5),
                 "-map", "0:v", "-map", "[a]"]
     else:
         cmd += ["-i", music, "-filter_complex", "[1:a]volume=0.35,afade=t=out:st=%.2f:d=0.5[a]" % (dur - 0.5), "-map", "0:v", "-map", "[a]"]
-    cmd += ["-t", f"{dur:.2f}", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "18", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", out]
+    cmd += ["-t", f"{dur:.2f}", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "18", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", out]
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     n = int(dur * FPS)
     for i in range(n):
