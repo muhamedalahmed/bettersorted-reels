@@ -1,0 +1,13 @@
+{
+  "slug": "gpt6-was-kmu-wissen-muessen",
+  "format": "portrait",
+  "slides": [
+    {"type": "cover", "tag": "NEU SEIT 7. OKTOBER", "title": "GPT-6 ist da. Was heißt das für [Ihren Betrieb?]", "sub": "5 Dinge, die KMU jetzt wissen sollten →"},
+    {"type": "list", "eyebrow": "DAS IST NEU", "title": "Antworten zum Anfassen", "items": ["Diagramme, Formulare und kleine Rechner direkt im Chat", "Die Antwort startet, während das Modell noch nachdenkt", "Bessere Websuche mit verlässlicheren Quellen"]},
+    {"type": "stat", "value": "Kostenlos", "label": "GPT-6 gibt es auch im Gratis-Tarif. Ihr Team kann es ab sofort nutzen – mit oder ohne Ihr Wissen."},
+    {"type": "list", "eyebrow": "IM ALLTAG", "title": "Wo es Zeit spart", "items": ["Kalkulation als kleiner Rechner im Chat", "Auswertungen direkt als Diagramm", "Checklisten und Formulare für Abläufe"]},
+    {"type": "versus", "title": "Die Kehrseite", "before": "Kundendaten landen im privaten Gratis-Account", "after_label": "BESSER", "after": "Klare KI-Regeln und eine datenschutzkonforme Lösung"},
+    {"type": "list", "eyebrow": "DIESE WOCHE", "title": "3 Schritte für Ihren Betrieb", "items": ["KI-Regeln: Was darf in ChatGPT, was nicht?", "Team schulen – KI-Kompetenz ist seit Feb. 2025 Pflicht (AI Act, Art. 4)", "Sensible Daten nur in geschützte Umgebungen"], "numbered": true},
+    {"type": "cta", "badge": "Bis zu 80 % gefördert", "title": "KI sicher im [Team einführen?]", "sub": "Kostenloses Erstgespräch: Wir sortieren mit Ihnen, was GPT-6 für Ihren Betrieb bedeutet."}
+  ]
+}
