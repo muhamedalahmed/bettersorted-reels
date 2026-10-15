@@ -151,12 +151,12 @@ def slide(spec, W, H, i, n, logos):
              acc=SKY if dark else BLUE, rule=DARK_RULE if dark else RULE, dark=dark)
     img = Image.new("RGBA", (W, H), c["bg"] + (255,))
     if not dark: img.alpha_composite(soft_tint(W, H))
-    if spec.get("motif", True): img.alpha_composite(motif(W, H, dark, strong=t in ("cover", "cta")))
-    CW = W - 2 * ML; blocks = []; center = t in ("cover", "stat", "cta", "quote")
+    if spec.get("motif", True): img.alpha_composite(motif(W, H, dark, strong=t in ("cover", "cta", "ask")))
+    CW = W - 2 * ML; blocks = []; center = t in ("cover", "stat", "cta", "quote", "ask")
     if t == "cover":
         if spec.get("tag"): blocks.append((eyebrow(spec["tag"], c["acc"], c["acc"]), 0, 40))
         blocks.append((text_block(spec["title"], fit_font(spec["title"], "InterDisplay-Bold.otf", 116, CW), CW, c["ink"], c["acc"], lh=1.04), 0, 44))
-        if spec.get("sub"): blocks.append((text_block(spec["sub"], F("Inter-Regular.otf", 42), CW - 60, c["sub"], c["acc"], lh=1.35), 0, 0))
+        if spec.get("sub"): blocks.append((text_block(spec["sub"], F("Inter-Regular.otf", 42), CW - 300, c["sub"], c["acc"], lh=1.35), 0, 0))  # links vom Motiv
     elif t == "list":
         if spec.get("eyebrow"): blocks.append((eyebrow(spec["eyebrow"], c["acc"], c["acc"]), 0, 28))
         blocks.append((text_block(spec["title"], fit_font(spec["title"], "InterDisplay-Bold.otf", 80, CW), CW, c["ink"], c["acc"], lh=1.06), 0, 56))
@@ -205,6 +205,12 @@ def slide(spec, W, H, i, n, logos):
         d.line((ax + 14, ay + 12, ax + 26, ay), fill=(255, 255, 255) if not dark else NAVY, width=4)
         blocks.append((btn, 0, 44))
         blocks.append((text_block(spec.get("trust", "BAFA-zugelassen · Autorisierter INQA-Coach · Schwerin"), F("Inter-Regular.otf", 30), CW, c["sub"], c["acc"]), 0, 0))
+    elif t == "ask":  # persönlicher Abschluss: Frage an die Leser statt Verkaufs-Button
+        if spec.get("badge"): blocks.append((eyebrow(spec["badge"], c["acc"], c["acc"]), 0, 40))
+        blocks.append((text_block(spec["title"], fit_font(spec["title"], "InterDisplay-Bold.otf", 96, CW), CW, c["ink"], c["acc"], lh=1.06), 0, 36))
+        if spec.get("sub"): blocks.append((text_block(spec["sub"], F("Inter-Regular.otf", 42), CW - 300, c["sub"], c["acc"], lh=1.35), 0, 64))
+        blocks.append((rule(120, c["acc"], 4), 0, 30))
+        blocks.append((text_block(spec.get("sign", "Muhamed Alahmed · bettersorted · Schwerin"), F("Inter-Medium.otf", 34), CW, c["sub"], c["acc"]), 0, 0))
     else:
         raise ValueError("Unbekannter Slide-Typ: " + t)
     top = 230 if not center else 200

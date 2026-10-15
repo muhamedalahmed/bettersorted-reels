@@ -1,0 +1,58 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "WISSEN IM BETRIEB",
+   "title": "[Fragen] statt suchen",
+   "sub": "Dokumente mit KI durchsuchen – ohne Cloud →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "SO FUNKTIONIERT ES",
+   "title": "In [4 Schritten]",
+   "numbered": true,
+   "items": [
+    "Dokumente digital ablegen",
+    "KI bereitet sie für die Suche auf",
+    "Team fragt in normaler Sprache",
+    "Antwort kommt mit Quelle zum Nachprüfen"
+   ]
+  },
+  {
+   "type": "versus",
+   "title": "Der Unterschied",
+   "before_label": "VORHER",
+   "before": "20 Minuten in Ordnern und Laufwerken suchen",
+   "after_label": "MIT KI-SUCHE",
+   "after": "Frage stellen, Antwort mit Fundstelle in Sekunden"
+  },
+  {
+   "type": "list",
+   "eyebrow": "WO ES HILFT",
+   "title": "Typische Einsätze",
+   "items": [
+    "Handbücher und Arbeitsanweisungen",
+    "Vorschriften und Richtlinien",
+    "Verträge und Protokolle"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "DATENSCHUTZ",
+   "title": "Bleibt [im Haus]",
+   "items": [
+    "Offene Werkzeuge, kein Anbieter-Lock-in",
+    "Eigener Server oder deutsches Rechenzentrum",
+    "Zugriffsrechte wie im bisherigen Laufwerk"
+   ]
+  },
+  {
+   "type": "ask",
+   "badge": "IHRE MEINUNG",
+   "title": "In welchen Dokumenten suchen Sie [am häufigsten?]",
+   "sub": "Ich bin gespannt auf Ihre Antworten."
+  }
+ ],
+ "slug": "profil-15-dokumentensuche"
+}

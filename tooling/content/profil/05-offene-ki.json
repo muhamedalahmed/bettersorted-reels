@@ -1,0 +1,52 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "OPEN SOURCE",
+   "title": "Warum wir auf [offene KI] setzen",
+   "sub": "4 Gründe für den Mittelstand – und eine ehrliche Grenze →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "GRUND 1",
+   "title": "Die Daten bleiben [im Haus]",
+   "items": [
+    "KI läuft auf dem eigenen Server oder im deutschen Rechenzentrum",
+    "Kundendaten verlassen nie den eigenen Einflussbereich",
+    "Leichter DSGVO-konform umzusetzen"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "GRUND 2 & 3",
+   "title": "Unabhängig und [austauschbar]",
+   "items": [
+    "Kein Anbieter kann morgen Preise oder Regeln ändern",
+    "Kommt ein besseres Modell, wird es einfach getauscht",
+    "Der Quellcode ist offen und prüfbar"
+   ]
+  },
+  {
+   "type": "stat",
+   "eyebrow": "GRUND 4",
+   "value": "0 €",
+   "label": "Lizenzkosten pro Kopf für offene Modelle. Sie zahlen für Betrieb und Einrichtung – nicht für jede Person im Team."
+  },
+  {
+   "type": "versus",
+   "title": "Ehrlich gesagt",
+   "before_label": "CLOUD-MODELLE",
+   "before": "Stärker bei sehr komplexen Analysen und Spezialaufgaben",
+   "after_label": "OFFENE MODELLE",
+   "after": "Reichen für den Alltag: Dokumente, E-Mails, Wissen, Telefon"
+  },
+  {
+   "type": "ask",
+   "badge": "IHRE MEINUNG",
+   "title": "Was hält Sie von [eigener KI] ab?",
+   "sub": "Technik, Kosten oder Zeit? Schreiben Sie es in die Kommentare."
+  }
+ ],
+ "slug": "profil-05-offene-ki"
+}

@@ -1,0 +1,17 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "list",
+   "title": "3 KI-Regeln fürs [Team]",
+   "numbered": true,
+   "items": [
+    "Keine Kundennamen, Verträge oder Gesundheitsdaten in Gratis-Tools",
+    "Ein freigegebenes KI-Tool für alle statt privater Accounts",
+    "KI schreibt den Entwurf – ein Mensch prüft und schickt ab"
+   ],
+   "note": "Seit Februar 2025 Pflicht: KI-Kompetenz im Team (AI Act, Art. 4)."
+  }
+ ],
+ "slug": "profil-02-ki-regeln"
+}

@@ -1,0 +1,56 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDERUNG",
+   "title": "KI-Coaching für [20 % der Kosten]",
+   "sub": "So funktioniert das INQA-Coaching →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "WER GEFÖRDERT WIRD",
+   "title": "Die Voraussetzungen",
+   "items": [
+    "Weniger als 250 Beschäftigte",
+    "Höchstens 50 Mio. € Umsatz oder 43 Mio. € Bilanzsumme",
+    "Sitz und Arbeitsstätte in Deutschland"
+   ]
+  },
+  {
+   "type": "stat",
+   "eyebrow": "RECHENBEISPIEL",
+   "value": "2.880 €",
+   "label": "Eigenanteil bei 12 Coaching-Tagen à 1.200 €. Die übrigen 11.520 € (80 %) werden gefördert."
+  },
+  {
+   "type": "list",
+   "eyebrow": "ABLAUF",
+   "title": "In 3 Schritten zum Coaching",
+   "numbered": true,
+   "items": [
+    "Kostenloses Erstgespräch bei einer INQA-Beratungsstelle",
+    "Scheck erhalten und Coach wählen",
+    "Bis zu 12 Tage Coaching, abgeschlossen in 7 Monaten"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "TYPISCHE THEMEN",
+   "title": "Wofür Betriebe es nutzen",
+   "items": [
+    "KI-Einführung mit Team und Regeln",
+    "Abläufe digitalisieren und automatisieren",
+    "Mitarbeitende für KI fit machen"
+   ],
+   "note": "Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "ask",
+   "badge": "IHRE MEINUNG",
+   "title": "Kannten Sie diese [Förderung] schon?",
+   "sub": "Fragen dazu beantworte ich gern in den Kommentaren."
+  }
+ ],
+ "slug": "profil-09-inqa"
+}

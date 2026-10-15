@@ -1,0 +1,68 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "OPEN SOURCE",
+   "title": "Der offene [KI-Werkzeugkasten] für KMU",
+   "sub": "Alles selbst betreibbar – nichts schließt Sie ein →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "MODELLE",
+   "title": "Ollama",
+   "items": [
+    "Führt KI-Modelle auf dem eigenen Server aus",
+    "Modelle lassen sich jederzeit tauschen",
+    "Grundlage für alles Weitere"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "CHAT",
+   "title": "Open WebUI",
+   "items": [
+    "Eine Chat-Oberfläche wie ChatGPT – fürs ganze Team",
+    "Mit Benutzerkonten und Rechten",
+    "Daten bleiben auf Ihrem Server"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "AUTOMATISIERUNG",
+   "title": "n8n",
+   "items": [
+    "Verbindet E-Mail, CRM, Kalender und KI",
+    "Wiederkehrende Abläufe laufen von allein",
+    "Selbst gehostet betreibbar"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "DOKUMENTE",
+   "title": "Paperless-ngx",
+   "items": [
+    "Belege und Dokumente digital ablegen",
+    "Texterkennung und automatische Verschlagwortung",
+    "Alles in Sekunden wiederfinden"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "WISSEN & CHATBOTS",
+   "title": "Qdrant + Flowise",
+   "items": [
+    "Wissensdatenbank für Ihre Dokumente",
+    "Chatbots für Website und Team bauen",
+    "Antworten mit Quelle"
+   ]
+  },
+  {
+   "type": "ask",
+   "badge": "IHRE MEINUNG",
+   "title": "Welches Werkzeug [fehlt] in der Liste?",
+   "sub": "Offen bzw. quelloffen – jeweils mit eigener Lizenz. Speichern Sie den Beitrag für später."
+  }
+ ],
+ "slug": "profil-11-werkzeugkasten"
+}

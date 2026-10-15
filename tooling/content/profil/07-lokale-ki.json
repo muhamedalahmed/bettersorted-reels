@@ -1,0 +1,68 @@
+{
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "LOKALE KI",
+   "title": "5 Stellen, an denen Ihre Daten [im Haus bleiben]",
+   "sub": "KI auf dem eigenen Server – so hilft sie im Alltag →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "01 · DOKUMENTE",
+   "title": "Verträge & Angebote [auswerten]",
+   "items": [
+    "Fristen und Konditionen finden",
+    "Angebote zusammenfassen und vergleichen",
+    "Ohne dass Unterlagen in eine fremde Cloud gehen"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "02 · E-MAILS",
+   "title": "Antworten [vorschreiben] lassen",
+   "items": [
+    "Entwurf in Ihrem Ton, Sie prüfen und senden",
+    "Standardanfragen in Sekunden beantwortet",
+    "Kundendaten bleiben auf Ihrem Server"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "03 · TELEFON",
+   "title": "Anrufe annehmen & [notieren]",
+   "items": [
+    "Auch nach Feierabend erreichbar",
+    "Anliegen als Notiz direkt im Postfach",
+    "Mit Hinweis, dass eine KI spricht"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "04 · WISSEN",
+   "title": "Handbücher & Vorgaben [durchsuchen]",
+   "items": [
+    "Fragen in normaler Sprache stellen",
+    "Antwort mit Quelle zum Nachprüfen",
+    "Neue Mitarbeitende finden sich schneller zurecht"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "05 · BERICHTE",
+   "title": "Aus einer [Sprachnachricht]",
+   "items": [
+    "Auf der Baustelle kurz einsprechen",
+    "KI macht daraus einen sauberen Bericht",
+    "Spart Schreibarbeit am Abend"
+   ]
+  },
+  {
+   "type": "ask",
+   "badge": "IHRE MEINUNG",
+   "title": "Welche Daten würden Sie [nie] in die Cloud geben?",
+   "sub": "Ich bin gespannt auf Ihre Antworten."
+  }
+ ],
+ "slug": "profil-07-lokale-ki"
+}
