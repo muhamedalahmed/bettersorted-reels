@@ -50,12 +50,12 @@ def load_logo(height, on_dark=False):
     im = im.crop(im.getbbox())
     return im.resize((int(im.width * height / im.height), height), Image.LANCZOS)
 
-def motif(W, H, dark):
+def motif(W, H, dark, strong=False):
     """Logo-Element (Knoten + Linien) groß und dezent rechts unten – scharf, nicht weichgezeichnet."""
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-    col = (SKY + (34,)) if dark else (BLUE + (30,))
-    ox, oy = W - 250, H - 560
-    s = 1.0
+    col = (SKY + (34,)) if dark else ((SKY + (85,)) if strong else (BLUE + (30,)))
+    ox, oy = (W - 300, H - 430) if strong else (W - 250, H - 560)
+    s = 0.85 if strong else 1.0
     pts = [(ox + int(330 * s), oy - int(250 * s)), (ox + int(390 * s), oy), (ox + int(330 * s), oy + int(250 * s))]
     for nx, ny in pts:
         d.line((ox, oy, nx, ny), fill=col, width=16)
@@ -145,13 +145,13 @@ def list_rows(items, numbered, CW, c):
 
 def slide(spec, W, H, i, n, logos):
     t = spec["type"]
-    theme = spec.get("theme") or ("dark" if t in ("cover", "cta") else "light")
+    theme = spec.get("theme") or "light"
     dark = theme == "dark"
     c = dict(bg=NAVY if dark else PAPER, ink=(255, 255, 255) if dark else INK, sub=DARK_SUB if dark else GREY,
              acc=SKY if dark else BLUE, rule=DARK_RULE if dark else RULE, dark=dark)
     img = Image.new("RGBA", (W, H), c["bg"] + (255,))
     if not dark: img.alpha_composite(soft_tint(W, H))
-    if spec.get("motif", True): img.alpha_composite(motif(W, H, dark))
+    if spec.get("motif", True): img.alpha_composite(motif(W, H, dark, strong=t in ("cover", "cta")))
     CW = W - 2 * ML; blocks = []; center = t in ("cover", "stat", "cta", "quote")
     if t == "cover":
         if spec.get("tag"): blocks.append((eyebrow(spec["tag"], c["acc"], c["acc"]), 0, 40))
@@ -197,12 +197,12 @@ def slide(spec, W, H, i, n, logos):
         bf = F("Inter-SemiBold.otf", 44); label = spec.get("button", "bettersorted.de")
         bw = int(bf.getlength(label) + 2 * 44 + 50); asc, desc = bf.getmetrics(); bh = asc + desc + 44
         btn = Image.new("RGBA", (bw, bh), (0, 0, 0, 0)); d = ImageDraw.Draw(btn)
-        d.rounded_rectangle((0, 0, bw - 1, bh - 1), 8, fill=c["acc"])
-        d.text((44, 18), label, font=bf, fill=NAVY if dark else (255, 255, 255))
+        d.rounded_rectangle((0, 0, bw - 1, bh - 1), 12, fill=NAVY if not dark else c["acc"])
+        d.text((44, 18), label, font=bf, fill=(255, 255, 255) if not dark else NAVY)
         ax = bw - 64; ay = bh // 2
-        d.line((ax, ay, ax + 26, ay), fill=NAVY if dark else (255, 255, 255), width=4)
-        d.line((ax + 14, ay - 12, ax + 26, ay), fill=NAVY if dark else (255, 255, 255), width=4)
-        d.line((ax + 14, ay + 12, ax + 26, ay), fill=NAVY if dark else (255, 255, 255), width=4)
+        d.line((ax, ay, ax + 26, ay), fill=(255, 255, 255) if not dark else NAVY, width=4)
+        d.line((ax + 14, ay - 12, ax + 26, ay), fill=(255, 255, 255) if not dark else NAVY, width=4)
+        d.line((ax + 14, ay + 12, ax + 26, ay), fill=(255, 255, 255) if not dark else NAVY, width=4)
         blocks.append((btn, 0, 44))
         blocks.append((text_block(spec.get("trust", "BAFA-zugelassen · Autorisierter INQA-Coach · Schwerin"), F("Inter-Regular.otf", 30), CW, c["sub"], c["acc"]), 0, 0))
     else:
