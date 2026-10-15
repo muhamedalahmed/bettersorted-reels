@@ -1,0 +1,12 @@
+{
+  "slug": "ai-act-kennzeichnung-kmu",
+  "format": "portrait",
+  "slides": [
+    {"type": "cover", "tag": "EU AI ACT · SEIT 2. AUGUST", "title": "Müssen Sie Ihre KI jetzt [kennzeichnen?]", "sub": "Was seit August für KMU gilt →"},
+    {"type": "list", "eyebrow": "DAS GILT", "title": "Transparenzpflichten nach Art. 50", "items": ["Chatbots müssen sich als KI zu erkennen geben", "Deepfakes (Bild, Video, Ton) müssen gekennzeichnet sein", "KI-Texte zu Themen von öffentlichem Interesse kennzeichnen – außer bei redaktioneller Prüfung"]},
+    {"type": "list", "eyebrow": "IM BETRIEB", "title": "Wo es Sie betrifft", "items": ["Chatbot auf der Website", "KI-Telefonassistent am Empfang", "KI-generierte Bilder in Werbung und Social Media"]},
+    {"type": "stat", "value": "15 Mio. €", "label": "oder 3 % des Jahresumsatzes: Bußgeldrahmen bei Verstößen. Für KMU gilt jeweils der niedrigere Wert."},
+    {"type": "list", "eyebrow": "SO GEHT'S", "title": "In 3 Schritten sauber", "items": ["Bestandsaufnahme: Wo setzen Sie KI ein?", "Hinweise ergänzen: Chatbot, Telefon, Bilder", "Team schulen – KI-Kompetenz ist seit Feb. 2025 Pflicht"], "numbered": true, "note": "Kein Rechtsrat – im Zweifel Fachanwalt oder IHK fragen."},
+    {"type": "cta", "badge": "Bis zu 80 % gefördert", "title": "KI einsetzen – [rechtssicher.]", "sub": "Kostenloses Erstgespräch: Wir prüfen mit Ihnen, wo Kennzeichnung nötig ist."}
+  ]
+}

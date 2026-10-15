@@ -3,10 +3,11 @@
 Aufruf:
     python3 render_slides.py <spec.json> <ausgabeordner>
 
-Designprinzipien (v2, Okt. 2026 – Mos Feedback „nicht KI-lastig, Logo kleiner“):
-- flache Flächen statt Verläufe/Glas/Schatten; helles Papier (#F4F3EF) und Navy (#1C1631) im Wechsel
+Designprinzipien (v3 = Mittelweg aus v1 und v2, Okt. 2026 – Mos Feedback „nicht KI-lastig, Logo kleiner“):
+- helle Fläche #F5F9FC mit sehr dezentem Lichtverlauf + Navy #1C1631 im Wechsel; Logo-Element groß & dezent im Hintergrund
+- helle Glas-Karten (weiß, feiner Rand, ohne Schatten) für Listen; keine Farbkleckse, keine Pillen
 - klare Typografie (Inter Display), viel Weißraum, feine Linien statt Karten, keine Pillen/Emojis
-- Logo klein (38 px) oben links; Fußzeile: bettersorted.de links, Seitenzahl „02 / 07“ rechts
+- Logo klein (40 px) oben links; Fußzeile: bettersorted.de links, Seitenzahl „02 / 07“ rechts
 
 Spec (Beispiel: content/karussell_beispiel.json):
 {
@@ -29,13 +30,13 @@ from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 NAVY = (28, 22, 49); BLUE = (63, 148, 198); SKY = (108, 207, 246)
-PAPER = (244, 243, 239); INK = (28, 22, 49); GREY = (98, 96, 112); RULE = (214, 212, 205)
+PAPER = (245, 249, 252); INK = (28, 22, 49); GREY = (88, 92, 110); RULE = (220, 230, 238)
 DARK_SUB = (190, 196, 210); DARK_RULE = (62, 56, 86)
 FD = "/usr/share/fonts/opentype/inter/"
 def F(name, size): return ImageFont.truetype(FD + name, size)
 SIZES = {"portrait": (1080, 1350), "square": (1080, 1080), "story": (1080, 1920)}
 ML = 96
-LOGO_H = 38
+LOGO_H = 40
 
 def load_logo(height, on_dark=False):
     a = np.asarray(Image.open(os.path.join(HERE, "assets", "logo.jpeg")).convert("RGB")).astype(np.float32)
@@ -48,6 +49,27 @@ def load_logo(height, on_dark=False):
     im = Image.fromarray(np.dstack([rgb, alpha * 255]).astype(np.uint8), "RGBA")
     im = im.crop(im.getbbox())
     return im.resize((int(im.width * height / im.height), height), Image.LANCZOS)
+
+def motif(W, H, dark):
+    """Logo-Element (Knoten + Linien) groß und dezent rechts unten – scharf, nicht weichgezeichnet."""
+    im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    col = (SKY + (34,)) if dark else (BLUE + (30,))
+    ox, oy = W - 250, H - 560
+    s = 1.0
+    pts = [(ox + int(330 * s), oy - int(250 * s)), (ox + int(390 * s), oy), (ox + int(330 * s), oy + int(250 * s))]
+    for nx, ny in pts:
+        d.line((ox, oy, nx, ny), fill=col, width=16)
+        r = 50; d.ellipse((nx - r, ny - r, nx + r, ny + r), outline=col, width=18)
+    d.line((ox + 70, oy - int(300 * s), ox + 70, oy + int(300 * s)), fill=col, width=16)
+    return im
+
+def soft_tint(W, H):
+    """Sehr dezenter Lichtverlauf oben rechts (Website-Anmutung), kein Farbklecks."""
+    y = np.linspace(0, 1, H)[:, None]; x = np.linspace(0, 1, W)[None, :]
+    a = np.clip((x * 0.9 + (1 - y) * 0.7) - 0.95, 0, 1) * 0.55
+    arr = np.zeros((H, W, 4), np.uint8); arr[..., 0], arr[..., 1], arr[..., 2] = SKY
+    arr[..., 3] = (a * 255).astype(np.uint8)
+    return Image.fromarray(arr, "RGBA")
 
 def tokens(markup):
     out, hi = [], False
@@ -102,20 +124,22 @@ def place(img, blocks, top, bottom, center):
         img.alpha_composite(im, (ML + xo, y)); y += im.height + gap
 
 def list_rows(items, numbered, CW, c):
+    """Helle Glas-Karten (weiß, feiner Rand, kein Schatten) mit Nummer bzw. Akzent-Punkt."""
     rows = []
-    fnum = F("InterDisplay-SemiBold.otf", 40); ftxt = F("Inter-Medium.otf", 42)
-    indent = 96 if numbered else 52
+    fnum = F("InterDisplay-SemiBold.otf", 38); ftxt = F("Inter-Medium.otf", 42)
+    indent = 120 if numbered else 84
     for k, it in enumerate(items):
-        txt = text_block(it, ftxt, CW - indent, c["ink"], c["acc"], lh=1.28)
-        h = txt.height + 56
-        row = Image.new("RGBA", (CW, h + 2), (0, 0, 0, 0)); d = ImageDraw.Draw(row)
-        d.line((0, 0, CW, 0), fill=c["rule"], width=2)
+        txt = text_block(it, ftxt, CW - indent - 36, c["ink"], c["acc"], lh=1.28)
+        h = txt.height + 64
+        row = Image.new("RGBA", (CW, h), (0, 0, 0, 0)); d = ImageDraw.Draw(row)
+        fill = (255, 255, 255, 235) if not c["dark"] else (255, 255, 255, 18)
+        border = (214, 228, 238, 255) if not c["dark"] else (255, 255, 255, 40)
+        d.rounded_rectangle((0, 0, CW - 1, h - 1), 22, fill=fill, outline=border, width=2)
         if numbered:
-            d.text((0, 26), f"{k + 1:02d}", font=fnum, fill=c["acc"])
+            d.text((36, 30), f"{k + 1:02d}", font=fnum, fill=c["acc"])
         else:
-            d.rectangle((0, 46, 14, 60), fill=c["acc"])
-        row.alpha_composite(txt, (indent, 28))
-        if k == len(items) - 1: d.line((0, h, CW, h), fill=c["rule"], width=2)
+            d.ellipse((38, 46, 54, 62), fill=c["acc"])
+        row.alpha_composite(txt, (indent, 32))
         rows.append(row)
     return rows
 
@@ -124,8 +148,10 @@ def slide(spec, W, H, i, n, logos):
     theme = spec.get("theme") or ("dark" if t in ("cover", "cta") else "light")
     dark = theme == "dark"
     c = dict(bg=NAVY if dark else PAPER, ink=(255, 255, 255) if dark else INK, sub=DARK_SUB if dark else GREY,
-             acc=SKY if dark else BLUE, rule=DARK_RULE if dark else RULE)
+             acc=SKY if dark else BLUE, rule=DARK_RULE if dark else RULE, dark=dark)
     img = Image.new("RGBA", (W, H), c["bg"] + (255,))
+    if not dark: img.alpha_composite(soft_tint(W, H))
+    if spec.get("motif", True): img.alpha_composite(motif(W, H, dark))
     CW = W - 2 * ML; blocks = []; center = t in ("cover", "stat", "cta", "quote")
     if t == "cover":
         if spec.get("tag"): blocks.append((eyebrow(spec["tag"], c["acc"], c["acc"]), 0, 40))
@@ -134,7 +160,7 @@ def slide(spec, W, H, i, n, logos):
     elif t == "list":
         if spec.get("eyebrow"): blocks.append((eyebrow(spec["eyebrow"], c["acc"], c["acc"]), 0, 28))
         blocks.append((text_block(spec["title"], fit_font(spec["title"], "InterDisplay-Bold.otf", 80, CW), CW, c["ink"], c["acc"], lh=1.06), 0, 56))
-        for r in list_rows(spec["items"], spec.get("numbered"), CW, c): blocks.append((r, 0, 0))
+        for r in list_rows(spec["items"], spec.get("numbered"), CW, c): blocks.append((r, 0, 18))
         if spec.get("note"):
             blocks[-1] = (blocks[-1][0], 0, 36)
             blocks.append((text_block(spec["note"], F("Inter-Regular.otf", 32), CW, c["sub"], c["acc"], lh=1.35), 0, 0))
