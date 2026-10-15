@@ -1,0 +1,13 @@
+{
+  "slug": "karussell-foerderung-ueberblick",
+  "format": "portrait",
+  "slides": [
+    {"type": "cover", "tag": "FÖRDERUNG", "title": "3 Fördertöpfe für [KI im Betrieb]", "sub": "Die meisten KMU kennen nur einen. Wischen Sie durch →"},
+    {"type": "list", "eyebrow": "TOPF 1", "title": "INQA-Coaching", "items": ["80 % der Beratungskosten übernimmt der Bund", "Für kleine und mittlere Unternehmen", "Den Antrag übernehmen wir"]},
+    {"type": "list", "eyebrow": "TOPF 2", "title": "BAFA-Beratungsförderung", "items": ["Bis zu 80 % Zuschuss zur Beratung", "Für KMU", "Wir sind BAFA-zugelassen"]},
+    {"type": "list", "eyebrow": "TOPF 3", "title": "Digitalisierungsförderung MV", "items": ["Bis zu 50 % Zuschuss", "Auch für KI und Automatisierung", "Für Betriebe in Mecklenburg-Vorpommern"], "note": "Fördersätze laut Programmrichtlinien. Verbindlich nur nach Einzelfallprüfung."},
+    {"type": "versus", "title": "Was das konkret heißt", "before": "KI-Projekt komplett selbst bezahlen", "after": "Nur einen Bruchteil selbst tragen"},
+    {"type": "stat", "value": "2.880 €", "label": "Eigenanteil bei 12 Beratungstagen INQA-Coaching (statt 14.400 €)"},
+    {"type": "cta", "badge": "Bis zu 80 % gefördert", "title": "Welcher Topf passt zu [Ihnen?]", "sub": "Förder-Check in 4 Fragen – oder kostenloses Erstgespräch, 30 Minuten."}
+  ]
+}
