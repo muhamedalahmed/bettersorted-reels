@@ -5,7 +5,7 @@
    "type": "cover",
    "tag": "ENTSCHEIDUNGSHILFE",
    "title": "Cloud oder lokal? [4 Fragen] helfen",
-   "sub": "Für die KI in Ihrem Betrieb →"
+   "sub": "Für die KI in deinem Betrieb →"
   },
   {
    "type": "list",
@@ -22,7 +22,7 @@
    "eyebrow": "FRAGE 3 & 4",
    "title": "Leistung und [Betrieb]",
    "items": [
-    "Brauchen Sie Spitzenleistung? Sehr komplexe Analysen → große Cloud-Modelle",
+    "Brauchst du Spitzenleistung? Sehr komplexe Analysen → große Cloud-Modelle",
     "Wer kümmert sich um die Technik? Ohne eigene IT → gehostet in der EU"
    ]
   },
@@ -36,10 +36,10 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "Wo stehen Sie gerade – [Cloud oder lokal?]",
-   "sub": "Oder noch unentschieden? Schreiben Sie es mir."
+   "badge": "DEINE MEINUNG",
+   "title": "Wo stehst du gerade – [Cloud oder lokal?]",
+   "sub": "Oder noch unentschieden? Schreib es mir."
   }
  ],
- "slug": "profil-13-cloud-oder-lokal"
+ "slug": "profil-13-cloud-oder-lokal-du"
 }

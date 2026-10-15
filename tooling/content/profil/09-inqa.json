@@ -47,10 +47,10 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "Kannten Sie diese [Förderung] schon?",
+   "badge": "DEINE MEINUNG",
+   "title": "Kanntest du diese [Förderung] schon?",
    "sub": "Fragen dazu beantworte ich gern in den Kommentaren."
   }
  ],
- "slug": "profil-09-inqa"
+ "slug": "profil-09-inqa-du"
 }

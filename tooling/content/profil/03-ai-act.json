@@ -1,11 +1,11 @@
 {
- "slug": "profil-03-ai-act",
+ "slug": "profil-03-ai-act-du",
  "format": "portrait",
  "slides": [
   {
    "type": "cover",
    "tag": "EU AI ACT · SEIT 2. AUGUST",
-   "title": "Müssen Sie Ihre KI jetzt [kennzeichnen?]",
+   "title": "Musst du deine KI jetzt [kennzeichnen?]",
    "sub": "Was seit August für KMU gilt →"
   },
   {
@@ -21,7 +21,7 @@
   {
    "type": "list",
    "eyebrow": "IM BETRIEB",
-   "title": "Wo es Sie betrifft",
+   "title": "Wo es dich betrifft",
    "items": [
     "Chatbot auf der Website",
     "KI-Telefonassistent am Empfang",
@@ -38,7 +38,7 @@
    "eyebrow": "SO GEHT'S",
    "title": "In 3 Schritten sauber",
    "items": [
-    "Bestandsaufnahme: Wo setzen Sie KI ein?",
+    "Bestandsaufnahme: Wo setzt du KI ein?",
     "Hinweise ergänzen: Chatbot, Telefon, Bilder",
     "Team schulen – KI-Kompetenz ist seit Feb. 2025 Pflicht"
    ],
@@ -47,9 +47,9 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "Wo sehen Kunden bei Ihnen [KI direkt?]",
-   "sub": "Chatbot, Telefon, Bilder? Schreiben Sie es in die Kommentare."
+   "badge": "DEINE MEINUNG",
+   "title": "Wo sehen Kunden bei dir [KI direkt?]",
+   "sub": "Chatbot, Telefon, Bilder? Schreib es in die Kommentare."
   }
  ]
 }

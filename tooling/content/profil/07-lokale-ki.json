@@ -4,7 +4,7 @@
   {
    "type": "cover",
    "tag": "LOKALE KI",
-   "title": "5 Stellen, an denen Ihre Daten [im Haus bleiben]",
+   "title": "5 Stellen, an denen deine Daten [im Haus bleiben]",
    "sub": "KI auf dem eigenen Server – so hilft sie im Alltag →"
   },
   {
@@ -22,9 +22,9 @@
    "eyebrow": "02 · E-MAILS",
    "title": "Antworten [vorschreiben] lassen",
    "items": [
-    "Entwurf in Ihrem Ton, Sie prüfen und senden",
+    "Entwurf in deinem Ton, du prüfst und sendest",
     "Standardanfragen in Sekunden beantwortet",
-    "Kundendaten bleiben auf Ihrem Server"
+    "Kundendaten bleiben auf deinem Server"
    ]
   },
   {
@@ -59,10 +59,10 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "Welche Daten würden Sie [nie] in die Cloud geben?",
-   "sub": "Ich bin gespannt auf Ihre Antworten."
+   "badge": "DEINE MEINUNG",
+   "title": "Welche Daten würdest du [nie] in die Cloud geben?",
+   "sub": "Ich bin gespannt auf deine Antworten."
   }
  ],
- "slug": "profil-07-lokale-ki"
+ "slug": "profil-07-lokale-ki-du"
 }

@@ -5,7 +5,7 @@
    "type": "cover",
    "tag": "OPEN SOURCE",
    "title": "Der offene [KI-Werkzeugkasten] für KMU",
-   "sub": "Alles selbst betreibbar – nichts schließt Sie ein →"
+   "sub": "Alles selbst betreibbar – nichts schließt dich ein →"
   },
   {
    "type": "list",
@@ -24,7 +24,7 @@
    "items": [
     "Eine Chat-Oberfläche wie ChatGPT – fürs ganze Team",
     "Mit Benutzerkonten und Rechten",
-    "Daten bleiben auf Ihrem Server"
+    "Daten bleiben auf deinem Server"
    ]
   },
   {
@@ -52,17 +52,17 @@
    "eyebrow": "WISSEN & CHATBOTS",
    "title": "Qdrant + Flowise",
    "items": [
-    "Wissensdatenbank für Ihre Dokumente",
+    "Wissensdatenbank für deine Dokumente",
     "Chatbots für Website und Team bauen",
     "Antworten mit Quelle"
    ]
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
+   "badge": "DEINE MEINUNG",
    "title": "Welches Werkzeug [fehlt] in der Liste?",
-   "sub": "Offen bzw. quelloffen – jeweils mit eigener Lizenz. Speichern Sie den Beitrag für später."
+   "sub": "Offen bzw. quelloffen – jeweils mit eigener Lizenz. Speicher dir den Beitrag für später."
   }
  ],
- "slug": "profil-11-werkzeugkasten"
+ "slug": "profil-11-werkzeugkasten-du"
 }

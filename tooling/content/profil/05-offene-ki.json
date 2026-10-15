@@ -31,7 +31,7 @@
    "type": "stat",
    "eyebrow": "GRUND 4",
    "value": "0 €",
-   "label": "Lizenzkosten pro Kopf für offene Modelle. Sie zahlen für Betrieb und Einrichtung – nicht für jede Person im Team."
+   "label": "Lizenzkosten pro Kopf für offene Modelle. Du zahlst für Betrieb und Einrichtung – nicht für jede Person im Team."
   },
   {
    "type": "versus",
@@ -43,10 +43,10 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "Was hält Sie von [eigener KI] ab?",
-   "sub": "Technik, Kosten oder Zeit? Schreiben Sie es in die Kommentare."
+   "badge": "DEINE MEINUNG",
+   "title": "Was hält dich von [eigener KI] ab?",
+   "sub": "Technik, Kosten oder Zeit? Schreib es in die Kommentare."
   }
  ],
- "slug": "profil-05-offene-ki"
+ "slug": "profil-05-offene-ki-du"
 }

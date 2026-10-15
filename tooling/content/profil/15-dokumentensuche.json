@@ -49,10 +49,10 @@
   },
   {
    "type": "ask",
-   "badge": "IHRE MEINUNG",
-   "title": "In welchen Dokumenten suchen Sie [am häufigsten?]",
-   "sub": "Ich bin gespannt auf Ihre Antworten."
+   "badge": "DEINE MEINUNG",
+   "title": "In welchen Dokumenten suchst du [am häufigsten?]",
+   "sub": "Ich bin gespannt auf deine Antworten."
   }
  ],
- "slug": "profil-15-dokumentensuche"
+ "slug": "profil-15-dokumentensuche-du"
 }
