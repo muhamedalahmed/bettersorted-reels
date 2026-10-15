@@ -151,3 +151,18 @@ datum,kanal,uhrzeit,format,serie,reel_id,titel,hook_typ,thema,video_datei,status
 09.12.2026,instagram,12:00,reel,loesungen/foerderung/tools,15,Keine IT-Abteilung nötig,aussage,,bettersorted-reel-15-keine-it-noetig.mp4,geplant
 09.12.2026,facebook,12:00,reel,loesungen/foerderung/tools,15,Keine IT-Abteilung nötig,aussage,,bettersorted-reel-15-keine-it-noetig.mp4,geplant
 09.12.2026,youtube,17:00,reel,loesungen/foerderung/tools,15,Keine IT-Abteilung nötig,aussage,,bettersorted-reel-15-keine-it-noetig.mp4,geplant
+2026-10-16,linkedin-profil,07:45,karussell,profil,Aktuelles,AI Act: Kennzeichnung,Frage,Aktuelles,media/profil-2026/03-ai-act,QUEUE
+2026-10-20,linkedin-profil,07:45,karussell,profil,Open Source,Lokale KI: 5 Stellen,Zitat,Open Source,media/profil-2026/07-lokale-ki,QUEUE
+2026-10-22,linkedin-profil,07:45,text,profil,Praxis,Woran KI-Projekte scheitern,Aussage,Praxis,,QUEUE
+2026-10-27,linkedin-profil,07:45,karussell,profil,Open Source,Offener KI-Werkzeugkasten,Liste,Open Source,media/profil-2026/11-werkzeugkasten,QUEUE
+2026-10-29,linkedin-profil,07:45,text,profil,Region,Einladung Netzwerktreffen,Aussage,Region,,QUEUE
+2026-11-03,linkedin-profil,07:45,karussell,profil,Open Source,Warum offene KI,Aussage,Open Source,media/profil-2026/05-offene-ki,QUEUE
+2026-11-05,linkedin-profil,07:45,text+foto,profil,Region,Rückblick Netzwerktreffen,Erlebnis,Region,,DRAFT
+2026-11-10,linkedin-profil,07:45,karussell,profil,Förderung,INQA-Coaching 80 %,Zahl,Förderung,media/profil-2026/09-inqa,QUEUE
+2026-11-12,linkedin-profil,07:45,text,profil,Mensch,Vom Code zum Kunden,Erlebnis,Mensch,,QUEUE
+2026-11-17,linkedin-profil,07:45,karussell,profil,Open Source,Cloud oder lokal?,Frage,Open Source,media/profil-2026/13-cloud-oder-lokal,QUEUE
+2026-11-19,linkedin-profil,07:45,text+bild,profil,Praxis,Ihr Team nutzt KI längst,Aussage,Praxis,media/profil-2026/02-ki-regeln,QUEUE
+2026-11-24,linkedin-profil,07:45,karussell,profil,Open Source,Fragen statt suchen,Vorher/Nachher,Open Source,media/profil-2026/15-dokumentensuche,QUEUE
+2026-11-26,linkedin-profil,07:45,text+foto,profil,Region,KI zum Anfassen #5,Erlebnis,Region,,DRAFT
+2026-12-03,linkedin-profil,07:45,text,profil,Meinung,"Erst Abläufe, dann Agenten",Meinung,Meinung,,QUEUE
+2026-12-10,linkedin-profil,07:45,text+foto,profil,Mensch,2026 in 5 Sätzen,Liste,Mensch,,DRAFT
