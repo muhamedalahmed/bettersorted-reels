@@ -229,7 +229,8 @@ def main(spec_path, out_dir):
     spec = json.load(open(spec_path, encoding="utf-8"))
     W, H = SIZES[spec.get("format", "portrait")]
     os.makedirs(out_dir, exist_ok=True)
-    logos = {"light": load_logo(LOGO_H), "dark": load_logo(LOGO_H, on_dark=True)}
+    lh = spec.get("logo_h", LOGO_H)  # optional größeres Logo pro Spec
+    logos = {"light": load_logo(lh), "dark": load_logo(lh, on_dark=True)}
     n = len(spec["slides"]); files = []
     for i, s in enumerate(spec["slides"], 1):
         p = os.path.join(out_dir, f"{spec['slug']}-{i:02d}.png"); slide(s, W, H, i, n, logos).save(p, optimize=True); files.append(p); print(p)

@@ -1,3 +1,13 @@
-{"slug":"profil-2026-10-17-opendesk","format":"portrait","slides":[
- {"type":"cover","tag":"OPEN SOURCE · NEWS","title":"openDesk öffnet sich für [Unternehmen]","sub":"Die souveräne Office-Suite der Verwaltung – jetzt über zugelassene IT-Partner"}
-]}
+{
+ "slug": "profil-2026-10-17-opendesk",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "OPEN SOURCE · NEWS",
+   "title": "openDesk öffnet sich für [Unternehmen]",
+   "sub": "Die souveräne Office-Suite der Verwaltung – jetzt über zugelassene IT-Partner"
+  }
+ ],
+ "logo_h": 64
+}
