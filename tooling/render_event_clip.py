@@ -47,11 +47,12 @@ def caption_img(markup):
     return im
 
 def header_img(spec):
-    im, d = card(W - 96, 248, 28, 240)
-    im.alpha_composite(load_logo(52), (40, 24))
-    d.text((40, 90), spec["title"], font=F("InterDisplay-Bold.otf", 52), fill=INK)
-    d.text((40, 156), spec["speaker"], font=F("Inter-SemiBold.otf", 30), fill=BLUE)
-    d.text((40, 196), spec["event"], font=F("Inter-Regular.otf", 30), fill=GREY)
+    logo = spec.get("header_logo", True); off = 0 if logo else -66
+    im, d = card(W - 96, 248 + off, 28, 240)
+    if logo: im.alpha_composite(load_logo(52), (40, 24))
+    d.text((40, 90 + off), spec["title"], font=F("InterDisplay-Bold.otf", 52), fill=INK)
+    d.text((40, 156 + off), spec["speaker"], font=F("Inter-SemiBold.otf", 30), fill=BLUE)
+    d.text((40, 196 + off), spec["event"], font=F("Inter-Regular.otf", 30), fill=GREY)
     return im
 
 def badge_img(big, small):
@@ -87,7 +88,7 @@ def fade_window(t, a, b, fin=0.32, fout=0.22):
 def main(spec_path, out):
     spec = json.load(open(spec_path, encoding="utf-8"))
     src = os.path.join(ROOT, spec["source"]); segs = spec["segments"]
-    m, total = build_map(segs); od = spec["outro"]["duration"]
+    m, total = build_map(segs); od = spec["outro"]["duration"] if spec.get("outro") else 0
     tmp = tempfile.mkdtemp(); base = f"{tmp}/base.mp4"
     # 1) Schnitt + Punch-in
     fc, cat = [], ""
@@ -113,6 +114,7 @@ def main(spec_path, out):
             fx.append((e["type"], [s2o(t, m) for t, _ in e["items"]], s2o(e["end"], m),
                        [pill_img(x, e["type"] == "checks") for _, x in e["items"]]))
     # Abspann
+    if not spec.get("outro"): spec["outro"] = {"line1": "", "line2": "", "url": ""}
     outro = Image.new("RGBA", (W, H), PAPER + (255,)); outro.alpha_composite(soft_tint(W, H)); outro.alpha_composite(motif(W, H, False, strong=True))
     o_logo = load_logo(120)
     o_l1 = F("InterDisplay-Bold.otf", 64); o_l2 = F("Inter-Regular.otf", 44); o_url = F("Inter-SemiBold.otf", 40)
@@ -170,6 +172,11 @@ def main(spec_path, out):
     # 4) Ton: Rede + Hausmusik im Abspann, normalisiert
     dur = n_main / FPS + od
     music = os.path.join(HERE, "assets", "sound.wav")
+    if od == 0:
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", f"{tmp}/video.mp4", "-i", f"{tmp}/base.mov", "-filter_complex",
+                        f"[0:v]fade=t=out:st={dur - 0.5:.2f}:d=0.5[v];[1:a]afade=t=out:st={dur - 0.5:.2f}:d=0.5,loudnorm=I=-14:TP=-1.5:LRA=11[a]", "-map", "[v]", "-map", "[a]",
+                        "-c:v", "libx264", "-crf", "19", "-preset", "slow", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", out], check=True)
+        return
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", f"{tmp}/video.mp4", "-i", f"{tmp}/base.mov", "-i", music, "-filter_complex",
                     f"[1:a]apad[sp];[2:a]volume=0.35,afade=t=in:d=0.3,afade=t=out:st={od - 0.7:.2f}:d=0.7,adelay={int(n_main / FPS * 1000)}|{int(n_main / FPS * 1000)}[mu];"
                     f"[sp][mu]amix=inputs=2:duration=longest:normalize=0,atrim=0:{dur:.2f},loudnorm=I=-14:TP=-1.5:LRA=11[a]",

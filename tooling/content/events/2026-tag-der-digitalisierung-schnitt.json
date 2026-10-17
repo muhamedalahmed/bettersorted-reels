@@ -3,27 +3,157 @@
   "title": "Open Source für 16.000 Lehrkräfte",
   "speaker": "Marco Anschütz · CIO des Landes MV",
   "event": "Tag der Digitalisierung 2026",
-  "segments": [[2.59, 9.12, 1.0], [9.70, 19.52, 1.12], [20.08, 23.62, 1.0], [24.33, 35.20, 1.12]],
+  "segments": [
+    [
+      2.59,
+      9.12,
+      1.0
+    ],
+    [
+      9.7,
+      19.52,
+      1.12
+    ],
+    [
+      20.08,
+      23.62,
+      1.0
+    ],
+    [
+      24.33,
+      35.2,
+      1.12
+    ]
+  ],
   "captions": [
-    [2.59, 4.70, "der geplante digitale Arbeitsplatz"],
-    [4.75, 7.30, "auf Basis von [Open Source]"],
-    [7.30, 9.12, "Plattform [openDesk] für die Schulen."],
-    [9.70, 12.10, "Für rund [16.000 Lehrkräfte] und Schulbeschäftigte"],
-    [12.10, 14.90, "sollen E-Mail, Kalender, Office-Anwendungen,"],
-    [14.90, 16.70, "Dateiablagen, gemeinsame Dokumentenarbeit"],
-    [16.70, 19.52, "zentral & geräteunabhängig verfügbar werden."],
-    [20.08, 23.62, "Der Vorbildcharakter liegt nicht allein in der Software."],
-    [24.33, 26.90, "Entscheidend ist, dass wir auf [offene Standards]"],
-    [26.90, 29.40, "eine [gemeinsam nutzbare] Lösung setzen."],
-    [29.40, 32.10, "Erfahrungen können geteilt, Anwendungen weiterentwickelt"],
-    [32.10, 35.20, "und [Abhängigkeiten] von einzelnen Anbietern verringert werden."]
+    [
+      2.59,
+      4.7,
+      "der geplante digitale Arbeitsplatz"
+    ],
+    [
+      4.75,
+      7.3,
+      "auf Basis von [Open Source]"
+    ],
+    [
+      7.3,
+      9.12,
+      "Plattform [openDesk] für die Schulen."
+    ],
+    [
+      9.7,
+      12.1,
+      "Für rund [16.000 Lehrkräfte] und Schulbeschäftigte"
+    ],
+    [
+      12.1,
+      14.9,
+      "sollen E-Mail, Kalender, Office-Anwendungen,"
+    ],
+    [
+      14.9,
+      16.7,
+      "Dateiablagen, gemeinsame Dokumentenarbeit"
+    ],
+    [
+      16.7,
+      19.52,
+      "zentral & geräteunabhängig verfügbar werden."
+    ],
+    [
+      20.08,
+      23.62,
+      "Der Vorbildcharakter liegt nicht allein in der Software."
+    ],
+    [
+      24.33,
+      26.9,
+      "Entscheidend ist, dass wir auf [offene Standards]"
+    ],
+    [
+      26.9,
+      29.4,
+      "eine [gemeinsam nutzbare] Lösung setzen."
+    ],
+    [
+      29.4,
+      32.1,
+      "Erfahrungen können geteilt, Anwendungen weiterentwickelt"
+    ],
+    [
+      32.1,
+      35.2,
+      "und [Abhängigkeiten] von einzelnen Anbietern verringert werden."
+    ]
   ],
   "effects": [
-    {"type": "badge", "t": 7.70, "end": 9.12, "big": "openDesk", "small": "Open-Source-Arbeitsplatz"},
-    {"type": "badge", "t": 10.00, "end": 12.10, "big": "16.000", "small": "Lehrkräfte & Schulbeschäftigte in MV"},
-    {"type": "pills", "end": 19.52, "items": [[12.45, "E-Mail"], [12.80, "Kalender"], [13.22, "Office"], [14.02, "Dateiablage"], [14.88, "Teamarbeit"]]},
-    {"type": "badge", "t": 25.95, "end": 29.40, "big": "Offene Standards", "small": "gemeinsam nutzbar"},
-    {"type": "checks", "end": 35.20, "items": [[29.42, "Erfahrungen teilen"], [30.74, "Gemeinsam weiterentwickeln"], [32.54, "Weniger Abhängigkeit"]]}
+    {
+      "type": "badge",
+      "t": 7.7,
+      "end": 9.12,
+      "big": "openDesk",
+      "small": "Open-Source-Arbeitsplatz"
+    },
+    {
+      "type": "badge",
+      "t": 10.0,
+      "end": 12.1,
+      "big": "16.000",
+      "small": "Lehrkräfte & Schulbeschäftigte in MV"
+    },
+    {
+      "type": "pills",
+      "end": 19.52,
+      "items": [
+        [
+          12.45,
+          "E-Mail"
+        ],
+        [
+          12.8,
+          "Kalender"
+        ],
+        [
+          13.22,
+          "Office"
+        ],
+        [
+          14.02,
+          "Dateiablage"
+        ],
+        [
+          14.88,
+          "Teamarbeit"
+        ]
+      ]
+    },
+    {
+      "type": "badge",
+      "t": 25.95,
+      "end": 29.4,
+      "big": "Offene Standards",
+      "small": "gemeinsam nutzbar"
+    },
+    {
+      "type": "checks",
+      "end": 35.2,
+      "items": [
+        [
+          29.42,
+          "Erfahrungen teilen"
+        ],
+        [
+          30.74,
+          "Gemeinsam weiterentwickeln"
+        ],
+        [
+          32.54,
+          "Weniger Abhängigkeit"
+        ]
+      ]
+    }
   ],
-  "outro": {"line1": "Open Source & lokale KI", "line2": "für den Mittelstand in MV", "url": "bettersorted.de", "duration": 2.8}
+  "outro": null,
+  "header_logo": false
 }
