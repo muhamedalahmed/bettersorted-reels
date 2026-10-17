@@ -1,0 +1,1016 @@
+{
+ "posts": [
+  {
+   "day": 1,
+   "name": "Ollama",
+   "date": "2026-10-20",
+   "linkedin_page": {
+    "date": "2026-10-20T14:00:00",
+    "html": "<p><strong>Tag 1/30: Ollama – KI auf deinem eigenen Rechner</strong></p><p></p><p>🚀 Heute startet unsere Challenge #30Tage30Tools: 30 Tage lang stellen wir dir jeden Tag ein Tool vor, das im Betrieb echte Arbeit abnimmt – überwiegend Open Source.</p><p></p><p>Große Sprachmodelle wie Llama, Mistral oder Gemma auf dem eigenen Rechner oder Server betreiben.</p><p></p><p>So nutzt dein Betrieb Ollama:</p><p>✅ Interne Dokumente zusammenfassen lassen</p><p>✅ E-Mail-Entwürfe schreiben – ohne Cloud</p><p>✅ Basis für eigene KI-Assistenten</p><p></p><p>💡 Läuft schon auf einem guten Laptop – fürs Team lohnt sich ein Server mit Grafikkarte.</p><p></p><p>🔗 ollama.com</p><p></p><p>💬 Würdest du KI lieber lokal statt in der Cloud nutzen?</p><p></p><p>#30Tage30Tools #KI #LokaleKI #Datenschutz #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-20T16:30:00",
+    "html": "<p><strong>Tag 1/30: Ollama – KI auf deinem eigenen Rechner</strong></p><p></p><p>🚀 Heute startet unsere Challenge #30Tage30Tools: 30 Tage lang stellen wir dir jeden Tag ein Tool vor, das im Betrieb echte Arbeit abnimmt – überwiegend Open Source.</p><p></p><p>Große Sprachmodelle wie Llama, Mistral oder Gemma auf dem eigenen Rechner oder Server betreiben.</p><p></p><p>So nutzt dein Betrieb Ollama:</p><p>✅ Interne Dokumente zusammenfassen lassen</p><p>✅ E-Mail-Entwürfe schreiben – ohne Cloud</p><p>✅ Basis für eigene KI-Assistenten</p><p></p><p>💡 Läuft schon auf einem guten Laptop – fürs Team lohnt sich ein Server mit Grafikkarte.</p><p></p><p>🔗 ollama.com</p><p></p><p>💬 Würdest du KI lieber lokal statt in der Cloud nutzen?</p><p></p><p>#30Tage30Tools #KI #LokaleKI #Datenschutz #OpenSource</p>",
+    "title": "Tag 1/30: Ollama – KI auf deinem eigenen Rechner"
+   },
+   "instagram": {
+    "date": "2026-10-20T16:30:00",
+    "html": "<p><strong>Tag 1/30: Ollama – KI auf deinem eigenen Rechner</strong></p><p></p><p>🚀 Heute startet unsere Challenge #30Tage30Tools: 30 Tage lang stellen wir dir jeden Tag ein Tool vor, das im Betrieb echte Arbeit abnimmt – überwiegend Open Source.</p><p></p><p>Große Sprachmodelle wie Llama, Mistral oder Gemma auf dem eigenen Rechner oder Server betreiben.</p><p></p><p>So nutzt dein Betrieb Ollama:</p><p>✅ Interne Dokumente zusammenfassen lassen</p><p>✅ E-Mail-Entwürfe schreiben – ohne Cloud</p><p>✅ Basis für eigene KI-Assistenten</p><p></p><p>💡 Läuft schon auf einem guten Laptop – fürs Team lohnt sich ein Server mit Grafikkarte.</p><p></p><p>🔗 ollama.com</p><p></p><p>💬 Würdest du KI lieber lokal statt in der Cloud nutzen?</p><p></p><p>#30Tage30Tools #KI #LokaleKI #Datenschutz #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-20T17:00:00",
+    "html": "<p><strong>Tag 1/30: Ollama – KI auf deinem eigenen Rechner</strong></p><p></p><p>🚀 Heute startet unsere Challenge #30Tage30Tools: 30 Tage lang stellen wir dir jeden Tag ein Tool vor, das im Betrieb echte Arbeit abnimmt – überwiegend Open Source.</p><p></p><p>Große Sprachmodelle wie Llama, Mistral oder Gemma auf dem eigenen Rechner oder Server betreiben.</p><p></p><p>So nutzt dein Betrieb Ollama:</p><p>✅ Interne Dokumente zusammenfassen lassen</p><p>✅ E-Mail-Entwürfe schreiben – ohne Cloud</p><p>✅ Basis für eigene KI-Assistenten</p><p></p><p>💡 Läuft schon auf einem guten Laptop – fürs Team lohnt sich ein Server mit Grafikkarte.</p><p></p><p>🔗 ollama.com</p><p></p><p>💬 Würdest du KI lieber lokal statt in der Cloud nutzen?</p><p></p><p>#30Tage30Tools #KI #LokaleKI #Datenschutz #OpenSource</p>",
+    "title": "Tag 1/30: Ollama – KI auf deinem eigenen Rechner #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Ollama",
+     "KI",
+     "LokaleKI",
+     "Datenschutz",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 1/30: Ollama – KI auf deinem eigenen Rechner</strong>\n\n🚀 Heute startet unsere Challenge #30Tage30Tools: 30 Tage lang stellen wir dir jeden Tag ein Tool vor, das im Betrieb echte Arbeit abnimmt – überwiegend Open Source.\n\nGroße Sprachmodelle wie Llama, Mistral oder Gemma auf dem eigenen Rechner oder Server betreiben.\n\nSo nutzt dein Betrieb Ollama:\n✅ Interne Dokumente zusammenfassen lassen\n✅ E-Mail-Entwürfe schreiben – ohne Cloud\n✅ Basis für eigene KI-Assistenten\n\n💡 Läuft schon auf einem guten Laptop – fürs Team lohnt sich ein Server mit Grafikkarte.\n\n🔗 ollama.com\n\n💬 Würdest du KI lieber lokal statt in der Cloud nutzen?\n\n#30Tage30Tools #KI #LokaleKI #Datenschutz #OpenSource"
+  },
+  {
+   "day": 2,
+   "name": "Paperless-ngx",
+   "date": "2026-10-21",
+   "linkedin_page": {
+    "date": "2026-10-21T14:00:00",
+    "html": "<p><strong>Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos</strong></p><p></p><p>Scannt, erkennt und sortiert deine Dokumente – und macht sie per Volltextsuche auffindbar.</p><p></p><p>So nutzt dein Betrieb Paperless-ngx:</p><p>✅ Eingangsrechnungen digital ablegen</p><p>✅ Verträge und Fristen schnell finden</p><p>✅ Die Papierablage endlich abschaffen</p><p></p><p>💡 Lernt mit der Zeit selbst, welcher Absender und welcher Dokumenttyp passt.</p><p></p><p>🔗 docs.paperless-ngx.com</p><p></p><p>💬 Wie viele Ordner stehen bei dir noch im Regal?</p><p></p><p>#30Tage30Tools #DMS #Digitalisierung #Büro #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-21T16:30:00",
+    "html": "<p><strong>Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos</strong></p><p></p><p>Scannt, erkennt und sortiert deine Dokumente – und macht sie per Volltextsuche auffindbar.</p><p></p><p>So nutzt dein Betrieb Paperless-ngx:</p><p>✅ Eingangsrechnungen digital ablegen</p><p>✅ Verträge und Fristen schnell finden</p><p>✅ Die Papierablage endlich abschaffen</p><p></p><p>💡 Lernt mit der Zeit selbst, welcher Absender und welcher Dokumenttyp passt.</p><p></p><p>🔗 docs.paperless-ngx.com</p><p></p><p>💬 Wie viele Ordner stehen bei dir noch im Regal?</p><p></p><p>#30Tage30Tools #DMS #Digitalisierung #Büro #OpenSource</p>",
+    "title": "Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos"
+   },
+   "instagram": {
+    "date": "2026-10-21T16:30:00",
+    "html": "<p><strong>Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos</strong></p><p></p><p>Scannt, erkennt und sortiert deine Dokumente – und macht sie per Volltextsuche auffindbar.</p><p></p><p>So nutzt dein Betrieb Paperless-ngx:</p><p>✅ Eingangsrechnungen digital ablegen</p><p>✅ Verträge und Fristen schnell finden</p><p>✅ Die Papierablage endlich abschaffen</p><p></p><p>💡 Lernt mit der Zeit selbst, welcher Absender und welcher Dokumenttyp passt.</p><p></p><p>🔗 docs.paperless-ngx.com</p><p></p><p>💬 Wie viele Ordner stehen bei dir noch im Regal?</p><p></p><p>#30Tage30Tools #DMS #Digitalisierung #Büro #OpenSource #KMU</p>"
+   },
+   "youtube": {
+    "date": "2026-10-21T17:00:00",
+    "html": "<p><strong>Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos</strong></p><p></p><p>Scannt, erkennt und sortiert deine Dokumente – und macht sie per Volltextsuche auffindbar.</p><p></p><p>So nutzt dein Betrieb Paperless-ngx:</p><p>✅ Eingangsrechnungen digital ablegen</p><p>✅ Verträge und Fristen schnell finden</p><p>✅ Die Papierablage endlich abschaffen</p><p></p><p>💡 Lernt mit der Zeit selbst, welcher Absender und welcher Dokumenttyp passt.</p><p></p><p>🔗 docs.paperless-ngx.com</p><p></p><p>💬 Wie viele Ordner stehen bei dir noch im Regal?</p><p></p><p>#30Tage30Tools #DMS #Digitalisierung #Büro #OpenSource</p>",
+    "title": "Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Paperless-ngx",
+     "DMS",
+     "Digitalisierung",
+     "Büro",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 2/30: Paperless-ngx – Schluss mit dem Papierchaos</strong>\n\nScannt, erkennt und sortiert deine Dokumente – und macht sie per Volltextsuche auffindbar.\n\nSo nutzt dein Betrieb Paperless-ngx:\n✅ Eingangsrechnungen digital ablegen\n✅ Verträge und Fristen schnell finden\n✅ Die Papierablage endlich abschaffen\n\n💡 Lernt mit der Zeit selbst, welcher Absender und welcher Dokumenttyp passt.\n\n🔗 docs.paperless-ngx.com\n\n💬 Wie viele Ordner stehen bei dir noch im Regal?\n\n#30Tage30Tools #DMS #Digitalisierung #Büro #OpenSource"
+  },
+  {
+   "day": 3,
+   "name": "DeepL",
+   "date": "2026-10-22",
+   "linkedin_page": {
+    "date": "2026-10-22T14:00:00",
+    "html": "<p><strong>Tag 3/30: DeepL – Übersetzen auf Profi-Niveau</strong></p><p></p><p>KI-Übersetzer aus Köln – übersetzt Texte und ganze Dokumente in über 30 Sprachen.</p><p></p><p>So nutzt dein Betrieb DeepL:</p><p>✅ Angebote für Kunden im Ausland</p><p>✅ Anleitungen und Datenblätter übersetzen</p><p>✅ Mails von Lieferanten sofort verstehen</p><p></p><p>💡 Mit dem Glossar legst du fest, wie deine Fachbegriffe übersetzt werden.</p><p></p><p>🔗 deepl.com</p><p></p><p>💬 Mit welchen Ländern arbeitet dein Betrieb zusammen?</p><p></p><p>#30Tage30Tools #KI #Übersetzung #Export</p>"
+   },
+   "facebook": {
+    "date": "2026-10-22T16:30:00",
+    "html": "<p><strong>Tag 3/30: DeepL – Übersetzen auf Profi-Niveau</strong></p><p></p><p>KI-Übersetzer aus Köln – übersetzt Texte und ganze Dokumente in über 30 Sprachen.</p><p></p><p>So nutzt dein Betrieb DeepL:</p><p>✅ Angebote für Kunden im Ausland</p><p>✅ Anleitungen und Datenblätter übersetzen</p><p>✅ Mails von Lieferanten sofort verstehen</p><p></p><p>💡 Mit dem Glossar legst du fest, wie deine Fachbegriffe übersetzt werden.</p><p></p><p>🔗 deepl.com</p><p></p><p>💬 Mit welchen Ländern arbeitet dein Betrieb zusammen?</p><p></p><p>#30Tage30Tools #KI #Übersetzung #Export</p>",
+    "title": "Tag 3/30: DeepL – Übersetzen auf Profi-Niveau"
+   },
+   "instagram": {
+    "date": "2026-10-22T16:30:00",
+    "html": "<p><strong>Tag 3/30: DeepL – Übersetzen auf Profi-Niveau</strong></p><p></p><p>KI-Übersetzer aus Köln – übersetzt Texte und ganze Dokumente in über 30 Sprachen.</p><p></p><p>So nutzt dein Betrieb DeepL:</p><p>✅ Angebote für Kunden im Ausland</p><p>✅ Anleitungen und Datenblätter übersetzen</p><p>✅ Mails von Lieferanten sofort verstehen</p><p></p><p>💡 Mit dem Glossar legst du fest, wie deine Fachbegriffe übersetzt werden.</p><p></p><p>🔗 deepl.com</p><p></p><p>💬 Mit welchen Ländern arbeitet dein Betrieb zusammen?</p><p></p><p>#30Tage30Tools #KI #Übersetzung #Export #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-22T17:00:00",
+    "html": "<p><strong>Tag 3/30: DeepL – Übersetzen auf Profi-Niveau</strong></p><p></p><p>KI-Übersetzer aus Köln – übersetzt Texte und ganze Dokumente in über 30 Sprachen.</p><p></p><p>So nutzt dein Betrieb DeepL:</p><p>✅ Angebote für Kunden im Ausland</p><p>✅ Anleitungen und Datenblätter übersetzen</p><p>✅ Mails von Lieferanten sofort verstehen</p><p></p><p>💡 Mit dem Glossar legst du fest, wie deine Fachbegriffe übersetzt werden.</p><p></p><p>🔗 deepl.com</p><p></p><p>💬 Mit welchen Ländern arbeitet dein Betrieb zusammen?</p><p></p><p>#30Tage30Tools #KI #Übersetzung #Export</p>",
+    "title": "Tag 3/30: DeepL – Übersetzen auf Profi-Niveau #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "DeepL",
+     "KI",
+     "Übersetzung",
+     "Export",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 3/30: DeepL – Übersetzen auf Profi-Niveau</strong>\n\nKI-Übersetzer aus Köln – übersetzt Texte und ganze Dokumente in über 30 Sprachen.\n\nSo nutzt dein Betrieb DeepL:\n✅ Angebote für Kunden im Ausland\n✅ Anleitungen und Datenblätter übersetzen\n✅ Mails von Lieferanten sofort verstehen\n\n💡 Mit dem Glossar legst du fest, wie deine Fachbegriffe übersetzt werden.\n\n🔗 deepl.com\n\n💬 Mit welchen Ländern arbeitet dein Betrieb zusammen?\n\n#30Tage30Tools #KI #Übersetzung #Export"
+  },
+  {
+   "day": 4,
+   "name": "n8n",
+   "date": "2026-10-23",
+   "linkedin_page": {
+    "date": "2026-10-23T14:00:00",
+    "html": "<p><strong>Tag 4/30: n8n – Lass die Routine laufen</strong></p><p></p><p>Verbindet deine Programme und automatisiert Abläufe – per Drag & Drop, auf Wunsch mit KI.</p><p></p><p>So nutzt dein Betrieb n8n:</p><p>✅ Anfragen automatisch ins CRM übertragen</p><p>✅ Rechnungen aus Mails automatisch ablegen</p><p>✅ Jeden Montag automatisch einen Bericht</p><p></p><p>💡 Läuft auf Wunsch auf deinem eigenen Server – deine Daten bleiben bei dir.</p><p></p><p>🔗 n8n.io</p><p></p><p>💬 Welche Aufgabe würdest du als Erstes automatisieren?</p><p></p><p>#30Tage30Tools #Automatisierung #Workflow #KI</p>"
+   },
+   "facebook": {
+    "date": "2026-10-23T16:30:00",
+    "html": "<p><strong>Tag 4/30: n8n – Lass die Routine laufen</strong></p><p></p><p>Verbindet deine Programme und automatisiert Abläufe – per Drag & Drop, auf Wunsch mit KI.</p><p></p><p>So nutzt dein Betrieb n8n:</p><p>✅ Anfragen automatisch ins CRM übertragen</p><p>✅ Rechnungen aus Mails automatisch ablegen</p><p>✅ Jeden Montag automatisch einen Bericht</p><p></p><p>💡 Läuft auf Wunsch auf deinem eigenen Server – deine Daten bleiben bei dir.</p><p></p><p>🔗 n8n.io</p><p></p><p>💬 Welche Aufgabe würdest du als Erstes automatisieren?</p><p></p><p>#30Tage30Tools #Automatisierung #Workflow #KI</p>",
+    "title": "Tag 4/30: n8n – Lass die Routine laufen"
+   },
+   "instagram": {
+    "date": "2026-10-23T16:30:00",
+    "html": "<p><strong>Tag 4/30: n8n – Lass die Routine laufen</strong></p><p></p><p>Verbindet deine Programme und automatisiert Abläufe – per Drag & Drop, auf Wunsch mit KI.</p><p></p><p>So nutzt dein Betrieb n8n:</p><p>✅ Anfragen automatisch ins CRM übertragen</p><p>✅ Rechnungen aus Mails automatisch ablegen</p><p>✅ Jeden Montag automatisch einen Bericht</p><p></p><p>💡 Läuft auf Wunsch auf deinem eigenen Server – deine Daten bleiben bei dir.</p><p></p><p>🔗 n8n.io</p><p></p><p>💬 Welche Aufgabe würdest du als Erstes automatisieren?</p><p></p><p>#30Tage30Tools #Automatisierung #Workflow #KI #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-23T17:00:00",
+    "html": "<p><strong>Tag 4/30: n8n – Lass die Routine laufen</strong></p><p></p><p>Verbindet deine Programme und automatisiert Abläufe – per Drag & Drop, auf Wunsch mit KI.</p><p></p><p>So nutzt dein Betrieb n8n:</p><p>✅ Anfragen automatisch ins CRM übertragen</p><p>✅ Rechnungen aus Mails automatisch ablegen</p><p>✅ Jeden Montag automatisch einen Bericht</p><p></p><p>💡 Läuft auf Wunsch auf deinem eigenen Server – deine Daten bleiben bei dir.</p><p></p><p>🔗 n8n.io</p><p></p><p>💬 Welche Aufgabe würdest du als Erstes automatisieren?</p><p></p><p>#30Tage30Tools #Automatisierung #Workflow #KI</p>",
+    "title": "Tag 4/30: n8n – Lass die Routine laufen #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "n8n",
+     "Automatisierung",
+     "Workflow",
+     "KI",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 4/30: n8n – Lass die Routine laufen</strong>\n\nVerbindet deine Programme und automatisiert Abläufe – per Drag & Drop, auf Wunsch mit KI.\n\nSo nutzt dein Betrieb n8n:\n✅ Anfragen automatisch ins CRM übertragen\n✅ Rechnungen aus Mails automatisch ablegen\n✅ Jeden Montag automatisch einen Bericht\n\n💡 Läuft auf Wunsch auf deinem eigenen Server – deine Daten bleiben bei dir.\n\n🔗 n8n.io\n\n💬 Welche Aufgabe würdest du als Erstes automatisieren?\n\n#30Tage30Tools #Automatisierung #Workflow #KI"
+  },
+  {
+   "day": 5,
+   "name": "Nextcloud",
+   "date": "2026-10-24",
+   "linkedin_page": {
+    "date": "2026-10-24T14:00:00",
+    "html": "<p><strong>Tag 5/30: Nextcloud – Deine eigene Cloud</strong></p><p></p><p>Dateien, Kalender, Kontakte und Zusammenarbeit – deine eigene Cloud, entwickelt in Deutschland.</p><p></p><p>So nutzt dein Betrieb Nextcloud:</p><p>✅ Projektordner mit Kunden teilen</p><p>✅ Gemeinsame Kalender und Kontakte</p><p>✅ Dateien sicher auf eigenem Server</p><p></p><p>💡 Auch openDesk, der Open-Source-Arbeitsplatz der Verwaltung, nutzt Nextcloud für die Dateiablage.</p><p></p><p>🔗 nextcloud.com</p><p></p><p>💬 Wo liegen eure Dateien heute?</p><p></p><p>#30Tage30Tools #Cloud #DigitaleSouveränität #Zusammenarbeit #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-24T16:30:00",
+    "html": "<p><strong>Tag 5/30: Nextcloud – Deine eigene Cloud</strong></p><p></p><p>Dateien, Kalender, Kontakte und Zusammenarbeit – deine eigene Cloud, entwickelt in Deutschland.</p><p></p><p>So nutzt dein Betrieb Nextcloud:</p><p>✅ Projektordner mit Kunden teilen</p><p>✅ Gemeinsame Kalender und Kontakte</p><p>✅ Dateien sicher auf eigenem Server</p><p></p><p>💡 Auch openDesk, der Open-Source-Arbeitsplatz der Verwaltung, nutzt Nextcloud für die Dateiablage.</p><p></p><p>🔗 nextcloud.com</p><p></p><p>💬 Wo liegen eure Dateien heute?</p><p></p><p>#30Tage30Tools #Cloud #DigitaleSouveränität #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 5/30: Nextcloud – Deine eigene Cloud"
+   },
+   "instagram": {
+    "date": "2026-10-24T16:30:00",
+    "html": "<p><strong>Tag 5/30: Nextcloud – Deine eigene Cloud</strong></p><p></p><p>Dateien, Kalender, Kontakte und Zusammenarbeit – deine eigene Cloud, entwickelt in Deutschland.</p><p></p><p>So nutzt dein Betrieb Nextcloud:</p><p>✅ Projektordner mit Kunden teilen</p><p>✅ Gemeinsame Kalender und Kontakte</p><p>✅ Dateien sicher auf eigenem Server</p><p></p><p>💡 Auch openDesk, der Open-Source-Arbeitsplatz der Verwaltung, nutzt Nextcloud für die Dateiablage.</p><p></p><p>🔗 nextcloud.com</p><p></p><p>💬 Wo liegen eure Dateien heute?</p><p></p><p>#30Tage30Tools #Cloud #DigitaleSouveränität #Zusammenarbeit #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-24T17:00:00",
+    "html": "<p><strong>Tag 5/30: Nextcloud – Deine eigene Cloud</strong></p><p></p><p>Dateien, Kalender, Kontakte und Zusammenarbeit – deine eigene Cloud, entwickelt in Deutschland.</p><p></p><p>So nutzt dein Betrieb Nextcloud:</p><p>✅ Projektordner mit Kunden teilen</p><p>✅ Gemeinsame Kalender und Kontakte</p><p>✅ Dateien sicher auf eigenem Server</p><p></p><p>💡 Auch openDesk, der Open-Source-Arbeitsplatz der Verwaltung, nutzt Nextcloud für die Dateiablage.</p><p></p><p>🔗 nextcloud.com</p><p></p><p>💬 Wo liegen eure Dateien heute?</p><p></p><p>#30Tage30Tools #Cloud #DigitaleSouveränität #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 5/30: Nextcloud – Deine eigene Cloud #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Nextcloud",
+     "Cloud",
+     "DigitaleSouveränität",
+     "Zusammenarbeit",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 5/30: Nextcloud – Deine eigene Cloud</strong>\n\nDateien, Kalender, Kontakte und Zusammenarbeit – deine eigene Cloud, entwickelt in Deutschland.\n\nSo nutzt dein Betrieb Nextcloud:\n✅ Projektordner mit Kunden teilen\n✅ Gemeinsame Kalender und Kontakte\n✅ Dateien sicher auf eigenem Server\n\n💡 Auch openDesk, der Open-Source-Arbeitsplatz der Verwaltung, nutzt Nextcloud für die Dateiablage.\n\n🔗 nextcloud.com\n\n💬 Wo liegen eure Dateien heute?\n\n#30Tage30Tools #Cloud #DigitaleSouveränität #Zusammenarbeit #OpenSource"
+  },
+  {
+   "day": 6,
+   "name": "Bitwarden",
+   "date": "2026-10-25",
+   "linkedin_page": {
+    "date": "2026-10-25T15:00:00",
+    "html": "<p><strong>Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its</strong></p><p></p><p>Passwortmanager fürs Team – alle Zugänge verschlüsselt an einem Ort.</p><p></p><p>So nutzt dein Betrieb Bitwarden:</p><p>✅ Gemeinsame Zugänge sicher teilen</p><p>✅ Starke Passwörter erzeugen</p><p>✅ Zugriffe bei Austritt sofort entziehen</p><p></p><p>💡 Ende-zu-Ende-verschlüsselt – nicht mal Bitwarden selbst kann deine Passwörter lesen.</p><p></p><p>🔗 bitwarden.com</p><p></p><p>💬 Wie teilt ihr heute Passwörter im Team?</p><p></p><p>#30Tage30Tools #ITSicherheit #Passwort #Cybersecurity #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-25T17:30:00",
+    "html": "<p><strong>Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its</strong></p><p></p><p>Passwortmanager fürs Team – alle Zugänge verschlüsselt an einem Ort.</p><p></p><p>So nutzt dein Betrieb Bitwarden:</p><p>✅ Gemeinsame Zugänge sicher teilen</p><p>✅ Starke Passwörter erzeugen</p><p>✅ Zugriffe bei Austritt sofort entziehen</p><p></p><p>💡 Ende-zu-Ende-verschlüsselt – nicht mal Bitwarden selbst kann deine Passwörter lesen.</p><p></p><p>🔗 bitwarden.com</p><p></p><p>💬 Wie teilt ihr heute Passwörter im Team?</p><p></p><p>#30Tage30Tools #ITSicherheit #Passwort #Cybersecurity #OpenSource</p>",
+    "title": "Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its"
+   },
+   "instagram": {
+    "date": "2026-10-25T17:30:00",
+    "html": "<p><strong>Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its</strong></p><p></p><p>Passwortmanager fürs Team – alle Zugänge verschlüsselt an einem Ort.</p><p></p><p>So nutzt dein Betrieb Bitwarden:</p><p>✅ Gemeinsame Zugänge sicher teilen</p><p>✅ Starke Passwörter erzeugen</p><p>✅ Zugriffe bei Austritt sofort entziehen</p><p></p><p>💡 Ende-zu-Ende-verschlüsselt – nicht mal Bitwarden selbst kann deine Passwörter lesen.</p><p></p><p>🔗 bitwarden.com</p><p></p><p>💬 Wie teilt ihr heute Passwörter im Team?</p><p></p><p>#30Tage30Tools #ITSicherheit #Passwort #Cybersecurity #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-25T18:00:00",
+    "html": "<p><strong>Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its</strong></p><p></p><p>Passwortmanager fürs Team – alle Zugänge verschlüsselt an einem Ort.</p><p></p><p>So nutzt dein Betrieb Bitwarden:</p><p>✅ Gemeinsame Zugänge sicher teilen</p><p>✅ Starke Passwörter erzeugen</p><p>✅ Zugriffe bei Austritt sofort entziehen</p><p></p><p>💡 Ende-zu-Ende-verschlüsselt – nicht mal Bitwarden selbst kann deine Passwörter lesen.</p><p></p><p>🔗 bitwarden.com</p><p></p><p>💬 Wie teilt ihr heute Passwörter im Team?</p><p></p><p>#30Tage30Tools #ITSicherheit #Passwort #Cybersecurity #OpenSource</p>",
+    "title": "Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Bitwarden",
+     "ITSicherheit",
+     "Passwort",
+     "Cybersecurity",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 6/30: Bitwarden – Nie wieder Passwörter auf Post-its</strong>\n\nPasswortmanager fürs Team – alle Zugänge verschlüsselt an einem Ort.\n\nSo nutzt dein Betrieb Bitwarden:\n✅ Gemeinsame Zugänge sicher teilen\n✅ Starke Passwörter erzeugen\n✅ Zugriffe bei Austritt sofort entziehen\n\n💡 Ende-zu-Ende-verschlüsselt – nicht mal Bitwarden selbst kann deine Passwörter lesen.\n\n🔗 bitwarden.com\n\n💬 Wie teilt ihr heute Passwörter im Team?\n\n#30Tage30Tools #ITSicherheit #Passwort #Cybersecurity #OpenSource"
+  },
+  {
+   "day": 7,
+   "name": "Canva",
+   "date": "2026-10-26",
+   "linkedin_page": {
+    "date": "2026-10-26T15:00:00",
+    "html": "<p><strong>Tag 7/30: Canva – Design ohne Designer</strong></p><p></p><p>Design-Tool im Browser – Social-Media-Posts, Flyer und Präsentationen ohne Grafikkenntnisse.</p><p></p><p>So nutzt dein Betrieb Canva:</p><p>✅ Social-Media-Grafiken in Minuten</p><p>✅ Flyer und Aushänge</p><p>✅ Präsentationen im eigenen Look</p><p></p><p>💡 In der Pro-Version speicherst du Logo, Farben und Schriften als Brand Kit.</p><p></p><p>🔗 canva.com</p><p></p><p>💬 Wer macht bei euch die Grafiken?</p><p></p><p>#30Tage30Tools #Design #SocialMedia #Marketing</p>"
+   },
+   "facebook": {
+    "date": "2026-10-26T17:30:00",
+    "html": "<p><strong>Tag 7/30: Canva – Design ohne Designer</strong></p><p></p><p>Design-Tool im Browser – Social-Media-Posts, Flyer und Präsentationen ohne Grafikkenntnisse.</p><p></p><p>So nutzt dein Betrieb Canva:</p><p>✅ Social-Media-Grafiken in Minuten</p><p>✅ Flyer und Aushänge</p><p>✅ Präsentationen im eigenen Look</p><p></p><p>💡 In der Pro-Version speicherst du Logo, Farben und Schriften als Brand Kit.</p><p></p><p>🔗 canva.com</p><p></p><p>💬 Wer macht bei euch die Grafiken?</p><p></p><p>#30Tage30Tools #Design #SocialMedia #Marketing</p>",
+    "title": "Tag 7/30: Canva – Design ohne Designer"
+   },
+   "instagram": {
+    "date": "2026-10-26T17:30:00",
+    "html": "<p><strong>Tag 7/30: Canva – Design ohne Designer</strong></p><p></p><p>Design-Tool im Browser – Social-Media-Posts, Flyer und Präsentationen ohne Grafikkenntnisse.</p><p></p><p>So nutzt dein Betrieb Canva:</p><p>✅ Social-Media-Grafiken in Minuten</p><p>✅ Flyer und Aushänge</p><p>✅ Präsentationen im eigenen Look</p><p></p><p>💡 In der Pro-Version speicherst du Logo, Farben und Schriften als Brand Kit.</p><p></p><p>🔗 canva.com</p><p></p><p>💬 Wer macht bei euch die Grafiken?</p><p></p><p>#30Tage30Tools #Design #SocialMedia #Marketing #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-26T18:00:00",
+    "html": "<p><strong>Tag 7/30: Canva – Design ohne Designer</strong></p><p></p><p>Design-Tool im Browser – Social-Media-Posts, Flyer und Präsentationen ohne Grafikkenntnisse.</p><p></p><p>So nutzt dein Betrieb Canva:</p><p>✅ Social-Media-Grafiken in Minuten</p><p>✅ Flyer und Aushänge</p><p>✅ Präsentationen im eigenen Look</p><p></p><p>💡 In der Pro-Version speicherst du Logo, Farben und Schriften als Brand Kit.</p><p></p><p>🔗 canva.com</p><p></p><p>💬 Wer macht bei euch die Grafiken?</p><p></p><p>#30Tage30Tools #Design #SocialMedia #Marketing</p>",
+    "title": "Tag 7/30: Canva – Design ohne Designer #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Canva",
+     "Design",
+     "SocialMedia",
+     "Marketing",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 7/30: Canva – Design ohne Designer</strong>\n\nDesign-Tool im Browser – Social-Media-Posts, Flyer und Präsentationen ohne Grafikkenntnisse.\n\nSo nutzt dein Betrieb Canva:\n✅ Social-Media-Grafiken in Minuten\n✅ Flyer und Aushänge\n✅ Präsentationen im eigenen Look\n\n💡 In der Pro-Version speicherst du Logo, Farben und Schriften als Brand Kit.\n\n🔗 canva.com\n\n💬 Wer macht bei euch die Grafiken?\n\n#30Tage30Tools #Design #SocialMedia #Marketing"
+  },
+  {
+   "day": 8,
+   "name": "Jitsi Meet",
+   "date": "2026-10-27",
+   "linkedin_page": {
+    "date": "2026-10-27T15:00:00",
+    "html": "<p><strong>Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden</strong></p><p></p><p>Videokonferenzen im Browser – ohne Installation und ohne Konto für deine Gäste.</p><p></p><p>So nutzt dein Betrieb Jitsi Meet:</p><p>✅ Kundentermine per Video</p><p>✅ Interne Team-Meetings</p><p>✅ Auf eigenem Server betreiben</p><p></p><p>💡 Lässt sich selbst hosten – dann laufen deine Gespräche über deinen eigenen Server.</p><p></p><p>🔗 jitsi.org</p><p></p><p>💬 Welches Tool nutzt ihr für Video-Calls?</p><p></p><p>#30Tage30Tools #Videokonferenz #RemoteWork #Datenschutz #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-27T17:30:00",
+    "html": "<p><strong>Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden</strong></p><p></p><p>Videokonferenzen im Browser – ohne Installation und ohne Konto für deine Gäste.</p><p></p><p>So nutzt dein Betrieb Jitsi Meet:</p><p>✅ Kundentermine per Video</p><p>✅ Interne Team-Meetings</p><p>✅ Auf eigenem Server betreiben</p><p></p><p>💡 Lässt sich selbst hosten – dann laufen deine Gespräche über deinen eigenen Server.</p><p></p><p>🔗 jitsi.org</p><p></p><p>💬 Welches Tool nutzt ihr für Video-Calls?</p><p></p><p>#30Tage30Tools #Videokonferenz #RemoteWork #Datenschutz #OpenSource</p>",
+    "title": "Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden"
+   },
+   "instagram": {
+    "date": "2026-10-27T17:30:00",
+    "html": "<p><strong>Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden</strong></p><p></p><p>Videokonferenzen im Browser – ohne Installation und ohne Konto für deine Gäste.</p><p></p><p>So nutzt dein Betrieb Jitsi Meet:</p><p>✅ Kundentermine per Video</p><p>✅ Interne Team-Meetings</p><p>✅ Auf eigenem Server betreiben</p><p></p><p>💡 Lässt sich selbst hosten – dann laufen deine Gespräche über deinen eigenen Server.</p><p></p><p>🔗 jitsi.org</p><p></p><p>💬 Welches Tool nutzt ihr für Video-Calls?</p><p></p><p>#30Tage30Tools #Videokonferenz #RemoteWork #Datenschutz #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-27T18:00:00",
+    "html": "<p><strong>Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden</strong></p><p></p><p>Videokonferenzen im Browser – ohne Installation und ohne Konto für deine Gäste.</p><p></p><p>So nutzt dein Betrieb Jitsi Meet:</p><p>✅ Kundentermine per Video</p><p>✅ Interne Team-Meetings</p><p>✅ Auf eigenem Server betreiben</p><p></p><p>💡 Lässt sich selbst hosten – dann laufen deine Gespräche über deinen eigenen Server.</p><p></p><p>🔗 jitsi.org</p><p></p><p>💬 Welches Tool nutzt ihr für Video-Calls?</p><p></p><p>#30Tage30Tools #Videokonferenz #RemoteWork #Datenschutz #OpenSource</p>",
+    "title": "Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "JitsiMeet",
+     "Videokonferenz",
+     "RemoteWork",
+     "Datenschutz",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 8/30: Jitsi Meet – Video-Calls ohne Hürden</strong>\n\nVideokonferenzen im Browser – ohne Installation und ohne Konto für deine Gäste.\n\nSo nutzt dein Betrieb Jitsi Meet:\n✅ Kundentermine per Video\n✅ Interne Team-Meetings\n✅ Auf eigenem Server betreiben\n\n💡 Lässt sich selbst hosten – dann laufen deine Gespräche über deinen eigenen Server.\n\n🔗 jitsi.org\n\n💬 Welches Tool nutzt ihr für Video-Calls?\n\n#30Tage30Tools #Videokonferenz #RemoteWork #Datenschutz #OpenSource"
+  },
+  {
+   "day": 9,
+   "name": "Matomo",
+   "date": "2026-10-28",
+   "linkedin_page": {
+    "date": "2026-10-28T15:00:00",
+    "html": "<p><strong>Tag 9/30: Matomo – Website-Statistik ohne Datenkrake</strong></p><p></p><p>Web-Analyse als datenschutzfreundliche Alternative zu Google Analytics.</p><p></p><p>So nutzt dein Betrieb Matomo:</p><p>✅ Sehen, woher deine Kunden kommen</p><p>✅ Erfolg von Kampagnen messen</p><p>✅ Die Website gezielt verbessern</p><p></p><p>💡 Matomo lässt sich so einstellen, dass es ohne Cookies auskommt.</p><p></p><p>🔗 matomo.org</p><p></p><p>💬 Weißt du, wie viele Besucher deine Website hat?</p><p></p><p>#30Tage30Tools #WebAnalyse #DSGVO #Website #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-28T17:30:00",
+    "html": "<p><strong>Tag 9/30: Matomo – Website-Statistik ohne Datenkrake</strong></p><p></p><p>Web-Analyse als datenschutzfreundliche Alternative zu Google Analytics.</p><p></p><p>So nutzt dein Betrieb Matomo:</p><p>✅ Sehen, woher deine Kunden kommen</p><p>✅ Erfolg von Kampagnen messen</p><p>✅ Die Website gezielt verbessern</p><p></p><p>💡 Matomo lässt sich so einstellen, dass es ohne Cookies auskommt.</p><p></p><p>🔗 matomo.org</p><p></p><p>💬 Weißt du, wie viele Besucher deine Website hat?</p><p></p><p>#30Tage30Tools #WebAnalyse #DSGVO #Website #OpenSource</p>",
+    "title": "Tag 9/30: Matomo – Website-Statistik ohne Datenkrake"
+   },
+   "instagram": {
+    "date": "2026-10-28T17:30:00",
+    "html": "<p><strong>Tag 9/30: Matomo – Website-Statistik ohne Datenkrake</strong></p><p></p><p>Web-Analyse als datenschutzfreundliche Alternative zu Google Analytics.</p><p></p><p>So nutzt dein Betrieb Matomo:</p><p>✅ Sehen, woher deine Kunden kommen</p><p>✅ Erfolg von Kampagnen messen</p><p>✅ Die Website gezielt verbessern</p><p></p><p>💡 Matomo lässt sich so einstellen, dass es ohne Cookies auskommt.</p><p></p><p>🔗 matomo.org</p><p></p><p>💬 Weißt du, wie viele Besucher deine Website hat?</p><p></p><p>#30Tage30Tools #WebAnalyse #DSGVO #Website #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-28T18:00:00",
+    "html": "<p><strong>Tag 9/30: Matomo – Website-Statistik ohne Datenkrake</strong></p><p></p><p>Web-Analyse als datenschutzfreundliche Alternative zu Google Analytics.</p><p></p><p>So nutzt dein Betrieb Matomo:</p><p>✅ Sehen, woher deine Kunden kommen</p><p>✅ Erfolg von Kampagnen messen</p><p>✅ Die Website gezielt verbessern</p><p></p><p>💡 Matomo lässt sich so einstellen, dass es ohne Cookies auskommt.</p><p></p><p>🔗 matomo.org</p><p></p><p>💬 Weißt du, wie viele Besucher deine Website hat?</p><p></p><p>#30Tage30Tools #WebAnalyse #DSGVO #Website #OpenSource</p>",
+    "title": "Tag 9/30: Matomo – Website-Statistik ohne Datenkrake #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Matomo",
+     "WebAnalyse",
+     "DSGVO",
+     "Website",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 9/30: Matomo – Website-Statistik ohne Datenkrake</strong>\n\nWeb-Analyse als datenschutzfreundliche Alternative zu Google Analytics.\n\nSo nutzt dein Betrieb Matomo:\n✅ Sehen, woher deine Kunden kommen\n✅ Erfolg von Kampagnen messen\n✅ Die Website gezielt verbessern\n\n💡 Matomo lässt sich so einstellen, dass es ohne Cookies auskommt.\n\n🔗 matomo.org\n\n💬 Weißt du, wie viele Besucher deine Website hat?\n\n#30Tage30Tools #WebAnalyse #DSGVO #Website #OpenSource"
+  },
+  {
+   "day": 10,
+   "name": "Perplexity",
+   "date": "2026-10-29",
+   "linkedin_page": {
+    "date": "2026-10-29T15:00:00",
+    "html": "<p><strong>Tag 10/30: Perplexity – Recherche mit Quellenangabe</strong></p><p></p><p>KI-Suchmaschine – beantwortet Fragen und zeigt die Quellen direkt dazu.</p><p></p><p>So nutzt dein Betrieb Perplexity:</p><p>✅ Markt und Wettbewerb recherchieren</p><p>✅ Fachfragen schnell klären</p><p>✅ Quellen prüfen statt blind vertrauen</p><p></p><p>💡 Klick die Quellen immer kurz an – auch KI kann sich irren.</p><p></p><p>🔗 perplexity.ai</p><p></p><p>💬 Wie recherchierst du heute?</p><p></p><p>#30Tage30Tools #KI #Recherche #Produktivität</p>"
+   },
+   "facebook": {
+    "date": "2026-10-29T17:30:00",
+    "html": "<p><strong>Tag 10/30: Perplexity – Recherche mit Quellenangabe</strong></p><p></p><p>KI-Suchmaschine – beantwortet Fragen und zeigt die Quellen direkt dazu.</p><p></p><p>So nutzt dein Betrieb Perplexity:</p><p>✅ Markt und Wettbewerb recherchieren</p><p>✅ Fachfragen schnell klären</p><p>✅ Quellen prüfen statt blind vertrauen</p><p></p><p>💡 Klick die Quellen immer kurz an – auch KI kann sich irren.</p><p></p><p>🔗 perplexity.ai</p><p></p><p>💬 Wie recherchierst du heute?</p><p></p><p>#30Tage30Tools #KI #Recherche #Produktivität</p>",
+    "title": "Tag 10/30: Perplexity – Recherche mit Quellenangabe"
+   },
+   "instagram": {
+    "date": "2026-10-29T17:30:00",
+    "html": "<p><strong>Tag 10/30: Perplexity – Recherche mit Quellenangabe</strong></p><p></p><p>KI-Suchmaschine – beantwortet Fragen und zeigt die Quellen direkt dazu.</p><p></p><p>So nutzt dein Betrieb Perplexity:</p><p>✅ Markt und Wettbewerb recherchieren</p><p>✅ Fachfragen schnell klären</p><p>✅ Quellen prüfen statt blind vertrauen</p><p></p><p>💡 Klick die Quellen immer kurz an – auch KI kann sich irren.</p><p></p><p>🔗 perplexity.ai</p><p></p><p>💬 Wie recherchierst du heute?</p><p></p><p>#30Tage30Tools #KI #Recherche #Produktivität #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-29T18:00:00",
+    "html": "<p><strong>Tag 10/30: Perplexity – Recherche mit Quellenangabe</strong></p><p></p><p>KI-Suchmaschine – beantwortet Fragen und zeigt die Quellen direkt dazu.</p><p></p><p>So nutzt dein Betrieb Perplexity:</p><p>✅ Markt und Wettbewerb recherchieren</p><p>✅ Fachfragen schnell klären</p><p>✅ Quellen prüfen statt blind vertrauen</p><p></p><p>💡 Klick die Quellen immer kurz an – auch KI kann sich irren.</p><p></p><p>🔗 perplexity.ai</p><p></p><p>💬 Wie recherchierst du heute?</p><p></p><p>#30Tage30Tools #KI #Recherche #Produktivität</p>",
+    "title": "Tag 10/30: Perplexity – Recherche mit Quellenangabe #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Perplexity",
+     "KI",
+     "Recherche",
+     "Produktivität",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 10/30: Perplexity – Recherche mit Quellenangabe</strong>\n\nKI-Suchmaschine – beantwortet Fragen und zeigt die Quellen direkt dazu.\n\nSo nutzt dein Betrieb Perplexity:\n✅ Markt und Wettbewerb recherchieren\n✅ Fachfragen schnell klären\n✅ Quellen prüfen statt blind vertrauen\n\n💡 Klick die Quellen immer kurz an – auch KI kann sich irren.\n\n🔗 perplexity.ai\n\n💬 Wie recherchierst du heute?\n\n#30Tage30Tools #KI #Recherche #Produktivität"
+  },
+  {
+   "day": 11,
+   "name": "LibreOffice",
+   "date": "2026-10-30",
+   "linkedin_page": {
+    "date": "2026-10-30T15:00:00",
+    "html": "<p><strong>Tag 11/30: LibreOffice – Office ohne Lizenzkosten</strong></p><p></p><p>Komplettes Office-Paket für Texte, Tabellen und Präsentationen – kostenlos und offen.</p><p></p><p>So nutzt dein Betrieb LibreOffice:</p><p>✅ Briefe, Angebote und Kalkulationen</p><p>✅ Keine Lizenzkosten pro Arbeitsplatz</p><p>✅ Offene Formate für die Archivierung</p><p></p><p>💡 Schleswig-Holstein stellt seine Landesverwaltung auf LibreOffice um.</p><p></p><p>🔗 libreoffice.org</p><p></p><p>💬 Könntest du dir Office ohne Microsoft vorstellen?</p><p></p><p>#30Tage30Tools #Office #DigitaleSouveränität #Büro #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-30T17:30:00",
+    "html": "<p><strong>Tag 11/30: LibreOffice – Office ohne Lizenzkosten</strong></p><p></p><p>Komplettes Office-Paket für Texte, Tabellen und Präsentationen – kostenlos und offen.</p><p></p><p>So nutzt dein Betrieb LibreOffice:</p><p>✅ Briefe, Angebote und Kalkulationen</p><p>✅ Keine Lizenzkosten pro Arbeitsplatz</p><p>✅ Offene Formate für die Archivierung</p><p></p><p>💡 Schleswig-Holstein stellt seine Landesverwaltung auf LibreOffice um.</p><p></p><p>🔗 libreoffice.org</p><p></p><p>💬 Könntest du dir Office ohne Microsoft vorstellen?</p><p></p><p>#30Tage30Tools #Office #DigitaleSouveränität #Büro #OpenSource</p>",
+    "title": "Tag 11/30: LibreOffice – Office ohne Lizenzkosten"
+   },
+   "instagram": {
+    "date": "2026-10-30T17:30:00",
+    "html": "<p><strong>Tag 11/30: LibreOffice – Office ohne Lizenzkosten</strong></p><p></p><p>Komplettes Office-Paket für Texte, Tabellen und Präsentationen – kostenlos und offen.</p><p></p><p>So nutzt dein Betrieb LibreOffice:</p><p>✅ Briefe, Angebote und Kalkulationen</p><p>✅ Keine Lizenzkosten pro Arbeitsplatz</p><p>✅ Offene Formate für die Archivierung</p><p></p><p>💡 Schleswig-Holstein stellt seine Landesverwaltung auf LibreOffice um.</p><p></p><p>🔗 libreoffice.org</p><p></p><p>💬 Könntest du dir Office ohne Microsoft vorstellen?</p><p></p><p>#30Tage30Tools #Office #DigitaleSouveränität #Büro #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-30T18:00:00",
+    "html": "<p><strong>Tag 11/30: LibreOffice – Office ohne Lizenzkosten</strong></p><p></p><p>Komplettes Office-Paket für Texte, Tabellen und Präsentationen – kostenlos und offen.</p><p></p><p>So nutzt dein Betrieb LibreOffice:</p><p>✅ Briefe, Angebote und Kalkulationen</p><p>✅ Keine Lizenzkosten pro Arbeitsplatz</p><p>✅ Offene Formate für die Archivierung</p><p></p><p>💡 Schleswig-Holstein stellt seine Landesverwaltung auf LibreOffice um.</p><p></p><p>🔗 libreoffice.org</p><p></p><p>💬 Könntest du dir Office ohne Microsoft vorstellen?</p><p></p><p>#30Tage30Tools #Office #DigitaleSouveränität #Büro #OpenSource</p>",
+    "title": "Tag 11/30: LibreOffice – Office ohne Lizenzkosten #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "LibreOffice",
+     "Office",
+     "DigitaleSouveränität",
+     "Büro",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 11/30: LibreOffice – Office ohne Lizenzkosten</strong>\n\nKomplettes Office-Paket für Texte, Tabellen und Präsentationen – kostenlos und offen.\n\nSo nutzt dein Betrieb LibreOffice:\n✅ Briefe, Angebote und Kalkulationen\n✅ Keine Lizenzkosten pro Arbeitsplatz\n✅ Offene Formate für die Archivierung\n\n💡 Schleswig-Holstein stellt seine Landesverwaltung auf LibreOffice um.\n\n🔗 libreoffice.org\n\n💬 Könntest du dir Office ohne Microsoft vorstellen?\n\n#30Tage30Tools #Office #DigitaleSouveränität #Büro #OpenSource"
+  },
+  {
+   "day": 12,
+   "name": "Mattermost",
+   "date": "2026-10-31",
+   "linkedin_page": {
+    "date": "2026-10-31T15:00:00",
+    "html": "<p><strong>Tag 12/30: Mattermost – Chat statt E-Mail-Flut</strong></p><p></p><p>Team-Chat mit Kanälen, Threads und Dateiablage – auf deinem eigenen Server.</p><p></p><p>So nutzt dein Betrieb Mattermost:</p><p>✅ Weniger interne E-Mails</p><p>✅ Jedes Projekt in eigenem Kanal</p><p>✅ Anbindung an Automatisierungen</p><p></p><p>💡 Eine selbst gehostete Alternative zu Slack oder Teams.</p><p></p><p>🔗 mattermost.com</p><p></p><p>💬 Wie viele interne Mails bekommst du am Tag?</p><p></p><p>#30Tage30Tools #Kommunikation #TeamChat #Zusammenarbeit #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-10-31T17:30:00",
+    "html": "<p><strong>Tag 12/30: Mattermost – Chat statt E-Mail-Flut</strong></p><p></p><p>Team-Chat mit Kanälen, Threads und Dateiablage – auf deinem eigenen Server.</p><p></p><p>So nutzt dein Betrieb Mattermost:</p><p>✅ Weniger interne E-Mails</p><p>✅ Jedes Projekt in eigenem Kanal</p><p>✅ Anbindung an Automatisierungen</p><p></p><p>💡 Eine selbst gehostete Alternative zu Slack oder Teams.</p><p></p><p>🔗 mattermost.com</p><p></p><p>💬 Wie viele interne Mails bekommst du am Tag?</p><p></p><p>#30Tage30Tools #Kommunikation #TeamChat #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 12/30: Mattermost – Chat statt E-Mail-Flut"
+   },
+   "instagram": {
+    "date": "2026-10-31T17:30:00",
+    "html": "<p><strong>Tag 12/30: Mattermost – Chat statt E-Mail-Flut</strong></p><p></p><p>Team-Chat mit Kanälen, Threads und Dateiablage – auf deinem eigenen Server.</p><p></p><p>So nutzt dein Betrieb Mattermost:</p><p>✅ Weniger interne E-Mails</p><p>✅ Jedes Projekt in eigenem Kanal</p><p>✅ Anbindung an Automatisierungen</p><p></p><p>💡 Eine selbst gehostete Alternative zu Slack oder Teams.</p><p></p><p>🔗 mattermost.com</p><p></p><p>💬 Wie viele interne Mails bekommst du am Tag?</p><p></p><p>#30Tage30Tools #Kommunikation #TeamChat #Zusammenarbeit #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-10-31T18:00:00",
+    "html": "<p><strong>Tag 12/30: Mattermost – Chat statt E-Mail-Flut</strong></p><p></p><p>Team-Chat mit Kanälen, Threads und Dateiablage – auf deinem eigenen Server.</p><p></p><p>So nutzt dein Betrieb Mattermost:</p><p>✅ Weniger interne E-Mails</p><p>✅ Jedes Projekt in eigenem Kanal</p><p>✅ Anbindung an Automatisierungen</p><p></p><p>💡 Eine selbst gehostete Alternative zu Slack oder Teams.</p><p></p><p>🔗 mattermost.com</p><p></p><p>💬 Wie viele interne Mails bekommst du am Tag?</p><p></p><p>#30Tage30Tools #Kommunikation #TeamChat #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 12/30: Mattermost – Chat statt E-Mail-Flut #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Mattermost",
+     "Kommunikation",
+     "TeamChat",
+     "Zusammenarbeit",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 12/30: Mattermost – Chat statt E-Mail-Flut</strong>\n\nTeam-Chat mit Kanälen, Threads und Dateiablage – auf deinem eigenen Server.\n\nSo nutzt dein Betrieb Mattermost:\n✅ Weniger interne E-Mails\n✅ Jedes Projekt in eigenem Kanal\n✅ Anbindung an Automatisierungen\n\n💡 Eine selbst gehostete Alternative zu Slack oder Teams.\n\n🔗 mattermost.com\n\n💬 Wie viele interne Mails bekommst du am Tag?\n\n#30Tage30Tools #Kommunikation #TeamChat #Zusammenarbeit #OpenSource"
+  },
+  {
+   "day": 13,
+   "name": "Whisper",
+   "date": "2026-11-01",
+   "linkedin_page": {
+    "date": "2026-11-01T15:00:00",
+    "html": "<p><strong>Tag 13/30: Whisper – Aus Sprache wird Text</strong></p><p></p><p>Spracherkennung von OpenAI als offenes Modell – macht aus Audio Text, auch komplett lokal.</p><p></p><p>So nutzt dein Betrieb Whisper:</p><p>✅ Meeting-Protokolle erstellen</p><p>✅ Sprachnachrichten von Kunden abtippen</p><p>✅ Untertitel für Videos</p><p></p><p>💡 Läuft auch offline – sensible Gespräche verlassen nie dein Haus.</p><p></p><p>🔗 github.com/openai/whisper</p><p></p><p>💬 Wie viel Zeit kosten euch Protokolle?</p><p></p><p>#30Tage30Tools #KI #Spracherkennung #LokaleKI #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-01T17:30:00",
+    "html": "<p><strong>Tag 13/30: Whisper – Aus Sprache wird Text</strong></p><p></p><p>Spracherkennung von OpenAI als offenes Modell – macht aus Audio Text, auch komplett lokal.</p><p></p><p>So nutzt dein Betrieb Whisper:</p><p>✅ Meeting-Protokolle erstellen</p><p>✅ Sprachnachrichten von Kunden abtippen</p><p>✅ Untertitel für Videos</p><p></p><p>💡 Läuft auch offline – sensible Gespräche verlassen nie dein Haus.</p><p></p><p>🔗 github.com/openai/whisper</p><p></p><p>💬 Wie viel Zeit kosten euch Protokolle?</p><p></p><p>#30Tage30Tools #KI #Spracherkennung #LokaleKI #OpenSource</p>",
+    "title": "Tag 13/30: Whisper – Aus Sprache wird Text"
+   },
+   "instagram": {
+    "date": "2026-11-01T17:30:00",
+    "html": "<p><strong>Tag 13/30: Whisper – Aus Sprache wird Text</strong></p><p></p><p>Spracherkennung von OpenAI als offenes Modell – macht aus Audio Text, auch komplett lokal.</p><p></p><p>So nutzt dein Betrieb Whisper:</p><p>✅ Meeting-Protokolle erstellen</p><p>✅ Sprachnachrichten von Kunden abtippen</p><p>✅ Untertitel für Videos</p><p></p><p>💡 Läuft auch offline – sensible Gespräche verlassen nie dein Haus.</p><p></p><p>🔗 github.com/openai/whisper</p><p></p><p>💬 Wie viel Zeit kosten euch Protokolle?</p><p></p><p>#30Tage30Tools #KI #Spracherkennung #LokaleKI #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-01T18:00:00",
+    "html": "<p><strong>Tag 13/30: Whisper – Aus Sprache wird Text</strong></p><p></p><p>Spracherkennung von OpenAI als offenes Modell – macht aus Audio Text, auch komplett lokal.</p><p></p><p>So nutzt dein Betrieb Whisper:</p><p>✅ Meeting-Protokolle erstellen</p><p>✅ Sprachnachrichten von Kunden abtippen</p><p>✅ Untertitel für Videos</p><p></p><p>💡 Läuft auch offline – sensible Gespräche verlassen nie dein Haus.</p><p></p><p>🔗 github.com/openai/whisper</p><p></p><p>💬 Wie viel Zeit kosten euch Protokolle?</p><p></p><p>#30Tage30Tools #KI #Spracherkennung #LokaleKI #OpenSource</p>",
+    "title": "Tag 13/30: Whisper – Aus Sprache wird Text #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Whisper",
+     "KI",
+     "Spracherkennung",
+     "LokaleKI",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 13/30: Whisper – Aus Sprache wird Text</strong>\n\nSpracherkennung von OpenAI als offenes Modell – macht aus Audio Text, auch komplett lokal.\n\nSo nutzt dein Betrieb Whisper:\n✅ Meeting-Protokolle erstellen\n✅ Sprachnachrichten von Kunden abtippen\n✅ Untertitel für Videos\n\n💡 Läuft auch offline – sensible Gespräche verlassen nie dein Haus.\n\n🔗 github.com/openai/whisper\n\n💬 Wie viel Zeit kosten euch Protokolle?\n\n#30Tage30Tools #KI #Spracherkennung #LokaleKI #OpenSource"
+  },
+  {
+   "day": 14,
+   "name": "OpenProject",
+   "date": "2026-11-02",
+   "linkedin_page": {
+    "date": "2026-11-02T15:00:00",
+    "html": "<p><strong>Tag 14/30: OpenProject – Projekte im Griff</strong></p><p></p><p>Projektmanagement aus Berlin – Aufgaben, Zeitpläne und Gantt-Diagramme an einem Ort.</p><p></p><p>So nutzt dein Betrieb OpenProject:</p><p>✅ Aufträge und Baustellen planen</p><p>✅ Aufgaben im Team verteilen</p><p>✅ Zeiten erfassen</p><p></p><p>💡 OpenProject ist auch Teil von openDesk, dem Open-Source-Arbeitsplatz der Verwaltung.</p><p></p><p>🔗 openproject.org</p><p></p><p>💬 Wie plant ihr eure Projekte heute?</p><p></p><p>#30Tage30Tools #Projektmanagement #Organisation #Team #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-02T17:30:00",
+    "html": "<p><strong>Tag 14/30: OpenProject – Projekte im Griff</strong></p><p></p><p>Projektmanagement aus Berlin – Aufgaben, Zeitpläne und Gantt-Diagramme an einem Ort.</p><p></p><p>So nutzt dein Betrieb OpenProject:</p><p>✅ Aufträge und Baustellen planen</p><p>✅ Aufgaben im Team verteilen</p><p>✅ Zeiten erfassen</p><p></p><p>💡 OpenProject ist auch Teil von openDesk, dem Open-Source-Arbeitsplatz der Verwaltung.</p><p></p><p>🔗 openproject.org</p><p></p><p>💬 Wie plant ihr eure Projekte heute?</p><p></p><p>#30Tage30Tools #Projektmanagement #Organisation #Team #OpenSource</p>",
+    "title": "Tag 14/30: OpenProject – Projekte im Griff"
+   },
+   "instagram": {
+    "date": "2026-11-02T17:30:00",
+    "html": "<p><strong>Tag 14/30: OpenProject – Projekte im Griff</strong></p><p></p><p>Projektmanagement aus Berlin – Aufgaben, Zeitpläne und Gantt-Diagramme an einem Ort.</p><p></p><p>So nutzt dein Betrieb OpenProject:</p><p>✅ Aufträge und Baustellen planen</p><p>✅ Aufgaben im Team verteilen</p><p>✅ Zeiten erfassen</p><p></p><p>💡 OpenProject ist auch Teil von openDesk, dem Open-Source-Arbeitsplatz der Verwaltung.</p><p></p><p>🔗 openproject.org</p><p></p><p>💬 Wie plant ihr eure Projekte heute?</p><p></p><p>#30Tage30Tools #Projektmanagement #Organisation #Team #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-02T18:00:00",
+    "html": "<p><strong>Tag 14/30: OpenProject – Projekte im Griff</strong></p><p></p><p>Projektmanagement aus Berlin – Aufgaben, Zeitpläne und Gantt-Diagramme an einem Ort.</p><p></p><p>So nutzt dein Betrieb OpenProject:</p><p>✅ Aufträge und Baustellen planen</p><p>✅ Aufgaben im Team verteilen</p><p>✅ Zeiten erfassen</p><p></p><p>💡 OpenProject ist auch Teil von openDesk, dem Open-Source-Arbeitsplatz der Verwaltung.</p><p></p><p>🔗 openproject.org</p><p></p><p>💬 Wie plant ihr eure Projekte heute?</p><p></p><p>#30Tage30Tools #Projektmanagement #Organisation #Team #OpenSource</p>",
+    "title": "Tag 14/30: OpenProject – Projekte im Griff #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "OpenProject",
+     "Projektmanagement",
+     "Organisation",
+     "Team",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 14/30: OpenProject – Projekte im Griff</strong>\n\nProjektmanagement aus Berlin – Aufgaben, Zeitpläne und Gantt-Diagramme an einem Ort.\n\nSo nutzt dein Betrieb OpenProject:\n✅ Aufträge und Baustellen planen\n✅ Aufgaben im Team verteilen\n✅ Zeiten erfassen\n\n💡 OpenProject ist auch Teil von openDesk, dem Open-Source-Arbeitsplatz der Verwaltung.\n\n🔗 openproject.org\n\n💬 Wie plant ihr eure Projekte heute?\n\n#30Tage30Tools #Projektmanagement #Organisation #Team #OpenSource"
+  },
+  {
+   "day": 15,
+   "name": "Uptime Kuma",
+   "date": "2026-11-03",
+   "linkedin_page": {
+    "date": "2026-11-03T15:00:00",
+    "html": "<p><strong>Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden</strong></p><p></p><p>Überwacht deine Website und Dienste – und meldet sich sofort, wenn etwas ausfällt.</p><p></p><p>So nutzt dein Betrieb Uptime Kuma:</p><p>✅ Website-Ausfälle sofort bemerken</p><p>✅ SSL-Zertifikate im Blick behalten</p><p>✅ Statusseite für Kunden</p><p></p><p>💡 In wenigen Minuten auf jedem kleinen Server eingerichtet.</p><p></p><p>🔗 github.com/louislam/uptime-kuma</p><p></p><p>💬 Wie schnell merkst du, wenn deine Website down ist?</p><p></p><p>#30Tage30Tools #Monitoring #Website #IT #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-03T17:30:00",
+    "html": "<p><strong>Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden</strong></p><p></p><p>Überwacht deine Website und Dienste – und meldet sich sofort, wenn etwas ausfällt.</p><p></p><p>So nutzt dein Betrieb Uptime Kuma:</p><p>✅ Website-Ausfälle sofort bemerken</p><p>✅ SSL-Zertifikate im Blick behalten</p><p>✅ Statusseite für Kunden</p><p></p><p>💡 In wenigen Minuten auf jedem kleinen Server eingerichtet.</p><p></p><p>🔗 github.com/louislam/uptime-kuma</p><p></p><p>💬 Wie schnell merkst du, wenn deine Website down ist?</p><p></p><p>#30Tage30Tools #Monitoring #Website #IT #OpenSource</p>",
+    "title": "Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden"
+   },
+   "instagram": {
+    "date": "2026-11-03T17:30:00",
+    "html": "<p><strong>Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden</strong></p><p></p><p>Überwacht deine Website und Dienste – und meldet sich sofort, wenn etwas ausfällt.</p><p></p><p>So nutzt dein Betrieb Uptime Kuma:</p><p>✅ Website-Ausfälle sofort bemerken</p><p>✅ SSL-Zertifikate im Blick behalten</p><p>✅ Statusseite für Kunden</p><p></p><p>💡 In wenigen Minuten auf jedem kleinen Server eingerichtet.</p><p></p><p>🔗 github.com/louislam/uptime-kuma</p><p></p><p>💬 Wie schnell merkst du, wenn deine Website down ist?</p><p></p><p>#30Tage30Tools #Monitoring #Website #IT #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-03T18:00:00",
+    "html": "<p><strong>Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden</strong></p><p></p><p>Überwacht deine Website und Dienste – und meldet sich sofort, wenn etwas ausfällt.</p><p></p><p>So nutzt dein Betrieb Uptime Kuma:</p><p>✅ Website-Ausfälle sofort bemerken</p><p>✅ SSL-Zertifikate im Blick behalten</p><p>✅ Statusseite für Kunden</p><p></p><p>💡 In wenigen Minuten auf jedem kleinen Server eingerichtet.</p><p></p><p>🔗 github.com/louislam/uptime-kuma</p><p></p><p>💬 Wie schnell merkst du, wenn deine Website down ist?</p><p></p><p>#30Tage30Tools #Monitoring #Website #IT #OpenSource</p>",
+    "title": "Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "UptimeKuma",
+     "Monitoring",
+     "Website",
+     "IT",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 15/30: Uptime Kuma – Merk es vor deinen Kunden</strong>\n\nÜberwacht deine Website und Dienste – und meldet sich sofort, wenn etwas ausfällt.\n\nSo nutzt dein Betrieb Uptime Kuma:\n✅ Website-Ausfälle sofort bemerken\n✅ SSL-Zertifikate im Blick behalten\n✅ Statusseite für Kunden\n\n💡 In wenigen Minuten auf jedem kleinen Server eingerichtet.\n\n🔗 github.com/louislam/uptime-kuma\n\n💬 Wie schnell merkst du, wenn deine Website down ist?\n\n#30Tage30Tools #Monitoring #Website #IT #OpenSource"
+  },
+  {
+   "day": 16,
+   "name": "Cal.com",
+   "date": "2026-11-04",
+   "linkedin_page": {
+    "date": "2026-11-04T15:00:00",
+    "html": "<p><strong>Tag 16/30: Cal.com – Nie wieder Termin-Pingpong</strong></p><p></p><p>Online-Terminbuchung – Kunden wählen selbst einen freien Slot in deinem Kalender.</p><p></p><p>So nutzt dein Betrieb Cal.com:</p><p>✅ Erstgespräche buchen lassen</p><p>✅ Kein Hin und Her per Mail</p><p>✅ Automatische Erinnerungen</p><p></p><p>💡 Als Open Source lässt sich Cal.com auch selbst hosten.</p><p></p><p>🔗 cal.com</p><p></p><p>💬 Wie viele Mails kostet dich ein einziger Termin?</p><p></p><p>#30Tage30Tools #Termine #Produktivität #Kundenservice #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-04T17:30:00",
+    "html": "<p><strong>Tag 16/30: Cal.com – Nie wieder Termin-Pingpong</strong></p><p></p><p>Online-Terminbuchung – Kunden wählen selbst einen freien Slot in deinem Kalender.</p><p></p><p>So nutzt dein Betrieb Cal.com:</p><p>✅ Erstgespräche buchen lassen</p><p>✅ Kein Hin und Her per Mail</p><p>✅ Automatische Erinnerungen</p><p></p><p>💡 Als Open Source lässt sich Cal.com auch selbst hosten.</p><p></p><p>🔗 cal.com</p><p></p><p>💬 Wie viele Mails kostet dich ein einziger Termin?</p><p></p><p>#30Tage30Tools #Termine #Produktivität #Kundenservice #OpenSource</p>",
+    "title": "Tag 16/30: Cal.com – Nie wieder Termin-Pingpong"
+   },
+   "instagram": {
+    "date": "2026-11-04T17:30:00",
+    "html": "<p><strong>Tag 16/30: Cal.com – Nie wieder Termin-Pingpong</strong></p><p></p><p>Online-Terminbuchung – Kunden wählen selbst einen freien Slot in deinem Kalender.</p><p></p><p>So nutzt dein Betrieb Cal.com:</p><p>✅ Erstgespräche buchen lassen</p><p>✅ Kein Hin und Her per Mail</p><p>✅ Automatische Erinnerungen</p><p></p><p>💡 Als Open Source lässt sich Cal.com auch selbst hosten.</p><p></p><p>🔗 cal.com</p><p></p><p>💬 Wie viele Mails kostet dich ein einziger Termin?</p><p></p><p>#30Tage30Tools #Termine #Produktivität #Kundenservice #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-04T18:00:00",
+    "html": "<p><strong>Tag 16/30: Cal.com – Nie wieder Termin-Pingpong</strong></p><p></p><p>Online-Terminbuchung – Kunden wählen selbst einen freien Slot in deinem Kalender.</p><p></p><p>So nutzt dein Betrieb Cal.com:</p><p>✅ Erstgespräche buchen lassen</p><p>✅ Kein Hin und Her per Mail</p><p>✅ Automatische Erinnerungen</p><p></p><p>💡 Als Open Source lässt sich Cal.com auch selbst hosten.</p><p></p><p>🔗 cal.com</p><p></p><p>💬 Wie viele Mails kostet dich ein einziger Termin?</p><p></p><p>#30Tage30Tools #Termine #Produktivität #Kundenservice #OpenSource</p>",
+    "title": "Tag 16/30: Cal.com – Nie wieder Termin-Pingpong #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Cal.com",
+     "Termine",
+     "Produktivität",
+     "Kundenservice",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 16/30: Cal.com – Nie wieder Termin-Pingpong</strong>\n\nOnline-Terminbuchung – Kunden wählen selbst einen freien Slot in deinem Kalender.\n\nSo nutzt dein Betrieb Cal.com:\n✅ Erstgespräche buchen lassen\n✅ Kein Hin und Her per Mail\n✅ Automatische Erinnerungen\n\n💡 Als Open Source lässt sich Cal.com auch selbst hosten.\n\n🔗 cal.com\n\n💬 Wie viele Mails kostet dich ein einziger Termin?\n\n#30Tage30Tools #Termine #Produktivität #Kundenservice #OpenSource"
+  },
+  {
+   "day": 17,
+   "name": "Claude",
+   "date": "2026-11-05",
+   "linkedin_page": {
+    "date": "2026-11-05T15:00:00",
+    "html": "<p><strong>Tag 17/30: Claude – Dein KI-Kollege für Texte</strong></p><p></p><p>KI-Assistent von Anthropic – stark beim Schreiben, Analysieren und bei langen Dokumenten.</p><p></p><p>So nutzt dein Betrieb Claude:</p><p>✅ Lange Verträge zusammenfassen</p><p>✅ Texte und Angebote entwerfen</p><p>✅ Tabellen und Daten auswerten</p><p></p><p>💡 Kläre den Datenschutz, bevor du vertrauliche Kundendaten eingibst.</p><p></p><p>🔗 claude.ai</p><p></p><p>💬 Wofür nutzt du KI am häufigsten?</p><p></p><p>#30Tage30Tools #KI #Produktivität #Texten</p>"
+   },
+   "facebook": {
+    "date": "2026-11-05T17:30:00",
+    "html": "<p><strong>Tag 17/30: Claude – Dein KI-Kollege für Texte</strong></p><p></p><p>KI-Assistent von Anthropic – stark beim Schreiben, Analysieren und bei langen Dokumenten.</p><p></p><p>So nutzt dein Betrieb Claude:</p><p>✅ Lange Verträge zusammenfassen</p><p>✅ Texte und Angebote entwerfen</p><p>✅ Tabellen und Daten auswerten</p><p></p><p>💡 Kläre den Datenschutz, bevor du vertrauliche Kundendaten eingibst.</p><p></p><p>🔗 claude.ai</p><p></p><p>💬 Wofür nutzt du KI am häufigsten?</p><p></p><p>#30Tage30Tools #KI #Produktivität #Texten</p>",
+    "title": "Tag 17/30: Claude – Dein KI-Kollege für Texte"
+   },
+   "instagram": {
+    "date": "2026-11-05T17:30:00",
+    "html": "<p><strong>Tag 17/30: Claude – Dein KI-Kollege für Texte</strong></p><p></p><p>KI-Assistent von Anthropic – stark beim Schreiben, Analysieren und bei langen Dokumenten.</p><p></p><p>So nutzt dein Betrieb Claude:</p><p>✅ Lange Verträge zusammenfassen</p><p>✅ Texte und Angebote entwerfen</p><p>✅ Tabellen und Daten auswerten</p><p></p><p>💡 Kläre den Datenschutz, bevor du vertrauliche Kundendaten eingibst.</p><p></p><p>🔗 claude.ai</p><p></p><p>💬 Wofür nutzt du KI am häufigsten?</p><p></p><p>#30Tage30Tools #KI #Produktivität #Texten #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-05T18:00:00",
+    "html": "<p><strong>Tag 17/30: Claude – Dein KI-Kollege für Texte</strong></p><p></p><p>KI-Assistent von Anthropic – stark beim Schreiben, Analysieren und bei langen Dokumenten.</p><p></p><p>So nutzt dein Betrieb Claude:</p><p>✅ Lange Verträge zusammenfassen</p><p>✅ Texte und Angebote entwerfen</p><p>✅ Tabellen und Daten auswerten</p><p></p><p>💡 Kläre den Datenschutz, bevor du vertrauliche Kundendaten eingibst.</p><p></p><p>🔗 claude.ai</p><p></p><p>💬 Wofür nutzt du KI am häufigsten?</p><p></p><p>#30Tage30Tools #KI #Produktivität #Texten</p>",
+    "title": "Tag 17/30: Claude – Dein KI-Kollege für Texte #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Claude",
+     "KI",
+     "Produktivität",
+     "Texten",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 17/30: Claude – Dein KI-Kollege für Texte</strong>\n\nKI-Assistent von Anthropic – stark beim Schreiben, Analysieren und bei langen Dokumenten.\n\nSo nutzt dein Betrieb Claude:\n✅ Lange Verträge zusammenfassen\n✅ Texte und Angebote entwerfen\n✅ Tabellen und Daten auswerten\n\n💡 Kläre den Datenschutz, bevor du vertrauliche Kundendaten eingibst.\n\n🔗 claude.ai\n\n💬 Wofür nutzt du KI am häufigsten?\n\n#30Tage30Tools #KI #Produktivität #Texten"
+  },
+  {
+   "day": 18,
+   "name": "Excalidraw",
+   "date": "2026-11-06",
+   "linkedin_page": {
+    "date": "2026-11-06T15:00:00",
+    "html": "<p><strong>Tag 18/30: Excalidraw – Ideen sichtbar machen</strong></p><p></p><p>Digitales Whiteboard im Handskizzen-Look – perfekt für Ideen und Abläufe.</p><p></p><p>So nutzt dein Betrieb Excalidraw:</p><p>✅ Abläufe gemeinsam aufmalen</p><p>✅ Ideen im Meeting festhalten</p><p>✅ Skizzen für Kunden</p><p></p><p>💡 Läuft direkt im Browser, ohne Konto – einfach loslegen.</p><p></p><p>🔗 excalidraw.com</p><p></p><p>💬 Skizzierst du lieber auf Papier oder digital?</p><p></p><p>#30Tage30Tools #Whiteboard #Kreativität #Zusammenarbeit #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-06T17:30:00",
+    "html": "<p><strong>Tag 18/30: Excalidraw – Ideen sichtbar machen</strong></p><p></p><p>Digitales Whiteboard im Handskizzen-Look – perfekt für Ideen und Abläufe.</p><p></p><p>So nutzt dein Betrieb Excalidraw:</p><p>✅ Abläufe gemeinsam aufmalen</p><p>✅ Ideen im Meeting festhalten</p><p>✅ Skizzen für Kunden</p><p></p><p>💡 Läuft direkt im Browser, ohne Konto – einfach loslegen.</p><p></p><p>🔗 excalidraw.com</p><p></p><p>💬 Skizzierst du lieber auf Papier oder digital?</p><p></p><p>#30Tage30Tools #Whiteboard #Kreativität #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 18/30: Excalidraw – Ideen sichtbar machen"
+   },
+   "instagram": {
+    "date": "2026-11-06T17:30:00",
+    "html": "<p><strong>Tag 18/30: Excalidraw – Ideen sichtbar machen</strong></p><p></p><p>Digitales Whiteboard im Handskizzen-Look – perfekt für Ideen und Abläufe.</p><p></p><p>So nutzt dein Betrieb Excalidraw:</p><p>✅ Abläufe gemeinsam aufmalen</p><p>✅ Ideen im Meeting festhalten</p><p>✅ Skizzen für Kunden</p><p></p><p>💡 Läuft direkt im Browser, ohne Konto – einfach loslegen.</p><p></p><p>🔗 excalidraw.com</p><p></p><p>💬 Skizzierst du lieber auf Papier oder digital?</p><p></p><p>#30Tage30Tools #Whiteboard #Kreativität #Zusammenarbeit #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-06T18:00:00",
+    "html": "<p><strong>Tag 18/30: Excalidraw – Ideen sichtbar machen</strong></p><p></p><p>Digitales Whiteboard im Handskizzen-Look – perfekt für Ideen und Abläufe.</p><p></p><p>So nutzt dein Betrieb Excalidraw:</p><p>✅ Abläufe gemeinsam aufmalen</p><p>✅ Ideen im Meeting festhalten</p><p>✅ Skizzen für Kunden</p><p></p><p>💡 Läuft direkt im Browser, ohne Konto – einfach loslegen.</p><p></p><p>🔗 excalidraw.com</p><p></p><p>💬 Skizzierst du lieber auf Papier oder digital?</p><p></p><p>#30Tage30Tools #Whiteboard #Kreativität #Zusammenarbeit #OpenSource</p>",
+    "title": "Tag 18/30: Excalidraw – Ideen sichtbar machen #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Excalidraw",
+     "Whiteboard",
+     "Kreativität",
+     "Zusammenarbeit",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 18/30: Excalidraw – Ideen sichtbar machen</strong>\n\nDigitales Whiteboard im Handskizzen-Look – perfekt für Ideen und Abläufe.\n\nSo nutzt dein Betrieb Excalidraw:\n✅ Abläufe gemeinsam aufmalen\n✅ Ideen im Meeting festhalten\n✅ Skizzen für Kunden\n\n💡 Läuft direkt im Browser, ohne Konto – einfach loslegen.\n\n🔗 excalidraw.com\n\n💬 Skizzierst du lieber auf Papier oder digital?\n\n#30Tage30Tools #Whiteboard #Kreativität #Zusammenarbeit #OpenSource"
+  },
+  {
+   "day": 19,
+   "name": "BookStack",
+   "date": "2026-11-07",
+   "linkedin_page": {
+    "date": "2026-11-07T15:00:00",
+    "html": "<p><strong>Tag 19/30: BookStack – Firmenwissen, das bleibt</strong></p><p></p><p>Wiki für dein Firmenwissen – sortiert wie Bücher, Kapitel und Seiten.</p><p></p><p>So nutzt dein Betrieb BookStack:</p><p>✅ Neue Mitarbeiter einarbeiten</p><p>✅ Anleitungen und Checklisten</p><p>✅ Wissen sichern, wenn jemand geht</p><p></p><p>💡 Sehr einfach zu bedienen – auch für Kollegen ohne Technik-Faible.</p><p></p><p>🔗 bookstackapp.com</p><p></p><p>💬 Wo steht bei euch, wie Dinge funktionieren?</p><p></p><p>#30Tage30Tools #Wissensmanagement #Wiki #Onboarding #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-07T17:30:00",
+    "html": "<p><strong>Tag 19/30: BookStack – Firmenwissen, das bleibt</strong></p><p></p><p>Wiki für dein Firmenwissen – sortiert wie Bücher, Kapitel und Seiten.</p><p></p><p>So nutzt dein Betrieb BookStack:</p><p>✅ Neue Mitarbeiter einarbeiten</p><p>✅ Anleitungen und Checklisten</p><p>✅ Wissen sichern, wenn jemand geht</p><p></p><p>💡 Sehr einfach zu bedienen – auch für Kollegen ohne Technik-Faible.</p><p></p><p>🔗 bookstackapp.com</p><p></p><p>💬 Wo steht bei euch, wie Dinge funktionieren?</p><p></p><p>#30Tage30Tools #Wissensmanagement #Wiki #Onboarding #OpenSource</p>",
+    "title": "Tag 19/30: BookStack – Firmenwissen, das bleibt"
+   },
+   "instagram": {
+    "date": "2026-11-07T17:30:00",
+    "html": "<p><strong>Tag 19/30: BookStack – Firmenwissen, das bleibt</strong></p><p></p><p>Wiki für dein Firmenwissen – sortiert wie Bücher, Kapitel und Seiten.</p><p></p><p>So nutzt dein Betrieb BookStack:</p><p>✅ Neue Mitarbeiter einarbeiten</p><p>✅ Anleitungen und Checklisten</p><p>✅ Wissen sichern, wenn jemand geht</p><p></p><p>💡 Sehr einfach zu bedienen – auch für Kollegen ohne Technik-Faible.</p><p></p><p>🔗 bookstackapp.com</p><p></p><p>💬 Wo steht bei euch, wie Dinge funktionieren?</p><p></p><p>#30Tage30Tools #Wissensmanagement #Wiki #Onboarding #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-07T18:00:00",
+    "html": "<p><strong>Tag 19/30: BookStack – Firmenwissen, das bleibt</strong></p><p></p><p>Wiki für dein Firmenwissen – sortiert wie Bücher, Kapitel und Seiten.</p><p></p><p>So nutzt dein Betrieb BookStack:</p><p>✅ Neue Mitarbeiter einarbeiten</p><p>✅ Anleitungen und Checklisten</p><p>✅ Wissen sichern, wenn jemand geht</p><p></p><p>💡 Sehr einfach zu bedienen – auch für Kollegen ohne Technik-Faible.</p><p></p><p>🔗 bookstackapp.com</p><p></p><p>💬 Wo steht bei euch, wie Dinge funktionieren?</p><p></p><p>#30Tage30Tools #Wissensmanagement #Wiki #Onboarding #OpenSource</p>",
+    "title": "Tag 19/30: BookStack – Firmenwissen, das bleibt #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "BookStack",
+     "Wissensmanagement",
+     "Wiki",
+     "Onboarding",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 19/30: BookStack – Firmenwissen, das bleibt</strong>\n\nWiki für dein Firmenwissen – sortiert wie Bücher, Kapitel und Seiten.\n\nSo nutzt dein Betrieb BookStack:\n✅ Neue Mitarbeiter einarbeiten\n✅ Anleitungen und Checklisten\n✅ Wissen sichern, wenn jemand geht\n\n💡 Sehr einfach zu bedienen – auch für Kollegen ohne Technik-Faible.\n\n🔗 bookstackapp.com\n\n💬 Wo steht bei euch, wie Dinge funktionieren?\n\n#30Tage30Tools #Wissensmanagement #Wiki #Onboarding #OpenSource"
+  },
+  {
+   "day": 20,
+   "name": "Mautic",
+   "date": "2026-11-08",
+   "linkedin_page": {
+    "date": "2026-11-08T15:00:00",
+    "html": "<p><strong>Tag 20/30: Mautic – Marketing auf Autopilot</strong></p><p></p><p>Marketing-Automation: Newsletter, Kampagnen und Lead-Pflege laufen automatisch.</p><p></p><p>So nutzt dein Betrieb Mautic:</p><p>✅ Willkommens-Mails automatisch</p><p>✅ Interessenten gezielt nachfassen</p><p>✅ Kampagnen messen</p><p></p><p>💡 Open-Source-Alternative zu HubSpot & Co. – auf deinem eigenen Server.</p><p></p><p>🔗 mautic.org</p><p></p><p>💬 Fasst ihr Anfragen systematisch nach?</p><p></p><p>#30Tage30Tools #Marketing #Automatisierung #Leads #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-08T17:30:00",
+    "html": "<p><strong>Tag 20/30: Mautic – Marketing auf Autopilot</strong></p><p></p><p>Marketing-Automation: Newsletter, Kampagnen und Lead-Pflege laufen automatisch.</p><p></p><p>So nutzt dein Betrieb Mautic:</p><p>✅ Willkommens-Mails automatisch</p><p>✅ Interessenten gezielt nachfassen</p><p>✅ Kampagnen messen</p><p></p><p>💡 Open-Source-Alternative zu HubSpot & Co. – auf deinem eigenen Server.</p><p></p><p>🔗 mautic.org</p><p></p><p>💬 Fasst ihr Anfragen systematisch nach?</p><p></p><p>#30Tage30Tools #Marketing #Automatisierung #Leads #OpenSource</p>",
+    "title": "Tag 20/30: Mautic – Marketing auf Autopilot"
+   },
+   "instagram": {
+    "date": "2026-11-08T17:30:00",
+    "html": "<p><strong>Tag 20/30: Mautic – Marketing auf Autopilot</strong></p><p></p><p>Marketing-Automation: Newsletter, Kampagnen und Lead-Pflege laufen automatisch.</p><p></p><p>So nutzt dein Betrieb Mautic:</p><p>✅ Willkommens-Mails automatisch</p><p>✅ Interessenten gezielt nachfassen</p><p>✅ Kampagnen messen</p><p></p><p>💡 Open-Source-Alternative zu HubSpot & Co. – auf deinem eigenen Server.</p><p></p><p>🔗 mautic.org</p><p></p><p>💬 Fasst ihr Anfragen systematisch nach?</p><p></p><p>#30Tage30Tools #Marketing #Automatisierung #Leads #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-08T18:00:00",
+    "html": "<p><strong>Tag 20/30: Mautic – Marketing auf Autopilot</strong></p><p></p><p>Marketing-Automation: Newsletter, Kampagnen und Lead-Pflege laufen automatisch.</p><p></p><p>So nutzt dein Betrieb Mautic:</p><p>✅ Willkommens-Mails automatisch</p><p>✅ Interessenten gezielt nachfassen</p><p>✅ Kampagnen messen</p><p></p><p>💡 Open-Source-Alternative zu HubSpot & Co. – auf deinem eigenen Server.</p><p></p><p>🔗 mautic.org</p><p></p><p>💬 Fasst ihr Anfragen systematisch nach?</p><p></p><p>#30Tage30Tools #Marketing #Automatisierung #Leads #OpenSource</p>",
+    "title": "Tag 20/30: Mautic – Marketing auf Autopilot #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Mautic",
+     "Marketing",
+     "Automatisierung",
+     "Leads",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 20/30: Mautic – Marketing auf Autopilot</strong>\n\nMarketing-Automation: Newsletter, Kampagnen und Lead-Pflege laufen automatisch.\n\nSo nutzt dein Betrieb Mautic:\n✅ Willkommens-Mails automatisch\n✅ Interessenten gezielt nachfassen\n✅ Kampagnen messen\n\n💡 Open-Source-Alternative zu HubSpot & Co. – auf deinem eigenen Server.\n\n🔗 mautic.org\n\n💬 Fasst ihr Anfragen systematisch nach?\n\n#30Tage30Tools #Marketing #Automatisierung #Leads #OpenSource"
+  },
+  {
+   "day": 21,
+   "name": "Proton Mail",
+   "date": "2026-11-09",
+   "linkedin_page": {
+    "date": "2026-11-09T15:00:00",
+    "html": "<p><strong>Tag 21/30: Proton Mail – E-Mail, die keiner mitliest</strong></p><p></p><p>Verschlüsselte E-Mail aus der Schweiz – mit eigener Domain auch für Firmen nutzbar.</p><p></p><p>So nutzt dein Betrieb Proton Mail:</p><p>✅ Vertrauliche Kundenkommunikation</p><p>✅ Ende-zu-Ende-Verschlüsselung</p><p>✅ Datenschutz als Verkaufsargument</p><p></p><p>💡 Die Apps sind Open Source, der Dienst läuft in der Schweiz.</p><p></p><p>🔗 proton.me</p><p></p><p>💬 Wie sicher sind eure E-Mails?</p><p></p><p>#30Tage30Tools #EMail #Datenschutz #ITSicherheit</p>"
+   },
+   "facebook": {
+    "date": "2026-11-09T17:30:00",
+    "html": "<p><strong>Tag 21/30: Proton Mail – E-Mail, die keiner mitliest</strong></p><p></p><p>Verschlüsselte E-Mail aus der Schweiz – mit eigener Domain auch für Firmen nutzbar.</p><p></p><p>So nutzt dein Betrieb Proton Mail:</p><p>✅ Vertrauliche Kundenkommunikation</p><p>✅ Ende-zu-Ende-Verschlüsselung</p><p>✅ Datenschutz als Verkaufsargument</p><p></p><p>💡 Die Apps sind Open Source, der Dienst läuft in der Schweiz.</p><p></p><p>🔗 proton.me</p><p></p><p>💬 Wie sicher sind eure E-Mails?</p><p></p><p>#30Tage30Tools #EMail #Datenschutz #ITSicherheit</p>",
+    "title": "Tag 21/30: Proton Mail – E-Mail, die keiner mitliest"
+   },
+   "instagram": {
+    "date": "2026-11-09T17:30:00",
+    "html": "<p><strong>Tag 21/30: Proton Mail – E-Mail, die keiner mitliest</strong></p><p></p><p>Verschlüsselte E-Mail aus der Schweiz – mit eigener Domain auch für Firmen nutzbar.</p><p></p><p>So nutzt dein Betrieb Proton Mail:</p><p>✅ Vertrauliche Kundenkommunikation</p><p>✅ Ende-zu-Ende-Verschlüsselung</p><p>✅ Datenschutz als Verkaufsargument</p><p></p><p>💡 Die Apps sind Open Source, der Dienst läuft in der Schweiz.</p><p></p><p>🔗 proton.me</p><p></p><p>💬 Wie sicher sind eure E-Mails?</p><p></p><p>#30Tage30Tools #EMail #Datenschutz #ITSicherheit #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-09T18:00:00",
+    "html": "<p><strong>Tag 21/30: Proton Mail – E-Mail, die keiner mitliest</strong></p><p></p><p>Verschlüsselte E-Mail aus der Schweiz – mit eigener Domain auch für Firmen nutzbar.</p><p></p><p>So nutzt dein Betrieb Proton Mail:</p><p>✅ Vertrauliche Kundenkommunikation</p><p>✅ Ende-zu-Ende-Verschlüsselung</p><p>✅ Datenschutz als Verkaufsargument</p><p></p><p>💡 Die Apps sind Open Source, der Dienst läuft in der Schweiz.</p><p></p><p>🔗 proton.me</p><p></p><p>💬 Wie sicher sind eure E-Mails?</p><p></p><p>#30Tage30Tools #EMail #Datenschutz #ITSicherheit</p>",
+    "title": "Tag 21/30: Proton Mail – E-Mail, die keiner mitliest #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "ProtonMail",
+     "EMail",
+     "Datenschutz",
+     "ITSicherheit",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 21/30: Proton Mail – E-Mail, die keiner mitliest</strong>\n\nVerschlüsselte E-Mail aus der Schweiz – mit eigener Domain auch für Firmen nutzbar.\n\nSo nutzt dein Betrieb Proton Mail:\n✅ Vertrauliche Kundenkommunikation\n✅ Ende-zu-Ende-Verschlüsselung\n✅ Datenschutz als Verkaufsargument\n\n💡 Die Apps sind Open Source, der Dienst läuft in der Schweiz.\n\n🔗 proton.me\n\n💬 Wie sicher sind eure E-Mails?\n\n#30Tage30Tools #EMail #Datenschutz #ITSicherheit"
+  },
+  {
+   "day": 22,
+   "name": "Baserow",
+   "date": "2026-11-10",
+   "linkedin_page": {
+    "date": "2026-11-10T15:00:00",
+    "html": "<p><strong>Tag 22/30: Baserow – Excel-Chaos war gestern</strong></p><p></p><p>Datenbank ohne Programmieren – sieht aus wie eine Tabelle, kann aber viel mehr.</p><p></p><p>So nutzt dein Betrieb Baserow:</p><p>✅ Kunden- und Auftragslisten</p><p>✅ Lager oder Inventar verwalten</p><p>✅ Schluss mit zehn Excel-Versionen</p><p></p><p>💡 Open-Source-Alternative zu Airtable, entwickelt in den Niederlanden.</p><p></p><p>🔗 baserow.io</p><p></p><p>💬 Wie viele Excel-Listen pflegt ihr parallel?</p><p></p><p>#30Tage30Tools #NoCode #Datenbank #Organisation #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-10T17:30:00",
+    "html": "<p><strong>Tag 22/30: Baserow – Excel-Chaos war gestern</strong></p><p></p><p>Datenbank ohne Programmieren – sieht aus wie eine Tabelle, kann aber viel mehr.</p><p></p><p>So nutzt dein Betrieb Baserow:</p><p>✅ Kunden- und Auftragslisten</p><p>✅ Lager oder Inventar verwalten</p><p>✅ Schluss mit zehn Excel-Versionen</p><p></p><p>💡 Open-Source-Alternative zu Airtable, entwickelt in den Niederlanden.</p><p></p><p>🔗 baserow.io</p><p></p><p>💬 Wie viele Excel-Listen pflegt ihr parallel?</p><p></p><p>#30Tage30Tools #NoCode #Datenbank #Organisation #OpenSource</p>",
+    "title": "Tag 22/30: Baserow – Excel-Chaos war gestern"
+   },
+   "instagram": {
+    "date": "2026-11-10T17:30:00",
+    "html": "<p><strong>Tag 22/30: Baserow – Excel-Chaos war gestern</strong></p><p></p><p>Datenbank ohne Programmieren – sieht aus wie eine Tabelle, kann aber viel mehr.</p><p></p><p>So nutzt dein Betrieb Baserow:</p><p>✅ Kunden- und Auftragslisten</p><p>✅ Lager oder Inventar verwalten</p><p>✅ Schluss mit zehn Excel-Versionen</p><p></p><p>💡 Open-Source-Alternative zu Airtable, entwickelt in den Niederlanden.</p><p></p><p>🔗 baserow.io</p><p></p><p>💬 Wie viele Excel-Listen pflegt ihr parallel?</p><p></p><p>#30Tage30Tools #NoCode #Datenbank #Organisation #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-10T18:00:00",
+    "html": "<p><strong>Tag 22/30: Baserow – Excel-Chaos war gestern</strong></p><p></p><p>Datenbank ohne Programmieren – sieht aus wie eine Tabelle, kann aber viel mehr.</p><p></p><p>So nutzt dein Betrieb Baserow:</p><p>✅ Kunden- und Auftragslisten</p><p>✅ Lager oder Inventar verwalten</p><p>✅ Schluss mit zehn Excel-Versionen</p><p></p><p>💡 Open-Source-Alternative zu Airtable, entwickelt in den Niederlanden.</p><p></p><p>🔗 baserow.io</p><p></p><p>💬 Wie viele Excel-Listen pflegt ihr parallel?</p><p></p><p>#30Tage30Tools #NoCode #Datenbank #Organisation #OpenSource</p>",
+    "title": "Tag 22/30: Baserow – Excel-Chaos war gestern #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Baserow",
+     "NoCode",
+     "Datenbank",
+     "Organisation",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 22/30: Baserow – Excel-Chaos war gestern</strong>\n\nDatenbank ohne Programmieren – sieht aus wie eine Tabelle, kann aber viel mehr.\n\nSo nutzt dein Betrieb Baserow:\n✅ Kunden- und Auftragslisten\n✅ Lager oder Inventar verwalten\n✅ Schluss mit zehn Excel-Versionen\n\n💡 Open-Source-Alternative zu Airtable, entwickelt in den Niederlanden.\n\n🔗 baserow.io\n\n💬 Wie viele Excel-Listen pflegt ihr parallel?\n\n#30Tage30Tools #NoCode #Datenbank #Organisation #OpenSource"
+  },
+  {
+   "day": 23,
+   "name": "Hugging Face",
+   "date": "2026-11-11",
+   "linkedin_page": {
+    "date": "2026-11-11T15:00:00",
+    "html": "<p><strong>Tag 23/30: Hugging Face – Der App-Store für offene KI</strong></p><p></p><p>Die größte Plattform für offene KI-Modelle – zum Ausprobieren und Herunterladen.</p><p></p><p>So nutzt dein Betrieb Hugging Face:</p><p>✅ Passende Open-Source-Modelle finden</p><p>✅ Modelle vor dem Einsatz testen</p><p>✅ Basis für eigene KI-Lösungen</p><p></p><p>💡 Achte vor dem Einsatz auf die Lizenz – nicht jedes Modell ist kommerziell frei.</p><p></p><p>🔗 huggingface.co</p><p></p><p>💬 Hast du schon mal ein offenes KI-Modell ausprobiert?</p><p></p><p>#30Tage30Tools #KI #OpenSourceKI #Innovation</p>"
+   },
+   "facebook": {
+    "date": "2026-11-11T17:30:00",
+    "html": "<p><strong>Tag 23/30: Hugging Face – Der App-Store für offene KI</strong></p><p></p><p>Die größte Plattform für offene KI-Modelle – zum Ausprobieren und Herunterladen.</p><p></p><p>So nutzt dein Betrieb Hugging Face:</p><p>✅ Passende Open-Source-Modelle finden</p><p>✅ Modelle vor dem Einsatz testen</p><p>✅ Basis für eigene KI-Lösungen</p><p></p><p>💡 Achte vor dem Einsatz auf die Lizenz – nicht jedes Modell ist kommerziell frei.</p><p></p><p>🔗 huggingface.co</p><p></p><p>💬 Hast du schon mal ein offenes KI-Modell ausprobiert?</p><p></p><p>#30Tage30Tools #KI #OpenSourceKI #Innovation</p>",
+    "title": "Tag 23/30: Hugging Face – Der App-Store für offene KI"
+   },
+   "instagram": {
+    "date": "2026-11-11T17:30:00",
+    "html": "<p><strong>Tag 23/30: Hugging Face – Der App-Store für offene KI</strong></p><p></p><p>Die größte Plattform für offene KI-Modelle – zum Ausprobieren und Herunterladen.</p><p></p><p>So nutzt dein Betrieb Hugging Face:</p><p>✅ Passende Open-Source-Modelle finden</p><p>✅ Modelle vor dem Einsatz testen</p><p>✅ Basis für eigene KI-Lösungen</p><p></p><p>💡 Achte vor dem Einsatz auf die Lizenz – nicht jedes Modell ist kommerziell frei.</p><p></p><p>🔗 huggingface.co</p><p></p><p>💬 Hast du schon mal ein offenes KI-Modell ausprobiert?</p><p></p><p>#30Tage30Tools #KI #OpenSourceKI #Innovation #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-11T18:00:00",
+    "html": "<p><strong>Tag 23/30: Hugging Face – Der App-Store für offene KI</strong></p><p></p><p>Die größte Plattform für offene KI-Modelle – zum Ausprobieren und Herunterladen.</p><p></p><p>So nutzt dein Betrieb Hugging Face:</p><p>✅ Passende Open-Source-Modelle finden</p><p>✅ Modelle vor dem Einsatz testen</p><p>✅ Basis für eigene KI-Lösungen</p><p></p><p>💡 Achte vor dem Einsatz auf die Lizenz – nicht jedes Modell ist kommerziell frei.</p><p></p><p>🔗 huggingface.co</p><p></p><p>💬 Hast du schon mal ein offenes KI-Modell ausprobiert?</p><p></p><p>#30Tage30Tools #KI #OpenSourceKI #Innovation</p>",
+    "title": "Tag 23/30: Hugging Face – Der App-Store für offene KI #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "HuggingFace",
+     "KI",
+     "OpenSourceKI",
+     "Innovation",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 23/30: Hugging Face – Der App-Store für offene KI</strong>\n\nDie größte Plattform für offene KI-Modelle – zum Ausprobieren und Herunterladen.\n\nSo nutzt dein Betrieb Hugging Face:\n✅ Passende Open-Source-Modelle finden\n✅ Modelle vor dem Einsatz testen\n✅ Basis für eigene KI-Lösungen\n\n💡 Achte vor dem Einsatz auf die Lizenz – nicht jedes Modell ist kommerziell frei.\n\n🔗 huggingface.co\n\n💬 Hast du schon mal ein offenes KI-Modell ausprobiert?\n\n#30Tage30Tools #KI #OpenSourceKI #Innovation"
+  },
+  {
+   "day": 24,
+   "name": "WordPress",
+   "date": "2026-11-12",
+   "linkedin_page": {
+    "date": "2026-11-12T15:00:00",
+    "html": "<p><strong>Tag 24/30: WordPress – Deine Website, deine Regeln</strong></p><p></p><p>Das meistgenutzte Website-System der Welt – flexibel, erweiterbar und Open Source.</p><p></p><p>So nutzt dein Betrieb WordPress:</p><p>✅ Firmenwebsite selbst pflegen</p><p>✅ Blog für mehr Sichtbarkeit bei Google</p><p>✅ Kontaktformulare und mehr</p><p></p><p>💡 Gut 40 % aller Websites weltweit laufen mit WordPress.</p><p></p><p>🔗 wordpress.org</p><p></p><p>💬 Kannst du deine Website selbst ändern?</p><p></p><p>#30Tage30Tools #Website #SEO #Marketing #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-12T17:30:00",
+    "html": "<p><strong>Tag 24/30: WordPress – Deine Website, deine Regeln</strong></p><p></p><p>Das meistgenutzte Website-System der Welt – flexibel, erweiterbar und Open Source.</p><p></p><p>So nutzt dein Betrieb WordPress:</p><p>✅ Firmenwebsite selbst pflegen</p><p>✅ Blog für mehr Sichtbarkeit bei Google</p><p>✅ Kontaktformulare und mehr</p><p></p><p>💡 Gut 40 % aller Websites weltweit laufen mit WordPress.</p><p></p><p>🔗 wordpress.org</p><p></p><p>💬 Kannst du deine Website selbst ändern?</p><p></p><p>#30Tage30Tools #Website #SEO #Marketing #OpenSource</p>",
+    "title": "Tag 24/30: WordPress – Deine Website, deine Regeln"
+   },
+   "instagram": {
+    "date": "2026-11-12T17:30:00",
+    "html": "<p><strong>Tag 24/30: WordPress – Deine Website, deine Regeln</strong></p><p></p><p>Das meistgenutzte Website-System der Welt – flexibel, erweiterbar und Open Source.</p><p></p><p>So nutzt dein Betrieb WordPress:</p><p>✅ Firmenwebsite selbst pflegen</p><p>✅ Blog für mehr Sichtbarkeit bei Google</p><p>✅ Kontaktformulare und mehr</p><p></p><p>💡 Gut 40 % aller Websites weltweit laufen mit WordPress.</p><p></p><p>🔗 wordpress.org</p><p></p><p>💬 Kannst du deine Website selbst ändern?</p><p></p><p>#30Tage30Tools #Website #SEO #Marketing #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-12T18:00:00",
+    "html": "<p><strong>Tag 24/30: WordPress – Deine Website, deine Regeln</strong></p><p></p><p>Das meistgenutzte Website-System der Welt – flexibel, erweiterbar und Open Source.</p><p></p><p>So nutzt dein Betrieb WordPress:</p><p>✅ Firmenwebsite selbst pflegen</p><p>✅ Blog für mehr Sichtbarkeit bei Google</p><p>✅ Kontaktformulare und mehr</p><p></p><p>💡 Gut 40 % aller Websites weltweit laufen mit WordPress.</p><p></p><p>🔗 wordpress.org</p><p></p><p>💬 Kannst du deine Website selbst ändern?</p><p></p><p>#30Tage30Tools #Website #SEO #Marketing #OpenSource</p>",
+    "title": "Tag 24/30: WordPress – Deine Website, deine Regeln #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "WordPress",
+     "Website",
+     "SEO",
+     "Marketing",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 24/30: WordPress – Deine Website, deine Regeln</strong>\n\nDas meistgenutzte Website-System der Welt – flexibel, erweiterbar und Open Source.\n\nSo nutzt dein Betrieb WordPress:\n✅ Firmenwebsite selbst pflegen\n✅ Blog für mehr Sichtbarkeit bei Google\n✅ Kontaktformulare und mehr\n\n💡 Gut 40 % aller Websites weltweit laufen mit WordPress.\n\n🔗 wordpress.org\n\n💬 Kannst du deine Website selbst ändern?\n\n#30Tage30Tools #Website #SEO #Marketing #OpenSource"
+  },
+  {
+   "day": 25,
+   "name": "listmonk",
+   "date": "2026-11-13",
+   "linkedin_page": {
+    "date": "2026-11-13T15:00:00",
+    "html": "<p><strong>Tag 25/30: listmonk – Newsletter ohne Abo-Falle</strong></p><p></p><p>Schlanker Newsletter-Versand auf deinem eigenen Server – auch für große Listen.</p><p></p><p>So nutzt dein Betrieb listmonk:</p><p>✅ Newsletter an Kunden</p><p>✅ Infos an Partner und Händler</p><p>✅ Keine Kosten pro Kontakt</p><p></p><p>💡 Für den Versand brauchst du zusätzlich einen Mailserver oder SMTP-Dienst.</p><p></p><p>🔗 listmonk.app</p><p></p><p>💬 Habt ihr schon einen Newsletter?</p><p></p><p>#30Tage30Tools #Newsletter #EmailMarketing #Marketing #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-13T17:30:00",
+    "html": "<p><strong>Tag 25/30: listmonk – Newsletter ohne Abo-Falle</strong></p><p></p><p>Schlanker Newsletter-Versand auf deinem eigenen Server – auch für große Listen.</p><p></p><p>So nutzt dein Betrieb listmonk:</p><p>✅ Newsletter an Kunden</p><p>✅ Infos an Partner und Händler</p><p>✅ Keine Kosten pro Kontakt</p><p></p><p>💡 Für den Versand brauchst du zusätzlich einen Mailserver oder SMTP-Dienst.</p><p></p><p>🔗 listmonk.app</p><p></p><p>💬 Habt ihr schon einen Newsletter?</p><p></p><p>#30Tage30Tools #Newsletter #EmailMarketing #Marketing #OpenSource</p>",
+    "title": "Tag 25/30: listmonk – Newsletter ohne Abo-Falle"
+   },
+   "instagram": {
+    "date": "2026-11-13T17:30:00",
+    "html": "<p><strong>Tag 25/30: listmonk – Newsletter ohne Abo-Falle</strong></p><p></p><p>Schlanker Newsletter-Versand auf deinem eigenen Server – auch für große Listen.</p><p></p><p>So nutzt dein Betrieb listmonk:</p><p>✅ Newsletter an Kunden</p><p>✅ Infos an Partner und Händler</p><p>✅ Keine Kosten pro Kontakt</p><p></p><p>💡 Für den Versand brauchst du zusätzlich einen Mailserver oder SMTP-Dienst.</p><p></p><p>🔗 listmonk.app</p><p></p><p>💬 Habt ihr schon einen Newsletter?</p><p></p><p>#30Tage30Tools #Newsletter #EmailMarketing #Marketing #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-13T18:00:00",
+    "html": "<p><strong>Tag 25/30: listmonk – Newsletter ohne Abo-Falle</strong></p><p></p><p>Schlanker Newsletter-Versand auf deinem eigenen Server – auch für große Listen.</p><p></p><p>So nutzt dein Betrieb listmonk:</p><p>✅ Newsletter an Kunden</p><p>✅ Infos an Partner und Händler</p><p>✅ Keine Kosten pro Kontakt</p><p></p><p>💡 Für den Versand brauchst du zusätzlich einen Mailserver oder SMTP-Dienst.</p><p></p><p>🔗 listmonk.app</p><p></p><p>💬 Habt ihr schon einen Newsletter?</p><p></p><p>#30Tage30Tools #Newsletter #EmailMarketing #Marketing #OpenSource</p>",
+    "title": "Tag 25/30: listmonk – Newsletter ohne Abo-Falle #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "listmonk",
+     "Newsletter",
+     "EmailMarketing",
+     "Marketing",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 25/30: listmonk – Newsletter ohne Abo-Falle</strong>\n\nSchlanker Newsletter-Versand auf deinem eigenen Server – auch für große Listen.\n\nSo nutzt dein Betrieb listmonk:\n✅ Newsletter an Kunden\n✅ Infos an Partner und Händler\n✅ Keine Kosten pro Kontakt\n\n💡 Für den Versand brauchst du zusätzlich einen Mailserver oder SMTP-Dienst.\n\n🔗 listmonk.app\n\n💬 Habt ihr schon einen Newsletter?\n\n#30Tage30Tools #Newsletter #EmailMarketing #Marketing #OpenSource"
+  },
+  {
+   "day": 26,
+   "name": "Invoice Ninja",
+   "date": "2026-11-14",
+   "linkedin_page": {
+    "date": "2026-11-14T15:00:00",
+    "html": "<p><strong>Tag 26/30: Invoice Ninja – Rechnungen in Minuten</strong></p><p></p><p>Angebote, Rechnungen und Zahlungen – online und auf Wunsch selbst gehostet.</p><p></p><p>So nutzt dein Betrieb Invoice Ninja:</p><p>✅ Angebote und Rechnungen in Minuten</p><p>✅ Wiederkehrende Rechnungen automatisch</p><p>✅ Offene Posten im Blick</p><p></p><p>💡 Prüf vorher, ob die E-Rechnungs-Formate für Deutschland zu deinem Bedarf passen.</p><p></p><p>🔗 invoiceninja.com</p><p></p><p>💬 Wie viel Zeit kostet euch die Rechnungsstellung?</p><p></p><p>#30Tage30Tools #Rechnung #Buchhaltung #Selbstständig</p>"
+   },
+   "facebook": {
+    "date": "2026-11-14T17:30:00",
+    "html": "<p><strong>Tag 26/30: Invoice Ninja – Rechnungen in Minuten</strong></p><p></p><p>Angebote, Rechnungen und Zahlungen – online und auf Wunsch selbst gehostet.</p><p></p><p>So nutzt dein Betrieb Invoice Ninja:</p><p>✅ Angebote und Rechnungen in Minuten</p><p>✅ Wiederkehrende Rechnungen automatisch</p><p>✅ Offene Posten im Blick</p><p></p><p>💡 Prüf vorher, ob die E-Rechnungs-Formate für Deutschland zu deinem Bedarf passen.</p><p></p><p>🔗 invoiceninja.com</p><p></p><p>💬 Wie viel Zeit kostet euch die Rechnungsstellung?</p><p></p><p>#30Tage30Tools #Rechnung #Buchhaltung #Selbstständig</p>",
+    "title": "Tag 26/30: Invoice Ninja – Rechnungen in Minuten"
+   },
+   "instagram": {
+    "date": "2026-11-14T17:30:00",
+    "html": "<p><strong>Tag 26/30: Invoice Ninja – Rechnungen in Minuten</strong></p><p></p><p>Angebote, Rechnungen und Zahlungen – online und auf Wunsch selbst gehostet.</p><p></p><p>So nutzt dein Betrieb Invoice Ninja:</p><p>✅ Angebote und Rechnungen in Minuten</p><p>✅ Wiederkehrende Rechnungen automatisch</p><p>✅ Offene Posten im Blick</p><p></p><p>💡 Prüf vorher, ob die E-Rechnungs-Formate für Deutschland zu deinem Bedarf passen.</p><p></p><p>🔗 invoiceninja.com</p><p></p><p>💬 Wie viel Zeit kostet euch die Rechnungsstellung?</p><p></p><p>#30Tage30Tools #Rechnung #Buchhaltung #Selbstständig #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-14T18:00:00",
+    "html": "<p><strong>Tag 26/30: Invoice Ninja – Rechnungen in Minuten</strong></p><p></p><p>Angebote, Rechnungen und Zahlungen – online und auf Wunsch selbst gehostet.</p><p></p><p>So nutzt dein Betrieb Invoice Ninja:</p><p>✅ Angebote und Rechnungen in Minuten</p><p>✅ Wiederkehrende Rechnungen automatisch</p><p>✅ Offene Posten im Blick</p><p></p><p>💡 Prüf vorher, ob die E-Rechnungs-Formate für Deutschland zu deinem Bedarf passen.</p><p></p><p>🔗 invoiceninja.com</p><p></p><p>💬 Wie viel Zeit kostet euch die Rechnungsstellung?</p><p></p><p>#30Tage30Tools #Rechnung #Buchhaltung #Selbstständig</p>",
+    "title": "Tag 26/30: Invoice Ninja – Rechnungen in Minuten #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "InvoiceNinja",
+     "Rechnung",
+     "Buchhaltung",
+     "Selbstständig",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 26/30: Invoice Ninja – Rechnungen in Minuten</strong>\n\nAngebote, Rechnungen und Zahlungen – online und auf Wunsch selbst gehostet.\n\nSo nutzt dein Betrieb Invoice Ninja:\n✅ Angebote und Rechnungen in Minuten\n✅ Wiederkehrende Rechnungen automatisch\n✅ Offene Posten im Blick\n\n💡 Prüf vorher, ob die E-Rechnungs-Formate für Deutschland zu deinem Bedarf passen.\n\n🔗 invoiceninja.com\n\n💬 Wie viel Zeit kostet euch die Rechnungsstellung?\n\n#30Tage30Tools #Rechnung #Buchhaltung #Selbstständig"
+  },
+  {
+   "day": 27,
+   "name": "Element",
+   "date": "2026-11-15",
+   "linkedin_page": {
+    "date": "2026-11-15T15:00:00",
+    "html": "<p><strong>Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb</strong></p><p></p><p>Sicherer Messenger auf Basis von Matrix – Ende-zu-Ende-verschlüsselt und dezentral.</p><p></p><p>So nutzt dein Betrieb Element:</p><p>✅ Vertrauliche Kommunikation</p><p>✅ Chat mit externen Partnern</p><p>✅ Firmen-Chat statt WhatsApp</p><p></p><p>💡 Auch openDesk setzt für den Chat auf Element.</p><p></p><p>🔗 element.io</p><p></p><p>💬 Läuft bei euch auch viel über WhatsApp?</p><p></p><p>#30Tage30Tools #Messenger #Datenschutz #Kommunikation #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-15T17:30:00",
+    "html": "<p><strong>Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb</strong></p><p></p><p>Sicherer Messenger auf Basis von Matrix – Ende-zu-Ende-verschlüsselt und dezentral.</p><p></p><p>So nutzt dein Betrieb Element:</p><p>✅ Vertrauliche Kommunikation</p><p>✅ Chat mit externen Partnern</p><p>✅ Firmen-Chat statt WhatsApp</p><p></p><p>💡 Auch openDesk setzt für den Chat auf Element.</p><p></p><p>🔗 element.io</p><p></p><p>💬 Läuft bei euch auch viel über WhatsApp?</p><p></p><p>#30Tage30Tools #Messenger #Datenschutz #Kommunikation #OpenSource</p>",
+    "title": "Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb"
+   },
+   "instagram": {
+    "date": "2026-11-15T17:30:00",
+    "html": "<p><strong>Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb</strong></p><p></p><p>Sicherer Messenger auf Basis von Matrix – Ende-zu-Ende-verschlüsselt und dezentral.</p><p></p><p>So nutzt dein Betrieb Element:</p><p>✅ Vertrauliche Kommunikation</p><p>✅ Chat mit externen Partnern</p><p>✅ Firmen-Chat statt WhatsApp</p><p></p><p>💡 Auch openDesk setzt für den Chat auf Element.</p><p></p><p>🔗 element.io</p><p></p><p>💬 Läuft bei euch auch viel über WhatsApp?</p><p></p><p>#30Tage30Tools #Messenger #Datenschutz #Kommunikation #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-15T18:00:00",
+    "html": "<p><strong>Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb</strong></p><p></p><p>Sicherer Messenger auf Basis von Matrix – Ende-zu-Ende-verschlüsselt und dezentral.</p><p></p><p>So nutzt dein Betrieb Element:</p><p>✅ Vertrauliche Kommunikation</p><p>✅ Chat mit externen Partnern</p><p>✅ Firmen-Chat statt WhatsApp</p><p></p><p>💡 Auch openDesk setzt für den Chat auf Element.</p><p></p><p>🔗 element.io</p><p></p><p>💬 Läuft bei euch auch viel über WhatsApp?</p><p></p><p>#30Tage30Tools #Messenger #Datenschutz #Kommunikation #OpenSource</p>",
+    "title": "Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Element",
+     "Messenger",
+     "Datenschutz",
+     "Kommunikation",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 27/30: Element – WhatsApp-Ersatz für den Betrieb</strong>\n\nSicherer Messenger auf Basis von Matrix – Ende-zu-Ende-verschlüsselt und dezentral.\n\nSo nutzt dein Betrieb Element:\n✅ Vertrauliche Kommunikation\n✅ Chat mit externen Partnern\n✅ Firmen-Chat statt WhatsApp\n\n💡 Auch openDesk setzt für den Chat auf Element.\n\n🔗 element.io\n\n💬 Läuft bei euch auch viel über WhatsApp?\n\n#30Tage30Tools #Messenger #Datenschutz #Kommunikation #OpenSource"
+  },
+  {
+   "day": 28,
+   "name": "Docker",
+   "date": "2026-11-16",
+   "linkedin_page": {
+    "date": "2026-11-16T15:00:00",
+    "html": "<p><strong>Tag 28/30: Docker – Das Fundament fürs Self-Hosting</strong></p><p></p><p>Verpackt Software in Container – so laufen Programme überall gleich.</p><p></p><p>So nutzt dein Betrieb Docker:</p><p>✅ Open-Source-Tools schnell installieren</p><p>✅ Updates ohne Chaos</p><p>✅ Viele Tools auf einem Server</p><p></p><p>💡 Die meisten Tools dieser Challenge kannst du mit Docker starten.</p><p></p><p>🔗 docker.com</p><p></p><p>💬 Betreibt ihr schon eigene Server?</p><p></p><p>#30Tage30Tools #SelfHosting #IT #Server #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-16T17:30:00",
+    "html": "<p><strong>Tag 28/30: Docker – Das Fundament fürs Self-Hosting</strong></p><p></p><p>Verpackt Software in Container – so laufen Programme überall gleich.</p><p></p><p>So nutzt dein Betrieb Docker:</p><p>✅ Open-Source-Tools schnell installieren</p><p>✅ Updates ohne Chaos</p><p>✅ Viele Tools auf einem Server</p><p></p><p>💡 Die meisten Tools dieser Challenge kannst du mit Docker starten.</p><p></p><p>🔗 docker.com</p><p></p><p>💬 Betreibt ihr schon eigene Server?</p><p></p><p>#30Tage30Tools #SelfHosting #IT #Server #OpenSource</p>",
+    "title": "Tag 28/30: Docker – Das Fundament fürs Self-Hosting"
+   },
+   "instagram": {
+    "date": "2026-11-16T17:30:00",
+    "html": "<p><strong>Tag 28/30: Docker – Das Fundament fürs Self-Hosting</strong></p><p></p><p>Verpackt Software in Container – so laufen Programme überall gleich.</p><p></p><p>So nutzt dein Betrieb Docker:</p><p>✅ Open-Source-Tools schnell installieren</p><p>✅ Updates ohne Chaos</p><p>✅ Viele Tools auf einem Server</p><p></p><p>💡 Die meisten Tools dieser Challenge kannst du mit Docker starten.</p><p></p><p>🔗 docker.com</p><p></p><p>💬 Betreibt ihr schon eigene Server?</p><p></p><p>#30Tage30Tools #SelfHosting #IT #Server #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-16T18:00:00",
+    "html": "<p><strong>Tag 28/30: Docker – Das Fundament fürs Self-Hosting</strong></p><p></p><p>Verpackt Software in Container – so laufen Programme überall gleich.</p><p></p><p>So nutzt dein Betrieb Docker:</p><p>✅ Open-Source-Tools schnell installieren</p><p>✅ Updates ohne Chaos</p><p>✅ Viele Tools auf einem Server</p><p></p><p>💡 Die meisten Tools dieser Challenge kannst du mit Docker starten.</p><p></p><p>🔗 docker.com</p><p></p><p>💬 Betreibt ihr schon eigene Server?</p><p></p><p>#30Tage30Tools #SelfHosting #IT #Server #OpenSource</p>",
+    "title": "Tag 28/30: Docker – Das Fundament fürs Self-Hosting #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Docker",
+     "SelfHosting",
+     "IT",
+     "Server",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 28/30: Docker – Das Fundament fürs Self-Hosting</strong>\n\nVerpackt Software in Container – so laufen Programme überall gleich.\n\nSo nutzt dein Betrieb Docker:\n✅ Open-Source-Tools schnell installieren\n✅ Updates ohne Chaos\n✅ Viele Tools auf einem Server\n\n💡 Die meisten Tools dieser Challenge kannst du mit Docker starten.\n\n🔗 docker.com\n\n💬 Betreibt ihr schon eigene Server?\n\n#30Tage30Tools #SelfHosting #IT #Server #OpenSource"
+  },
+  {
+   "day": 29,
+   "name": "Grafana",
+   "date": "2026-11-17",
+   "linkedin_page": {
+    "date": "2026-11-17T15:00:00",
+    "html": "<p><strong>Tag 29/30: Grafana – Alle Zahlen auf einen Blick</strong></p><p></p><p>Dashboards für deine Kennzahlen – aus vielen Datenquellen in einer Ansicht.</p><p></p><p>So nutzt dein Betrieb Grafana:</p><p>✅ Umsatz und Aufträge live sehen</p><p>✅ Maschinen- oder Serverdaten überwachen</p><p>✅ Alarme bei Abweichungen</p><p></p><p>💡 Funktioniert mit Datenbanken, Tabellen und vielen weiteren Quellen.</p><p></p><p>🔗 grafana.com</p><p></p><p>💬 Welche Kennzahl schaust du dir jeden Tag an?</p><p></p><p>#30Tage30Tools #Dashboard #Kennzahlen #Controlling #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-17T17:30:00",
+    "html": "<p><strong>Tag 29/30: Grafana – Alle Zahlen auf einen Blick</strong></p><p></p><p>Dashboards für deine Kennzahlen – aus vielen Datenquellen in einer Ansicht.</p><p></p><p>So nutzt dein Betrieb Grafana:</p><p>✅ Umsatz und Aufträge live sehen</p><p>✅ Maschinen- oder Serverdaten überwachen</p><p>✅ Alarme bei Abweichungen</p><p></p><p>💡 Funktioniert mit Datenbanken, Tabellen und vielen weiteren Quellen.</p><p></p><p>🔗 grafana.com</p><p></p><p>💬 Welche Kennzahl schaust du dir jeden Tag an?</p><p></p><p>#30Tage30Tools #Dashboard #Kennzahlen #Controlling #OpenSource</p>",
+    "title": "Tag 29/30: Grafana – Alle Zahlen auf einen Blick"
+   },
+   "instagram": {
+    "date": "2026-11-17T17:30:00",
+    "html": "<p><strong>Tag 29/30: Grafana – Alle Zahlen auf einen Blick</strong></p><p></p><p>Dashboards für deine Kennzahlen – aus vielen Datenquellen in einer Ansicht.</p><p></p><p>So nutzt dein Betrieb Grafana:</p><p>✅ Umsatz und Aufträge live sehen</p><p>✅ Maschinen- oder Serverdaten überwachen</p><p>✅ Alarme bei Abweichungen</p><p></p><p>💡 Funktioniert mit Datenbanken, Tabellen und vielen weiteren Quellen.</p><p></p><p>🔗 grafana.com</p><p></p><p>💬 Welche Kennzahl schaust du dir jeden Tag an?</p><p></p><p>#30Tage30Tools #Dashboard #Kennzahlen #Controlling #OpenSource #KMU #Digitalisierung</p>"
+   },
+   "youtube": {
+    "date": "2026-11-17T18:00:00",
+    "html": "<p><strong>Tag 29/30: Grafana – Alle Zahlen auf einen Blick</strong></p><p></p><p>Dashboards für deine Kennzahlen – aus vielen Datenquellen in einer Ansicht.</p><p></p><p>So nutzt dein Betrieb Grafana:</p><p>✅ Umsatz und Aufträge live sehen</p><p>✅ Maschinen- oder Serverdaten überwachen</p><p>✅ Alarme bei Abweichungen</p><p></p><p>💡 Funktioniert mit Datenbanken, Tabellen und vielen weiteren Quellen.</p><p></p><p>🔗 grafana.com</p><p></p><p>💬 Welche Kennzahl schaust du dir jeden Tag an?</p><p></p><p>#30Tage30Tools #Dashboard #Kennzahlen #Controlling #OpenSource</p>",
+    "title": "Tag 29/30: Grafana – Alle Zahlen auf einen Blick #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Grafana",
+     "Dashboard",
+     "Kennzahlen",
+     "Controlling",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 29/30: Grafana – Alle Zahlen auf einen Blick</strong>\n\nDashboards für deine Kennzahlen – aus vielen Datenquellen in einer Ansicht.\n\nSo nutzt dein Betrieb Grafana:\n✅ Umsatz und Aufträge live sehen\n✅ Maschinen- oder Serverdaten überwachen\n✅ Alarme bei Abweichungen\n\n💡 Funktioniert mit Datenbanken, Tabellen und vielen weiteren Quellen.\n\n🔗 grafana.com\n\n💬 Welche Kennzahl schaust du dir jeden Tag an?\n\n#30Tage30Tools #Dashboard #Kennzahlen #Controlling #OpenSource"
+  },
+  {
+   "day": 30,
+   "name": "Odoo",
+   "date": "2026-11-18",
+   "linkedin_page": {
+    "date": "2026-11-18T15:00:00",
+    "html": "<p><strong>Tag 30/30: Odoo – Ein System für alles</strong></p><p></p><p>ERP-Baukasten: CRM, Verkauf, Lager, Buchhaltung und mehr in einem System.</p><p></p><p>So nutzt dein Betrieb Odoo:</p><p>✅ CRM und Angebote</p><p>✅ Lager und Einkauf</p><p>✅ Projekte und Zeiterfassung</p><p></p><p>💡 Die Community-Version ist Open Source, die Enterprise-Version kostet Lizenzgebühren.</p><p></p><p>🔗 odoo.com</p><p></p><p>💬 Welches Tool aus den 30 Tagen war dein Favorit?</p><p></p><p>🎉 Das war Tag 30 von 30 – danke, dass du dabei warst! Wenn du wissen willst, welche Tools in deinem Betrieb Sinn ergeben: Schreib uns einfach.</p><p></p><p>#30Tage30Tools #ERP #CRM #Digitalisierung #OpenSource</p>"
+   },
+   "facebook": {
+    "date": "2026-11-18T17:30:00",
+    "html": "<p><strong>Tag 30/30: Odoo – Ein System für alles</strong></p><p></p><p>ERP-Baukasten: CRM, Verkauf, Lager, Buchhaltung und mehr in einem System.</p><p></p><p>So nutzt dein Betrieb Odoo:</p><p>✅ CRM und Angebote</p><p>✅ Lager und Einkauf</p><p>✅ Projekte und Zeiterfassung</p><p></p><p>💡 Die Community-Version ist Open Source, die Enterprise-Version kostet Lizenzgebühren.</p><p></p><p>🔗 odoo.com</p><p></p><p>💬 Welches Tool aus den 30 Tagen war dein Favorit?</p><p></p><p>🎉 Das war Tag 30 von 30 – danke, dass du dabei warst! Wenn du wissen willst, welche Tools in deinem Betrieb Sinn ergeben: Schreib uns einfach.</p><p></p><p>#30Tage30Tools #ERP #CRM #Digitalisierung #OpenSource</p>",
+    "title": "Tag 30/30: Odoo – Ein System für alles"
+   },
+   "instagram": {
+    "date": "2026-11-18T17:30:00",
+    "html": "<p><strong>Tag 30/30: Odoo – Ein System für alles</strong></p><p></p><p>ERP-Baukasten: CRM, Verkauf, Lager, Buchhaltung und mehr in einem System.</p><p></p><p>So nutzt dein Betrieb Odoo:</p><p>✅ CRM und Angebote</p><p>✅ Lager und Einkauf</p><p>✅ Projekte und Zeiterfassung</p><p></p><p>💡 Die Community-Version ist Open Source, die Enterprise-Version kostet Lizenzgebühren.</p><p></p><p>🔗 odoo.com</p><p></p><p>💬 Welches Tool aus den 30 Tagen war dein Favorit?</p><p></p><p>🎉 Das war Tag 30 von 30 – danke, dass du dabei warst! Wenn du wissen willst, welche Tools in deinem Betrieb Sinn ergeben: Schreib uns einfach.</p><p></p><p>#30Tage30Tools #ERP #CRM #Digitalisierung #OpenSource #KMU</p>"
+   },
+   "youtube": {
+    "date": "2026-11-18T18:00:00",
+    "html": "<p><strong>Tag 30/30: Odoo – Ein System für alles</strong></p><p></p><p>ERP-Baukasten: CRM, Verkauf, Lager, Buchhaltung und mehr in einem System.</p><p></p><p>So nutzt dein Betrieb Odoo:</p><p>✅ CRM und Angebote</p><p>✅ Lager und Einkauf</p><p>✅ Projekte und Zeiterfassung</p><p></p><p>💡 Die Community-Version ist Open Source, die Enterprise-Version kostet Lizenzgebühren.</p><p></p><p>🔗 odoo.com</p><p></p><p>💬 Welches Tool aus den 30 Tagen war dein Favorit?</p><p></p><p>🎉 Das war Tag 30 von 30 – danke, dass du dabei warst! Wenn du wissen willst, welche Tools in deinem Betrieb Sinn ergeben: Schreib uns einfach.</p><p></p><p>#30Tage30Tools #ERP #CRM #Digitalisierung #OpenSource</p>",
+    "title": "Tag 30/30: Odoo – Ein System für alles #Shorts",
+    "tags": [
+     "30Tage30Tools",
+     "Odoo",
+     "ERP",
+     "CRM",
+     "Digitalisierung",
+     "bettersorted"
+    ]
+   },
+   "plain": "<strong>Tag 30/30: Odoo – Ein System für alles</strong>\n\nERP-Baukasten: CRM, Verkauf, Lager, Buchhaltung und mehr in einem System.\n\nSo nutzt dein Betrieb Odoo:\n✅ CRM und Angebote\n✅ Lager und Einkauf\n✅ Projekte und Zeiterfassung\n\n💡 Die Community-Version ist Open Source, die Enterprise-Version kostet Lizenzgebühren.\n\n🔗 odoo.com\n\n💬 Welches Tool aus den 30 Tagen war dein Favorit?\n\n🎉 Das war Tag 30 von 30 – danke, dass du dabei warst! Wenn du wissen willst, welche Tools in deinem Betrieb Sinn ergeben: Schreib uns einfach.\n\n#30Tage30Tools #ERP #CRM #Digitalisierung #OpenSource"
+  }
+ ],
+ "recaps": [
+  {
+   "title": "Woche 1",
+   "a": 1,
+   "b": 4,
+   "date": "2026-10-23",
+   "utc": "2026-10-23T05:45:00",
+   "html": "<p><strong>4 Tools, die Betrieben echte Arbeit abnehmen</strong></p><p></p><p>Diese Woche haben wir bei bettersorted die Challenge #30Tage30Tools gestartet: 30 Tage lang jeden Tag ein Tool, das im Betrieb wirklich hilft – überwiegend Open Source. 🛠️</p><p></p><p>Die ersten vier:</p><p>1️⃣ Ollama – KI lokal betreiben</p><p>2️⃣ Paperless-ngx – Dokumentenmanagement</p><p>3️⃣ DeepL – Übersetzen</p><p>4️⃣ n8n – Automatisierung</p><p></p><p>Alle Tools mit Beispiel findest du im Karussell. 👉</p><p></p><p>Die Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.</p><p></p><p>💬 Welches davon nutzt du schon?</p><p></p><p>#30Tage30Tools #OpenSource #KMU #Digitalisierung</p>",
+   "plain": "<strong>4 Tools, die Betrieben echte Arbeit abnehmen</strong>\n\nDiese Woche haben wir bei bettersorted die Challenge #30Tage30Tools gestartet: 30 Tage lang jeden Tag ein Tool, das im Betrieb wirklich hilft – überwiegend Open Source. 🛠️\n\nDie ersten vier:\n1️⃣ Ollama – KI lokal betreiben\n2️⃣ Paperless-ngx – Dokumentenmanagement\n3️⃣ DeepL – Übersetzen\n4️⃣ n8n – Automatisierung\n\nAlle Tools mit Beispiel findest du im Karussell. 👉\n\nDie Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.\n\n💬 Welches davon nutzt du schon?\n\n#30Tage30Tools #OpenSource #KMU #Digitalisierung",
+   "carousel_name": "#30Tage30Tools – Woche 1"
+  },
+  {
+   "title": "Woche 2",
+   "a": 5,
+   "b": 11,
+   "date": "2026-10-30",
+   "utc": "2026-10-30T06:45:00",
+   "html": "<p><strong>Woche 2 der #30Tage30Tools: Cloud, Passwörter, Office</strong></p><p></p><p>Woche 2 unserer Challenge ist durch – diesmal ging es um die Basics im Büro. 🗂️</p><p></p><p>Diese sieben Tools waren dabei:</p><p>1️⃣ Nextcloud – Dateien & Cloud</p><p>2️⃣ Bitwarden – Passwortmanager</p><p>3️⃣ Canva – Design</p><p>4️⃣ Jitsi Meet – Videokonferenzen</p><p>5️⃣ Matomo – Web-Analyse</p><p>6️⃣ Perplexity – KI-Recherche</p><p>7️⃣ LibreOffice – Office-Paket</p><p></p><p>Alle Tools mit Beispiel findest du im Karussell. 👉</p><p></p><p>Die Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.</p><p></p><p>💬 Welches davon nutzt du schon?</p><p></p><p>#30Tage30Tools #OpenSource #KMU #Digitalisierung</p>",
+   "plain": "<strong>Woche 2 der #30Tage30Tools: Cloud, Passwörter, Office</strong>\n\nWoche 2 unserer Challenge ist durch – diesmal ging es um die Basics im Büro. 🗂️\n\nDiese sieben Tools waren dabei:\n1️⃣ Nextcloud – Dateien & Cloud\n2️⃣ Bitwarden – Passwortmanager\n3️⃣ Canva – Design\n4️⃣ Jitsi Meet – Videokonferenzen\n5️⃣ Matomo – Web-Analyse\n6️⃣ Perplexity – KI-Recherche\n7️⃣ LibreOffice – Office-Paket\n\nAlle Tools mit Beispiel findest du im Karussell. 👉\n\nDie Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.\n\n💬 Welches davon nutzt du schon?\n\n#30Tage30Tools #OpenSource #KMU #Digitalisierung",
+   "carousel_name": "#30Tage30Tools – Woche 2"
+  },
+  {
+   "title": "Woche 3",
+   "a": 12,
+   "b": 18,
+   "date": "2026-11-06",
+   "utc": "2026-11-06T06:45:00",
+   "html": "<p><strong>Halbzeit: 7 Tools für Kommunikation und Projekte</strong></p><p></p><p>Halbzeit bei #30Tage30Tools! 🎯 In Woche 3 ging es um Kommunikation, Projekte und KI im Alltag.</p><p></p><p>Die sieben Tools der Woche:</p><p>1️⃣ Mattermost – Team-Chat</p><p>2️⃣ Whisper – Sprache zu Text</p><p>3️⃣ OpenProject – Projektmanagement</p><p>4️⃣ Uptime Kuma – Monitoring</p><p>5️⃣ Cal.com – Terminbuchung</p><p>6️⃣ Claude – KI-Assistent</p><p>7️⃣ Excalidraw – Whiteboard</p><p></p><p>Alle Tools mit Beispiel findest du im Karussell. 👉</p><p></p><p>Die Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.</p><p></p><p>💬 Welches davon nutzt du schon?</p><p></p><p>#30Tage30Tools #OpenSource #KMU #Digitalisierung</p>",
+   "plain": "<strong>Halbzeit: 7 Tools für Kommunikation und Projekte</strong>\n\nHalbzeit bei #30Tage30Tools! 🎯 In Woche 3 ging es um Kommunikation, Projekte und KI im Alltag.\n\nDie sieben Tools der Woche:\n1️⃣ Mattermost – Team-Chat\n2️⃣ Whisper – Sprache zu Text\n3️⃣ OpenProject – Projektmanagement\n4️⃣ Uptime Kuma – Monitoring\n5️⃣ Cal.com – Terminbuchung\n6️⃣ Claude – KI-Assistent\n7️⃣ Excalidraw – Whiteboard\n\nAlle Tools mit Beispiel findest du im Karussell. 👉\n\nDie Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.\n\n💬 Welches davon nutzt du schon?\n\n#30Tage30Tools #OpenSource #KMU #Digitalisierung",
+   "carousel_name": "#30Tage30Tools – Woche 3"
+  },
+  {
+   "title": "Woche 4",
+   "a": 19,
+   "b": 25,
+   "date": "2026-11-13",
+   "utc": "2026-11-13T06:45:00",
+   "html": "<p><strong>Woche 4: Wissen, Marketing und offene KI</strong></p><p></p><p>Woche 4 von #30Tage30Tools ist geschafft. 📚 Diesmal: Firmenwissen sichern, Marketing automatisieren und offene KI-Modelle finden.</p><p></p><p>Die Tools der Woche:</p><p>1️⃣ BookStack – Wissensdatenbank</p><p>2️⃣ Mautic – Marketing-Automation</p><p>3️⃣ Proton Mail – Verschlüsselte E-Mail</p><p>4️⃣ Baserow – Datenbank ohne Code</p><p>5️⃣ Hugging Face – Offene KI-Modelle</p><p>6️⃣ WordPress – Website</p><p>7️⃣ listmonk – Newsletter</p><p></p><p>Alle Tools mit Beispiel findest du im Karussell. 👉</p><p></p><p>Die Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.</p><p></p><p>💬 Welches davon nutzt du schon?</p><p></p><p>#30Tage30Tools #OpenSource #KMU #Digitalisierung</p>",
+   "plain": "<strong>Woche 4: Wissen, Marketing und offene KI</strong>\n\nWoche 4 von #30Tage30Tools ist geschafft. 📚 Diesmal: Firmenwissen sichern, Marketing automatisieren und offene KI-Modelle finden.\n\nDie Tools der Woche:\n1️⃣ BookStack – Wissensdatenbank\n2️⃣ Mautic – Marketing-Automation\n3️⃣ Proton Mail – Verschlüsselte E-Mail\n4️⃣ Baserow – Datenbank ohne Code\n5️⃣ Hugging Face – Offene KI-Modelle\n6️⃣ WordPress – Website\n7️⃣ listmonk – Newsletter\n\nAlle Tools mit Beispiel findest du im Karussell. 👉\n\nDie Challenge läuft täglich auf der Seite von bettersorted – folg gern, wenn du keinen Tag verpassen willst.\n\n💬 Welches davon nutzt du schon?\n\n#30Tage30Tools #OpenSource #KMU #Digitalisierung",
+   "carousel_name": "#30Tage30Tools – Woche 4"
+  },
+  {
+   "title": "Finale",
+   "a": 26,
+   "b": 30,
+   "date": "2026-11-20",
+   "utc": "2026-11-20T06:45:00",
+   "html": "<p><strong>30 Tage, 30 Tools – das Finale</strong></p><p></p><p>Geschafft: 30 Tage, 30 Tools! 🎉 Zum Abschluss ging es um Rechnungen, sichere Kommunikation, Self-Hosting, Kennzahlen und ERP.</p><p></p><p>Die letzten fünf:</p><p>1️⃣ Invoice Ninja – Rechnungen & Angebote</p><p>2️⃣ Element – Sicherer Messenger</p><p>3️⃣ Docker – Software betreiben</p><p>4️⃣ Grafana – Dashboards</p><p>5️⃣ Odoo – ERP & CRM</p><p></p><p>Im Karussell findest du alle fünf mit Beispiel – und auf der letzten Seite alle 30 Tools auf einen Blick. 👉</p><p></p><p>Mein Fazit: Für fast jede Aufgabe im Betrieb gibt es eine gute Lösung, oft Open Source und auf eigenem Server. Man muss nur wissen, wo man anfängt.</p><p></p><p>💬 Welches Tool war dein Favorit?</p><p></p><p>#30Tage30Tools #OpenSource #KMU #Digitalisierung</p>",
+   "plain": "<strong>30 Tage, 30 Tools – das Finale</strong>\n\nGeschafft: 30 Tage, 30 Tools! 🎉 Zum Abschluss ging es um Rechnungen, sichere Kommunikation, Self-Hosting, Kennzahlen und ERP.\n\nDie letzten fünf:\n1️⃣ Invoice Ninja – Rechnungen & Angebote\n2️⃣ Element – Sicherer Messenger\n3️⃣ Docker – Software betreiben\n4️⃣ Grafana – Dashboards\n5️⃣ Odoo – ERP & CRM\n\nIm Karussell findest du alle fünf mit Beispiel – und auf der letzten Seite alle 30 Tools auf einen Blick. 👉\n\nMein Fazit: Für fast jede Aufgabe im Betrieb gibt es eine gute Lösung, oft Open Source und auf eigenem Server. Man muss nur wissen, wo man anfängt.\n\n💬 Welches Tool war dein Favorit?\n\n#30Tage30Tools #OpenSource #KMU #Digitalisierung",
+   "carousel_name": "#30Tage30Tools – Finale"
+  }
+ ]
+}
