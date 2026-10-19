@@ -243,21 +243,21 @@ def build(r, idx):
     # Szene 4: CTA
     cta_p = pill(r["cta"], F("Inter-Bold.otf", 40), (255, 255, 255), BLUE + (255,), padx=34, pady=18)
     els.append(El(cta_p, ML, 620, T4 + 0.1, DUR + 1))
-    h4 = text_block("Kostenloses [Erstgespräch.]", F("InterDisplay-Bold.otf", 108), CW)
+    h4 = text_block(r.get("cta_head", "Kostenloses [Erstgespräch.]"), F("InterDisplay-Bold.otf", 108), CW)
     els.append(El(h4, ML, 740, T4 + 0.3, DUR + 1, dy=60))
-    sub4 = text_block("30 Minuten. Wir sehen uns Ihre Abläufe an und sagen offen, ob sich KI lohnt.",
+    sub4 = text_block(r.get("cta_sub", "30 Minuten. Wir sehen uns Ihre Abläufe an und sagen offen, ob sich KI lohnt."),
                       F("Inter-Medium.otf", 44), CW - 40, color=MUTED, lh=1.25)
     ys = 760 + h4.height + 40
     els.append(El(sub4, ML, ys, T4 + 0.8, DUR + 1))
-    btn = pill("bettersorted.de  →", F("Inter-Bold.otf", 50), (255, 255, 255), NAVY + (255,), padx=46, pady=28)
+    btn = pill(r.get("cta_button", "bettersorted.de  →"), F("Inter-Bold.otf", 50), (255, 255, 255), NAVY + (255,), padx=46, pady=28)
     bsh, bpad = shadowed(btn, radius=24, off=(0, 14), alpha=50)
     yb = ys + sub4.height + 60
     els.append(El(bsh, ML - bpad, yb - bpad, T4 + 1.3, DUR + 1, scale=True))
     if r.get("share"):
-        sh_ = text_block("[↗] Schicken Sie das jemandem, der es braucht.", F("Inter-SemiBold.otf", 36), CW, color=NAVY)
+        sh_ = text_block(r.get("share_text", "[↗] Schicken Sie das jemandem, der es braucht."), F("Inter-SemiBold.otf", 36), CW, color=NAVY)
         els.append(El(sh_, ML, yb + btn.height + 50, T4 + 1.7, DUR + 1))
         yb += 60
-    badges = text_block("BAFA-zugelassen · Autorisierter INQA-Coach · Schwerin",
+    badges = text_block(r.get("badges", "BAFA-zugelassen · Autorisierter INQA-Coach · Schwerin"),
                         F("Inter-SemiBold.otf", 32), CW, color=MUTED)
     els.append(El(badges, ML, yb + btn.height + 50, T4 + 1.8, DUR + 1))
     if r.get("foot"):
