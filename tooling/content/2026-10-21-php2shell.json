@@ -1,0 +1,7 @@
+{
+  "slug": "php2shell-warnung",
+  "format": "portrait",
+  "slides": [
+    {"type": "list", "eyebrow": "BSI-WARNSTUFE 3 / ORANGE", "title": "PHP2Shell: Heute noch [PHP updaten!]", "items": ["PHP-Version prüfen", "Auf 8.5.12, 8.4.27, 8.3.36 oder 8.2.35 updaten", "Update beim Hoster bestätigen lassen", "Plugin-Update reicht nicht!"], "numbered": true}
+  ]
+}
