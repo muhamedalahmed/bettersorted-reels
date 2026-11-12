@@ -1,0 +1,13 @@
+{
+  "footer_right": "Abend der KI · Lübeck · 11.11.2026",
+  "scenes": [
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0190.jpeg", "dur": 3.4, "caption": "Finalist beim [KI-Preis] 2026", "sub": "Norddeutscher Zukunftspreis für KI"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0202.jpeg", "dur": 2.6, "caption": "Knapp [90] Bewerbungen", "sub": "Universität zu Lübeck · ZKIL"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0244.jpeg", "dur": 2.3, "caption": "Dann wurde es [spannend] …"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0243.jpeg", "dur": 3.0, "caption": "Der [automaisa Hub] auf der Shortlist", "sub": "Souveräne KI-Infrastruktur"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0236.jpeg", "dur": 3.2, "caption": "Mit Minister Dirk Schrödter – Jury und Treiber für [Open Source]"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0204.jpeg", "dur": 2.4, "caption": "Gute [Gespräche] bis spät"},
+    {"photo": "../media/2026-11-12-ki-preis/fotos/IMG_0198.jpeg", "dur": 2.4, "caption": "Danke, [Bäckerei Junge], für den tollen Abend"}
+  ],
+  "cta": {"dur": 3.6, "eyebrow": "Shortlist 2026", "title": "Nächstes Jahr wollen wir [ganz oben] stehen.", "sub": "automaisa Hub: KI für den Mittelstand – offen, sicher, aus der EU.", "button": "bettersorted.de →"}
+}
