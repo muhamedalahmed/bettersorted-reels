@@ -1,0 +1,75 @@
+{
+ "slug": "2026-11-18-vhs-regeln-profil",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "KURS IN DER VHS SCHWERIN",
+   "title": "5 goldene KI-Regeln für [Oma & Opa]",
+   "sub": "Aus unserem Kurs mit Senioren in der vhs Schwerin. Speichern und teilen →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "REGEL 1",
+   "title": "Nicht alles [glauben]",
+   "items": [
+    "KI klingt immer überzeugt – auch wenn sie sich irrt",
+    "Gesundheit: Arzt oder Apotheke fragen",
+    "Geld und Verträge: Fachleute fragen",
+    "Die KI nach Quellen fragen"
+   ],
+   "note": "Fachleute nennen das „Halluzinieren“."
+  },
+  {
+   "type": "list",
+   "eyebrow": "REGEL 2",
+   "title": "Das gehört nie [in die KI]",
+   "items": [
+    "Passwörter und PINs",
+    "Konto- und Kartennummern",
+    "Ausweis und Steuer-ID",
+    "Gesundheitsdaten und Daten von anderen"
+   ],
+   "note": "Briefe nur geschwärzt eingeben."
+  },
+  {
+   "type": "list",
+   "eyebrow": "REGEL 3 · ENKELTRICK 2.0",
+   "title": "Anruf in Not? [Auflegen.]",
+   "items": [
+    "KI kann Stimmen nachmachen – wenige Sekunden Video reichen",
+    "Familien-Codewort vereinbaren",
+    "Selbst unter der bekannten Nummer zurückrufen"
+   ],
+   "note": "Nie Geld oder Daten am Telefon herausgeben. Im Zweifel: Polizei unter 110."
+  },
+  {
+   "type": "list",
+   "eyebrow": "REGEL 4 · FALSCHE BILDER",
+   "title": "Erst durchatmen, dann [weiterleiten]",
+   "items": [
+    "Wer hat das veröffentlicht?",
+    "Berichten seriöse Nachrichten darüber?",
+    "Auf Details achten: Hände, Schrift, Augen"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "REGEL 5",
+   "title": "Ausprobieren ist [erlaubt]",
+   "items": [
+    "Amtsdeutsch einfach erklären lassen",
+    "Rezepte aus dem Kühlschrank",
+    "Speisekarte im Urlaub übersetzen",
+    "Grüße und Einladungen schreiben"
+   ],
+   "note": "Tipp: Mit „Bitte einfacher“ oder „Bitte kürzer“ nachbessern."
+  },
+  {
+   "type": "ask",
+   "badge": "KI zum Anfassen",
+   "title": "Welche Regel [fehlt noch?]",
+   "sub": "Was würdest du deinen Eltern oder Großeltern als Erstes zeigen?"
+  }
+ ]
+}
