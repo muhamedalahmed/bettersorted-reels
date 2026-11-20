@@ -1,0 +1,46 @@
+{
+ "slug": "foerder-02-bafa",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 2",
+   "title": "KI-Beratung für [700 €]",
+   "sub": "So funktioniert die BAFA-Beratungsförderung in MV →"
+  },
+  {
+   "type": "stat",
+   "eyebrow": "RECHENBEISPIEL MV",
+   "value": "2.800 €",
+   "label": "Zuschuss bei 3.500 € Beratungskosten (netto). Dein Eigenanteil: [700 €]."
+  },
+  {
+   "type": "list",
+   "eyebrow": "WER GEFÖRDERT WIRD",
+   "title": "Die [Voraussetzungen]",
+   "items": [
+    "Weniger als 250 Beschäftigte",
+    "Max. 50 Mio. € Umsatz oder 43 Mio. € Bilanzsumme",
+    "Gewerblich oder freiberuflich tätig, Sitz in Deutschland",
+    "Bis zu 2 geförderte Beratungen pro Jahr"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "WAS GEFÖRDERT WIRD",
+   "title": "Beratung, nicht [Software]",
+   "items": [
+    "Analyse deiner Abläufe und konkrete Empfehlungen",
+    "Schriftlicher Beratungsbericht",
+    "Max. 5 Beratertage, Abschluss in 6 Monaten"
+   ],
+   "note": "Alte Bundesländer: 50 % (max. 1.750 €). Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "BAFA-ZUGELASSEN",
+   "title": "Lass uns deine [KI-Beratung] planen",
+   "sub": "Wir sind beim BAFA gelistet und unterstützen dich vom Antrag bis zum Bericht."
+  }
+ ]
+}

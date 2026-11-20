@@ -1,0 +1,54 @@
+{
+ "slug": "foerder-07-fehler",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 7",
+   "title": "4 Fehler, die dich die [Förderung] kosten",
+   "sub": "Und wie du sie vermeidest →"
+  },
+  {
+   "type": "versus",
+   "eyebrow": "FEHLER 1",
+   "title": "Zu früh [losgelegt]",
+   "before_label": "FEHLER",
+   "after_label": "SO GEHT'S",
+   "before": "Vertrag unterschrieben, dann Förderung beantragt.",
+   "after": "Erst Antrag stellen, Freigabe abwarten, dann beauftragen."
+  },
+  {
+   "type": "versus",
+   "eyebrow": "FEHLER 2",
+   "title": "Falscher [Topf]",
+   "before_label": "FEHLER",
+   "after_label": "SO GEHT'S",
+   "before": "Software über die BAFA-Beratungsförderung bezahlen wollen.",
+   "after": "Beratung über BAFA oder INQA, Hard- und Software über die KI-Förderung MV."
+  },
+  {
+   "type": "versus",
+   "eyebrow": "FEHLER 3",
+   "title": "Berater nicht [zugelassen]",
+   "before_label": "FEHLER",
+   "after_label": "SO GEHT'S",
+   "before": "Irgendeinen Berater beauftragt.",
+   "after": "BAFA: registrierte Berater. INQA: autorisierte Coaches."
+  },
+  {
+   "type": "versus",
+   "eyebrow": "FEHLER 4",
+   "title": "Fristen [verpasst]",
+   "before_label": "FEHLER",
+   "after_label": "SO GEHT'S",
+   "before": "Unterlagen liegen monatelang in der Schublade.",
+   "after": "BAFA: Nachweise binnen 6 Monaten. INQA: Coaching in 7 Monaten abschließen."
+  },
+  {
+   "type": "cta",
+   "badge": "FÖRDER-CHECK",
+   "title": "Lieber gleich [richtig] starten",
+   "sub": "Wir prüfen mit dir Topf, Reihenfolge und Fristen – bevor Geld verloren geht."
+  }
+ ]
+}

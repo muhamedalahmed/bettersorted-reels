@@ -1,0 +1,49 @@
+{
+ "slug": "foerder-01-ueberblick",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 1",
+   "title": "KI im Betrieb – wer [zahlt mit?]",
+   "sub": "3 Fördertöpfe, die du als KMU kennen solltest. Speichern →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "TOPF 1 · BUND",
+   "title": "Die [BAFA-Beratungsförderung]",
+   "items": [
+    "Für konzeptionelle Beratung, z. B. deine KI-Strategie",
+    "In MV: 80 % von max. 3.500 € Beratungskosten",
+    "Bis zu 5 Beratertage"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "TOPF 2 · BUND",
+   "title": "Das [INQA-Coaching]",
+   "items": [
+    "Coaching mit deinem Team zu Digitalisierung, KI und Abläufen",
+    "80 % Zuschuss, bis zu 12 Tage à max. 1.200 €",
+    "Für Betriebe mit weniger als 250 Beschäftigten"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "TOPF 3 · LAND MV",
+   "title": "Die [KI-Förderung MV]",
+   "items": [
+    "Für Hard- und Software, mit der du KI einführst",
+    "50 % Zuschuss, bis 50.000 € je Unternehmen",
+    "KMU bis 100 Beschäftigte mit Betriebsstätte in MV"
+   ],
+   "note": "Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "FÖRDER-SERIE",
+   "title": "Welcher Topf passt zu [dir?]",
+   "sub": "Wir stellen dir jeden Topf genau vor – oder du fragst direkt im kostenlosen Erstgespräch."
+  }
+ ]
+}

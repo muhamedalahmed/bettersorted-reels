@@ -1,0 +1,229 @@
+[
+ {
+  "slug": "foerder-01-ueberblick",
+  "date": "2026-12-01",
+  "hook": "frage",
+  "title": "3 Fördertöpfe für KI",
+  "link": "check",
+  "tags": [
+   "Fördermittel",
+   "KI",
+   "KMU",
+   "MecklenburgVorpommern"
+  ],
+  "body": [
+   "KI einführen muss nicht teuer sein – wenn du die richtigen Töpfe kennst.",
+   "",
+   "1️⃣ BAFA-Beratungsförderung: in MV 80 % für deine Beratung",
+   "2️⃣ INQA-Coaching: 80 % für ein Coaching mit deinem Team",
+   "3️⃣ KI-Förderung MV: 50 % für Hard- und Software",
+   "",
+   "In den nächsten Wochen stellen wir dir jeden Topf einzeln vor. Speichern lohnt sich 📌"
+  ]
+ },
+ {
+  "slug": "foerder-02-bafa",
+  "date": "2026-12-03",
+  "hook": "zahl",
+  "title": "KI-Beratung für 700 €",
+  "link": "home",
+  "tags": [
+   "BAFA",
+   "Förderung",
+   "KIBeratung",
+   "KMU"
+  ],
+  "body": [
+   "In MV übernimmt das BAFA 80 % deiner Beratungskosten.",
+   "",
+   "✅ förderfähig bis 3.500 € netto",
+   "✅ 2.800 € Zuschuss, 700 € Eigenanteil",
+   "✅ bis zu 5 Beratertage, z. B. für deine KI-Strategie",
+   "",
+   "Wichtig: Erst Antrag stellen, dann den Beratungsvertrag unterschreiben 💡"
+  ]
+ },
+ {
+  "slug": "foerder-03-inqa-rechnung",
+  "date": "2026-12-08",
+  "hook": "zahl",
+  "title": "INQA-Coaching durchgerechnet",
+  "link": "home",
+  "tags": [
+   "INQA",
+   "INQACoaching",
+   "Förderung",
+   "KI"
+  ],
+  "body": [
+   "Was kostet dich ein KI-Coaching mit INQA wirklich?",
+   "",
+   "1️⃣ 12 Tage à 1.200 € = 14.400 € (netto)",
+   "2️⃣ 80 % Zuschuss = 11.520 €",
+   "3️⃣ Dein Eigenanteil = 2.880 €",
+   "",
+   "Du gehst in Vorleistung, der Zuschuss kommt nach dem Coaching."
+  ]
+ },
+ {
+  "slug": "foerder-04-ki-mv",
+  "date": "2026-12-10",
+  "hook": "aussage",
+  "title": "Das Land zahlt die Hälfte",
+  "link": "home",
+  "tags": [
+   "KIFörderung",
+   "MecklenburgVorpommern",
+   "Digitalisierung",
+   "KMU"
+  ],
+  "body": [
+   "Seit Ende Juni 2026 gibt es in MV eine eigene KI-Förderrichtlinie.",
+   "",
+   "✅ 50 % Zuschuss, bis 50.000 €",
+   "✅ für Hard- und Software rund um KI",
+   "✅ für KMU mit bis zu 100 Beschäftigten in MV",
+   "",
+   "Wichtig: Erst Antrag stellen, dann beauftragen."
+  ]
+ },
+ {
+  "slug": "foerder-05-welcher-topf",
+  "date": "2026-12-15",
+  "hook": "frage",
+  "title": "Welcher Topf passt?",
+  "link": "check",
+  "tags": [
+   "Fördermittel",
+   "KI",
+   "Mittelstand",
+   "Handwerk"
+  ],
+  "body": [
+   "Die Kurzformel für deine KI-Förderung:",
+   "",
+   "1️⃣ Du willst Klarheit und eine Strategie → BAFA-Beratungsförderung",
+   "2️⃣ Du willst dein Team mitnehmen → INQA-Coaching",
+   "3️⃣ Du willst KI-Software einführen (in MV) → KI-Förderung MV",
+   "",
+   "💬 Wo stehst du gerade?"
+  ]
+ },
+ {
+  "slug": "foerder-06-bafa-2027",
+  "date": "2026-12-17",
+  "hook": "aussage",
+  "title": "BAFA ab 2027: Das ist neu",
+  "link": "home",
+  "tags": [
+   "BAFA",
+   "Förderung",
+   "Unternehmensberatung",
+   "KMU"
+  ],
+  "body": [
+   "Gute Nachricht: Die BAFA-Beratungsförderung ist bis Ende 2028 verlängert.",
+   "",
+   "Für Anträge ab 1. Januar 2027 gilt:",
+   "✅ Antrag nur noch über ELSTER oder BundID",
+   "✅ Umsatzanzeige der Bank reicht als Zahlungsnachweis",
+   "✅ weniger Formulare, nur noch zwei Unterschriften",
+   "",
+   "Tipp: Richte deinen Zugang jetzt schon ein 💡",
+   "↗️ Teile das mit allen, die 2027 eine Beratung planen."
+  ]
+ },
+ {
+  "slug": "foerder-07-fehler",
+  "date": "2026-12-22",
+  "hook": "zahl/liste",
+  "title": "4 Förder-Fehler",
+  "link": "check",
+  "tags": [
+   "Fördermittel",
+   "Förderung",
+   "KMU",
+   "KI"
+  ],
+  "body": [
+   "Diese 4 Fehler können dich die Förderung kosten:",
+   "",
+   "❌ Vertrag unterschrieben, bevor der Antrag gestellt war",
+   "❌ den falschen Topf gewählt",
+   "❌ Berater ohne Zulassung beauftragt",
+   "❌ Fristen verpasst",
+   "",
+   "✅ Unsere Regel: erst Antrag, dann Auftrag."
+  ]
+ },
+ {
+  "slug": "foerder-08-ablauf",
+  "date": "2027-01-07",
+  "hook": "zahl/liste",
+  "title": "5 Schritte zur Förderung",
+  "link": "home",
+  "tags": [
+   "Förderung",
+   "KI",
+   "Digitalisierung",
+   "KMU"
+  ],
+  "body": [
+   "Neues Jahr, neue Pläne? So kommst du zur geförderten KI:",
+   "",
+   "1️⃣ Vorhaben klären",
+   "2️⃣ passenden Topf wählen",
+   "3️⃣ Antrag stellen, Freigabe abwarten",
+   "4️⃣ umsetzen",
+   "5️⃣ Nachweise einreichen, Zuschuss erhalten",
+   "",
+   "Speichern und mit Schritt 1 starten 📌"
+  ]
+ },
+ {
+  "slug": "foerder-09-inqa-check",
+  "date": "2027-01-12",
+  "hook": "frage",
+  "title": "Passt INQA zu dir?",
+  "link": "home",
+  "tags": [
+   "INQA",
+   "INQACoaching",
+   "Förderung",
+   "Personal"
+  ],
+  "body": [
+   "Der schnelle Check fürs INQA-Coaching:",
+   "",
+   "✅ weniger als 250 Beschäftigte",
+   "✅ du willst Digitalisierung, KI oder Abläufe angehen",
+   "✅ dein Team soll mitgestalten",
+   "",
+   "3 × ja? Dann können 80 % deines Coachings gefördert werden."
+  ]
+ },
+ {
+  "slug": "foerder-10-fahrplan",
+  "date": "2027-01-14",
+  "hook": "pov",
+  "title": "Förderung clever kombinieren",
+  "link": "check",
+  "tags": [
+   "Fördermittel",
+   "KI",
+   "OpenSource",
+   "Mittelstand"
+  ],
+  "body": [
+   "Du musst nicht alles auf einmal stemmen. Ein möglicher Fahrplan:",
+   "",
+   "1️⃣ Analyse & Strategie → BAFA-Beratungsförderung",
+   "2️⃣ Team & Abläufe → INQA-Coaching",
+   "3️⃣ KI-Software einführen → KI-Förderung MV",
+   "",
+   "Wichtig: Dieselbe Leistung wird nicht doppelt gefördert. Was zusammenpasst, klären wir im Einzelfall.",
+   "",
+   "💬 In welcher Phase steckst du gerade?"
+  ]
+ }
+]

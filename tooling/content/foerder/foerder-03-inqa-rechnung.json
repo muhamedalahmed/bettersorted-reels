@@ -1,0 +1,41 @@
+{
+ "slug": "foerder-03-inqa-rechnung",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 3",
+   "title": "12 Tage KI-Coaching. [2.880 €] Eigenanteil.",
+   "sub": "Das INQA-Coaching einfach durchgerechnet →"
+  },
+  {
+   "type": "stat",
+   "eyebrow": "DER VOLLE RAHMEN",
+   "value": "14.400 €",
+   "label": "12 Coaching-Tage à max. 1.200 € netto."
+  },
+  {
+   "type": "stat",
+   "eyebrow": "DAVON GEFÖRDERT",
+   "value": "11.520 €",
+   "label": "80 % Zuschuss aus Bundes- und ESF-Plus-Mitteln. Du trägst [2.880 €]."
+  },
+  {
+   "type": "list",
+   "eyebrow": "GUT ZU WISSEN",
+   "title": "Das solltest du [wissen]",
+   "items": [
+    "Du gehst in Vorleistung – der Zuschuss kommt danach",
+    "Abschluss innerhalb von 7 Monaten",
+    "Gefördert wird das Coaching, nicht Software oder Technik"
+   ],
+   "note": "Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "AUTORISIERTER INQA-COACH",
+   "title": "Dein Coaching mit [uns]",
+   "sub": "Wir begleiten dich und dein Team – von der Erstberatung bis zum Abschluss."
+  }
+ ]
+}

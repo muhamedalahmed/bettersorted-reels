@@ -1,0 +1,50 @@
+{
+ "slug": "foerder-09-inqa-check",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 9",
+   "title": "Passt INQA-Coaching zu [deinem Betrieb?]",
+   "sub": "Der 30-Sekunden-Check →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "CHECK 1 · GRÖSSE",
+   "title": "Die [Eckdaten]",
+   "items": [
+    "Weniger als 250 Beschäftigte",
+    "Max. 50 Mio. € Umsatz oder 43 Mio. € Bilanzsumme",
+    "Sitz und Arbeitsstätte in Deutschland"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "CHECK 2 · THEMA",
+   "title": "Dein [Thema]",
+   "items": [
+    "Digitalisierung und KI strategisch angehen",
+    "Arbeitsabläufe effizienter organisieren",
+    "Fachkräfte gewinnen und halten",
+    "Unternehmenskultur zukunftsfest machen"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "CHECK 3 · TEAM",
+   "title": "Dein Team ist [dabei]",
+   "items": [
+    "Mitarbeitende werden von Anfang an beteiligt",
+    "Lösungen entstehen gemeinsam im Betrieb",
+    "Für alle Branchen – vom Handwerk bis zur Sozialwirtschaft"
+   ],
+   "note": "Start: kostenlose Erstberatung bei einer INQA-Beratungsstelle. Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "AUTORISIERTER INQA-COACH",
+   "title": "3 × ja? Dann [lass uns reden.]",
+   "sub": "Wir begleiten dich von der Erstberatung bis zum Abschluss deines Coachings."
+  }
+ ]
+}

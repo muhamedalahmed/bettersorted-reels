@@ -1,0 +1,51 @@
+{
+ "slug": "foerder-05-welcher-topf",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 5",
+   "title": "Welcher Topf passt zu [deinem Plan?]",
+   "sub": "Die Kurzformel zum Speichern →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "DU WILLST …",
+   "title": "… erst mal [Klarheit]",
+   "items": [
+    "Wo lohnt sich KI bei uns?",
+    "Welche Abläufe gehen wir zuerst an?",
+    "Was kostet das, was bringt das?"
+   ],
+   "note": "Passender Topf: [BAFA-Beratungsförderung] (in MV 80 %)"
+  },
+  {
+   "type": "list",
+   "eyebrow": "DU WILLST …",
+   "title": "… dein [Team] mitnehmen",
+   "items": [
+    "Neue Abläufe mit den Mitarbeitenden entwickeln",
+    "Regeln und Rollen für KI im Alltag",
+    "Mitarbeitende für KI fit machen"
+   ],
+   "note": "Passender Topf: [INQA-Coaching] (80 %)"
+  },
+  {
+   "type": "list",
+   "eyebrow": "DU WILLST …",
+   "title": "… KI [einführen]",
+   "items": [
+    "Software oder Hardware für KI anschaffen",
+    "Ein konkretes KI-Projekt umsetzen",
+    "Betrieb in MV mit bis zu 100 Beschäftigten"
+   ],
+   "note": "Passender Topf: [KI-Förderung MV] (50 %). Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "FÖRDER-CHECK",
+   "title": "Unsicher? Wir [sortieren] mit dir.",
+   "sub": "Im kostenlosen Erstgespräch schauen wir, welche Förderung zu deinem Vorhaben passt."
+  }
+ ]
+}

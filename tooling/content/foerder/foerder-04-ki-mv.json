@@ -1,0 +1,46 @@
+{
+ "slug": "foerder-04-ki-mv",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 4",
+   "title": "Das Land MV zahlt die [Hälfte]",
+   "sub": "Die neue KI-Förderung für Hard- und Software →"
+  },
+  {
+   "type": "stat",
+   "eyebrow": "ZUSCHUSS",
+   "value": "50 %",
+   "label": "der förderfähigen Ausgaben – bis zu [50.000 €] je Unternehmen."
+  },
+  {
+   "type": "list",
+   "eyebrow": "WER GEFÖRDERT WIRD",
+   "title": "Für [KMU in MV]",
+   "items": [
+    "Bis zu 100 Beschäftigte",
+    "Betriebsstätte in Mecklenburg-Vorpommern",
+    "Konkretes KI-Projekt, umgesetzt in rund 12 Monaten",
+    "Bagatellgrenze: 15.000 € (bis 50 Beschäftigte), sonst 20.000 €"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "WAS GEFÖRDERT WIRD",
+   "title": "Hard- und [Software] für KI",
+   "items": [
+    "Leistungserbringung, Logistik, Marketing und Vertrieb",
+    "IT-Sicherheit",
+    "Beratung und Schulung, wenn sie zum Projekt gehören"
+   ],
+   "note": "Antrag vor Projektstart, Bewilligung über die TBI. Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "KI-FÖRDERUNG MV",
+   "title": "Dein KI-Projekt [förderfähig] planen",
+   "sub": "Wir schärfen mit dir den Einsatzfall und erstellen ein Angebot als Antragsgrundlage."
+  }
+ ]
+}

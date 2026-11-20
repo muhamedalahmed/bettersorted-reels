@@ -1,0 +1,47 @@
+{
+ "slug": "foerder-08-ablauf",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 8",
+   "title": "In 5 Schritten zur [geförderten] KI",
+   "sub": "Dein Fahrplan für 2027 →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "SO LÄUFT'S AB",
+   "title": "Dein [Fahrplan]",
+   "numbered": true,
+   "items": [
+    "Vorhaben klären",
+    "Passenden Topf wählen",
+    "Antrag stellen, Freigabe abwarten",
+    "Beratung, Coaching oder Projekt umsetzen",
+    "Nachweise einreichen, Zuschuss erhalten"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "DAS BRAUCHST DU",
+   "title": "Bereit [legen]",
+   "items": [
+    "Eckdaten: Beschäftigte, Umsatz oder Bilanzsumme",
+    "Eine Idee, wofür KI bei dir eingesetzt werden soll",
+    "Für BAFA-Anträge ab 2027: ELSTER-Zugang oder BundID"
+   ],
+   "note": "Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "quote",
+   "text": "Erst Antrag, dann Auftrag. [Diese Reihenfolge] gilt bei allen drei Töpfen.",
+   "author": "Unsere wichtigste Förder-Regel"
+  },
+  {
+   "type": "cta",
+   "badge": "ERSTGESPRÄCH",
+   "title": "Schritt 1 machen wir [gemeinsam]",
+   "sub": "Im kostenlosen Erstgespräch klären wir dein Vorhaben und den passenden Topf."
+  }
+ ]
+}

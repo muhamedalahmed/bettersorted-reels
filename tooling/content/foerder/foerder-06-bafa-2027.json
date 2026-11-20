@@ -1,0 +1,51 @@
+{
+ "slug": "foerder-06-bafa-2027",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 6",
+   "title": "BAFA-Förderung: Das ändert sich ab [1. Januar]",
+   "sub": "Verlängert bis Ende 2028 – mit weniger Papierkram →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "GUTE NACHRICHT",
+   "title": "Es geht [weiter]",
+   "items": [
+    "Richtlinie verlängert bis 31.12.2028",
+    "Kontingent bleibt: bis zu 2 Beratungen pro Jahr",
+    "Insgesamt max. 5 Beratungen während der Laufzeit"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "NEU AB 01.01.2027",
+   "title": "Weniger [Papierkram]",
+   "numbered": true,
+   "items": [
+    "Antrag nur noch über ELSTER oder BundID",
+    "Regionalpartner-Gespräch entfällt",
+    "Umsatzanzeige der Bank reicht als Zahlungsnachweis",
+    "Nur noch 2 Unterschriften nötig"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "DEIN TO-DO",
+   "title": "Jetzt [vorbereiten]",
+   "items": [
+    "ELSTER-Zugang oder BundID einrichten",
+    "Beratungsthema für 2027 klären",
+    "Erst Antrag, dann Beratungsvertrag"
+   ],
+   "note": "Gilt für Anträge ab 01.01.2027. Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "cta",
+   "badge": "BAFA-ZUGELASSEN",
+   "title": "Starte 2027 mit [Förderung]",
+   "sub": "Wir helfen dir, deine geförderte KI-Beratung fürs neue Jahr vorzubereiten."
+  }
+ ]
+}

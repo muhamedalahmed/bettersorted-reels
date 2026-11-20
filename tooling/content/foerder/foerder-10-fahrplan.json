@@ -1,0 +1,50 @@
+{
+ "slug": "foerder-10-fahrplan",
+ "format": "portrait",
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "FÖRDER-SERIE · TEIL 10",
+   "title": "Förderung [clever] kombinieren",
+   "sub": "Vom ersten Gedanken bis zur laufenden KI →"
+  },
+  {
+   "type": "list",
+   "eyebrow": "EIN MÖGLICHER WEG",
+   "title": "Schritt für [Schritt]",
+   "numbered": true,
+   "items": [
+    "Analyse & Strategie – BAFA-Beratungsförderung",
+    "Team & Abläufe – INQA-Coaching",
+    "KI-Software einführen – KI-Förderung MV"
+   ]
+  },
+  {
+   "type": "list",
+   "eyebrow": "DARAUF ACHTEN",
+   "title": "Die [Spielregeln]",
+   "items": [
+    "Dieselbe Leistung wird nicht doppelt gefördert",
+    "De-minimis-Grenzen im Blick behalten",
+    "Jeder Schritt hat eigene Anträge und Fristen"
+   ],
+   "note": "Ob Programme kombinierbar sind, klären wir im Einzelfall. Fördersätze laut Programmrichtlinie, verbindlich nach Einzelfallprüfung."
+  },
+  {
+   "type": "list",
+   "eyebrow": "UNSER ANSATZ",
+   "title": "Offen, sicher, [gefördert]",
+   "items": [
+    "Open-Source-Lösungen statt Abo-Falle",
+    "Daten in Deutschland bzw. der EU",
+    "Schritt für Schritt – mit Förderung in jeder Phase"
+   ]
+  },
+  {
+   "type": "cta",
+   "badge": "FÖRDER-SERIE · FINALE",
+   "title": "Dein Fahrplan in [30 Minuten]",
+   "sub": "Im kostenlosen Erstgespräch skizzieren wir deinen Weg – inklusive passender Förderung."
+  }
+ ]
+}
