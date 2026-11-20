@@ -212,3 +212,53 @@ datum,kanal,uhrzeit,format,serie,reel_id,titel,hook_typ,thema,video_datei,status
 18.11.2026,instagram,17:30,foto-karussell,event,,KI zum Anfassen an der VHS,erlebnis,VHS Schwerin Senioren mit Oma Caro,media/2026-11-18-vhs-senioren,geplant
 18.11.2026,facebook,17:30,foto-karussell,event,,KI zum Anfassen an der VHS,erlebnis,VHS Schwerin Senioren mit Oma Caro,media/2026-11-18-vhs-senioren,geplant
 18.11.2026,gmb,18:00,foto-karussell,event,,KI zum Anfassen an der VHS,erlebnis,VHS Schwerin Senioren mit Oma Caro,media/2026-11-18-vhs-senioren,geplant
+01.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-01-ueberblick,3 Fördertöpfe für KI,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-01-ueberblick/,geplant
+01.12.2026,gmb,11:00,bild,foerder-serie,foerder-01-ueberblick,3 Fördertöpfe für KI,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-01-ueberblick/,geplant
+01.12.2026,instagram,18:00,karussell,foerder-serie,foerder-01-ueberblick,3 Fördertöpfe für KI,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-01-ueberblick/,geplant
+01.12.2026,facebook,18:00,karussell,foerder-serie,foerder-01-ueberblick,3 Fördertöpfe für KI,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-01-ueberblick/,geplant
+01.12.2026,youtube,19:00,short,foerder-serie,foerder-01-ueberblick,3 Fördertöpfe für KI,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-01-ueberblick/short.mp4,geplant
+03.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-02-bafa,KI-Beratung für 700 €,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-02-bafa/,geplant
+03.12.2026,gmb,11:00,bild,foerder-serie,foerder-02-bafa,KI-Beratung für 700 €,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-02-bafa/,geplant
+03.12.2026,instagram,18:00,karussell,foerder-serie,foerder-02-bafa,KI-Beratung für 700 €,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-02-bafa/,geplant
+03.12.2026,facebook,18:00,karussell,foerder-serie,foerder-02-bafa,KI-Beratung für 700 €,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-02-bafa/,geplant
+03.12.2026,youtube,19:00,short,foerder-serie,foerder-02-bafa,KI-Beratung für 700 €,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-02-bafa/short.mp4,geplant
+08.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-03-inqa-rechnung,INQA-Coaching durchgerechnet,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-03-inqa-rechnung/,geplant
+08.12.2026,gmb,11:00,bild,foerder-serie,foerder-03-inqa-rechnung,INQA-Coaching durchgerechnet,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-03-inqa-rechnung/,geplant
+08.12.2026,instagram,18:00,karussell,foerder-serie,foerder-03-inqa-rechnung,INQA-Coaching durchgerechnet,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-03-inqa-rechnung/,geplant
+08.12.2026,facebook,18:00,karussell,foerder-serie,foerder-03-inqa-rechnung,INQA-Coaching durchgerechnet,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-03-inqa-rechnung/,geplant
+08.12.2026,youtube,19:00,short,foerder-serie,foerder-03-inqa-rechnung,INQA-Coaching durchgerechnet,zahl,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-03-inqa-rechnung/short.mp4,geplant
+10.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-04-ki-mv,Das Land zahlt die Hälfte,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-04-ki-mv/,geplant
+10.12.2026,gmb,11:00,bild,foerder-serie,foerder-04-ki-mv,Das Land zahlt die Hälfte,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-04-ki-mv/,geplant
+10.12.2026,instagram,18:00,karussell,foerder-serie,foerder-04-ki-mv,Das Land zahlt die Hälfte,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-04-ki-mv/,geplant
+10.12.2026,facebook,18:00,karussell,foerder-serie,foerder-04-ki-mv,Das Land zahlt die Hälfte,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-04-ki-mv/,geplant
+10.12.2026,youtube,19:00,short,foerder-serie,foerder-04-ki-mv,Das Land zahlt die Hälfte,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-04-ki-mv/short.mp4,geplant
+15.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-05-welcher-topf,Welcher Topf passt?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-05-welcher-topf/,geplant
+15.12.2026,gmb,11:00,bild,foerder-serie,foerder-05-welcher-topf,Welcher Topf passt?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-05-welcher-topf/,geplant
+15.12.2026,instagram,18:00,karussell,foerder-serie,foerder-05-welcher-topf,Welcher Topf passt?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-05-welcher-topf/,geplant
+15.12.2026,facebook,18:00,karussell,foerder-serie,foerder-05-welcher-topf,Welcher Topf passt?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-05-welcher-topf/,geplant
+15.12.2026,youtube,19:00,short,foerder-serie,foerder-05-welcher-topf,Welcher Topf passt?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-05-welcher-topf/short.mp4,geplant
+17.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-06-bafa-2027,BAFA ab 2027: Das ist neu,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-06-bafa-2027/,geplant
+17.12.2026,gmb,11:00,bild,foerder-serie,foerder-06-bafa-2027,BAFA ab 2027: Das ist neu,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-06-bafa-2027/,geplant
+17.12.2026,instagram,18:00,karussell,foerder-serie,foerder-06-bafa-2027,BAFA ab 2027: Das ist neu,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-06-bafa-2027/,geplant
+17.12.2026,facebook,18:00,karussell,foerder-serie,foerder-06-bafa-2027,BAFA ab 2027: Das ist neu,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-06-bafa-2027/,geplant
+17.12.2026,youtube,19:00,short,foerder-serie,foerder-06-bafa-2027,BAFA ab 2027: Das ist neu,aussage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-06-bafa-2027/short.mp4,geplant
+22.12.2026,linkedin-page,10:30,karussell,foerder-serie,foerder-07-fehler,4 Förder-Fehler,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-07-fehler/,geplant
+22.12.2026,gmb,11:00,bild,foerder-serie,foerder-07-fehler,4 Förder-Fehler,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-07-fehler/,geplant
+22.12.2026,instagram,18:00,karussell,foerder-serie,foerder-07-fehler,4 Förder-Fehler,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-07-fehler/,geplant
+22.12.2026,facebook,18:00,karussell,foerder-serie,foerder-07-fehler,4 Förder-Fehler,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-07-fehler/,geplant
+22.12.2026,youtube,19:00,short,foerder-serie,foerder-07-fehler,4 Förder-Fehler,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-07-fehler/short.mp4,geplant
+07.01.2027,linkedin-page,10:30,karussell,foerder-serie,foerder-08-ablauf,5 Schritte zur Förderung,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-08-ablauf/,geplant
+07.01.2027,gmb,11:00,bild,foerder-serie,foerder-08-ablauf,5 Schritte zur Förderung,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-08-ablauf/,geplant
+07.01.2027,instagram,18:00,karussell,foerder-serie,foerder-08-ablauf,5 Schritte zur Förderung,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-08-ablauf/,geplant
+07.01.2027,facebook,18:00,karussell,foerder-serie,foerder-08-ablauf,5 Schritte zur Förderung,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-08-ablauf/,geplant
+07.01.2027,youtube,19:00,short,foerder-serie,foerder-08-ablauf,5 Schritte zur Förderung,zahl/liste,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-08-ablauf/short.mp4,geplant
+12.01.2027,linkedin-page,10:30,karussell,foerder-serie,foerder-09-inqa-check,Passt INQA zu dir?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-09-inqa-check/,geplant
+12.01.2027,gmb,11:00,bild,foerder-serie,foerder-09-inqa-check,Passt INQA zu dir?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-09-inqa-check/,geplant
+12.01.2027,instagram,18:00,karussell,foerder-serie,foerder-09-inqa-check,Passt INQA zu dir?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-09-inqa-check/,geplant
+12.01.2027,facebook,18:00,karussell,foerder-serie,foerder-09-inqa-check,Passt INQA zu dir?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-09-inqa-check/,geplant
+12.01.2027,youtube,19:00,short,foerder-serie,foerder-09-inqa-check,Passt INQA zu dir?,frage,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-09-inqa-check/short.mp4,geplant
+14.01.2027,linkedin-page,10:30,karussell,foerder-serie,foerder-10-fahrplan,Förderung clever kombinieren,pov,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-10-fahrplan/,geplant
+14.01.2027,gmb,11:00,bild,foerder-serie,foerder-10-fahrplan,Förderung clever kombinieren,pov,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-10-fahrplan/,geplant
+14.01.2027,instagram,18:00,karussell,foerder-serie,foerder-10-fahrplan,Förderung clever kombinieren,pov,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-10-fahrplan/,geplant
+14.01.2027,facebook,18:00,karussell,foerder-serie,foerder-10-fahrplan,Förderung clever kombinieren,pov,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-10-fahrplan/,geplant
+14.01.2027,youtube,19:00,short,foerder-serie,foerder-10-fahrplan,Förderung clever kombinieren,pov,Fördermittel (BAFA/INQA/KI-Förderung MV),media/2026-11-20-foerder-serie/foerder-10-fahrplan/short.mp4,geplant
